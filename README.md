@@ -1,7 +1,5 @@
 
-# Mechanistic basis of substrate-O2 coupling within a chitin-active lytic polysaccharide
-monooxygenase: an integrated NMR/EPR study
-===========
+# Mechanistic basis of substrate-O2 coupling within a chitin-active lytic polysaccharide monooxygenase: an integrated NMR/EPR study
 
 This repository corresponds to the reference below, it includes the following code to generate figures and data in the paper:
 1. Python code for PRE calculations of Cu(II)-BlLPMO10A 
@@ -9,7 +7,7 @@ This repository corresponds to the reference below, it includes the following co
 
 
 ### Requirements
---------------------
+
 #### Python
 * Python >= 3.5
 * NumPy >= 1.11.2
