@@ -2,12 +2,20 @@
 This script does the following:
 1. Reads an enemble of PDB files and experimental PREs
 2. Finds the coordinates of the active site histidines
-3. Places a metal between the His
+3. Places a copper atom between the His
 4. Finds all the backbone amide H atoms
 5. Measures the distances between the H amides and the metal
 6. Measures the angles between the H amides and the metal
 7. Calculate PREs and saves them
-8. Plots them
+8. Plots them together with experimental PREs (H_0p05_PREs.dat)
+
+Part of the script uses code
+available from https://github.com/KULL-Centre/DEERpredict
+
+LICENSE: GNU General Public License v3.0
+
+Gaston Courtade - March 2020
+
 '''
 
 import numpy as np
