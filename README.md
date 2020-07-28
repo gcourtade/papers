@@ -25,10 +25,10 @@ If you use code in this repository, please cite
   title={Mechanistic basis of substrate-O2 coupling within a chitin-active lytic polysaccharide
 monooxygenase: an integrated NMR/EPR study},
   author={Courtade, Gaston and Ciano, Luisa and Paradisi, Alessandro and Lindley, Peter and Forsberg, Zarah and Sørlie, Morten and Wimmer, Reinhard and Davies, Gideon J. and Eijsink, Vincent G. H. and Walton, Paul H. and Aachmann, Finn L.},
-  journal={TBD},
+  journal={Proc. Natl. Acad. Sci.},
   pages={TBD},
   year={2020},
-  publisher={TBD}
+  doi={10.1073/pnas.2004277117}
 }
 ``` 
 
