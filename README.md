@@ -12,6 +12,7 @@ This repository corresponds to the reference below, it includes the following co
 * Python >= 3.5
 * NumPy >= 1.11.2
 * BioPandas >= 0.2.4
+* pandas = 0.24
 * Matplotlib 3.0
 
 #### YASARA
