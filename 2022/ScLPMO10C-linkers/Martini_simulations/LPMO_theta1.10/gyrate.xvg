@@ -1,0 +1,28 @@
+# This file was created Wed Aug  3 14:42:14 2022
+# Created by:
+#              :-) GROMACS - gmx gyrate, 2020.1-Ubuntu-2020.1-1 (-:
+# 
+# Executable:   /usr/bin/gmx
+# Data prefix:  /usr
+# Working dir:  /mnt/c/Users/courtade/OneDrive - NTNU/simulations/CelS2/LPMO_theta1.10
+# Command line:
+#   gmx gyrate -f frame18.pdb -s md2.tpr
+# gmx gyrate is part of G R O M A C S:
+#
+# Gromacs Runs On Most of All Computer Systems
+#
+@    title "Radius of gyration (total and around axes)"
+@    xaxis  label "Time (ps)"
+@    yaxis  label "Rg (nm)"
+@TYPE xy
+@ view 0.15, 0.15, 0.75, 0.85
+@ legend on
+@ legend box on
+@ legend loctype view
+@ legend 0.78, 0.8
+@ legend length 2
+@ s0 legend "Rg"
+@ s1 legend "Rg\sX\N"
+@ s2 legend "Rg\sY\N"
+@ s3 legend "Rg\sZ\N"
+     18000     3.37469     3.14395     3.27117     1.48058

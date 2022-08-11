@@ -1,0 +1,17 @@
+#include "/lustre/hpc/sbinlab/courtade/simulations/Martini30b417/v.3.0.4.17/martini_v3.0.4.itp"
+#include "AA.itp"
+#include "/lustre/hpc/sbinlab/courtade/simulations/Martini30b417/v.3.0.4.17/martini_v3.0_phospholipids.itp"
+#include "/lustre/hpc/sbinlab/courtade/simulations/Martini30b417/v.3.0.4.17/martini_v3.0_ions.itp"
+#include "/lustre/hpc/sbinlab/courtade/simulations/Martini30b417/v.3.0.4.17/martini_v3.0_solvents.itp"
+
+
+[ system ]
+; name
+Insanely solvated protein.
+
+[ molecules ]
+; name  number
+Protein        1
+W            34607
+NA            261
+CL            244
