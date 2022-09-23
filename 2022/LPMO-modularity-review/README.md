@@ -1,5 +1,3 @@
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Enzyme (regioselectivity, substrate specificity) | Modular organization of wild-type (WT) and truncation variants | Key findings | References |
+| ------------------------------------------------ | -------------------------------------------------------------- | -------- | ---------- |
+VcLPMO10B (GbpA) (C1-oxidizing, chitin)	| AA10-GbpA2-GbpA3-CBM73 (WT) AA10 AA10-GbpA2-GbpA3 GbpA2-GbpA3 CBM73 | Chitin-binding is mainly aided by the CBM and to a lesser extent by the LPMO domain. The LPMO domain is required for mucin binding and GbpA2 and GbpA3 in combination with the LPMO domain are important for intestinal colonization in a cholera mouse model. | Wong et al 2012 (24)
