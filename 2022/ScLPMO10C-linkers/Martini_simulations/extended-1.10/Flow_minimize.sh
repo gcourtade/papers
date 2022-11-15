@@ -18,7 +18,7 @@ rm *tpr
 theta=1.10
 $gmx grompp -f minimization.mdp -p AA_topol_SOL_IONS.top -c AA_SOL_IONS.gro -o min.tpr -pp all_AA.top -maxwarn 2
 
-perl /lustre/hpc/sbinlab/courtade/scripts/PWrescaling_Martini3b0417.pl -I all_AA.top -T $theta -O all_LPMO_theta$theta.top
+perl PWrescaling_Martini3b0417.pl -I all_AA.top -T $theta -O all_LPMO_theta$theta.top
 
 
 # minimization

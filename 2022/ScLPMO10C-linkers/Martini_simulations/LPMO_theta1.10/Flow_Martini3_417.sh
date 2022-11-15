@@ -6,8 +6,6 @@ source /lindorffgrp-isilon/wyong/software/GMX514/bin/GMXRC
 gmx=/lindorffgrp-isilon/wyong/software/GMX514/bin/gmx_mpi_plumed241
 
 theta=1.10
-perl /lindorffgrp-isilon/courtade/scripts/PWrescaling_Martini3b0417.pl -I ../RUN1/all_AA.top -T $theta -O all_LPMO_theta$theta.top
-
 
 # minimization
 $gmx grompp -f minimization.mdp -p all_LPMO_theta$theta.top -c LPMO_SOL_IONS.gro -o min.tpr -maxwarn 2
