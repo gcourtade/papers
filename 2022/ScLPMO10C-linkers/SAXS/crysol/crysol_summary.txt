@@ -1,0 +1,6 @@
+
+ Created by CRYSOL v. 28 on   03-Mar-2023   12:39:32
+
+ Batch: C:\Program Files\ATSAS-3.0.4\bin\crysol.exe -ns 51 -lm 15 -fb 17 -dns 0.33 -prefix aa10 -err -cst regrid_001_AA10.dat aa10.pdb
+ Data file name ......................................... : regrid_001_AA10.dat
+ Model: aa10.pdb              Rg:  16.05  Run:     Chi^2:    1.45

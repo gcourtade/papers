@@ -1,0 +1,68 @@
+  C R Y S O L    Version 2.8.3  -- 10/12/18
+ 
+ 
+ -- Program  started  at   03-Mar-2023   12:39:32--
+ 
+ --------  Real space resolution and grid  -------- 
+ 
+  Maximum order of harmonics ............................ : 15
+  Order of Fibonacci grid ............................... : 17
+  Total number of directions ............................ : 2585
+ 
+ ------------  Reciprocal space grid  -------------
+ 
+   in s = 4*pi*sin(theta)/lambda [1/angstrom] 
+  Maximum scattering angle .............................. : 0.5000
+  Number of angular points .............................. : 51
+ 
+ --- Structural parameters (sizes in angstroms) --- 
+ 
+ PDB file name .......................................... : aa10.pdb
+  Number of atoms read .................................. : 1482
+  Number of skipped rotamers ............................ : 15
+ Geometric Center:   32.027   41.600   66.486
+  Number of C ........................................... : 927
+  Number of N ........................................... : 252
+  Number of O ........................................... : 295
+  Number of S ........................................... : 7
+  Number of Cu .......................................... : 1
+ Center of the excess electron density: -0.245  0.305 -0.005
+ Electron   Rg   :  15.27       Envelope   Rg      :  15.39    
+ Shape      Rg   :  15.26       Envelope  volume   : 0.2221E+05
+ Shell    volume : 0.1222E+05   Envelope  surface  :  3474.    
+ Shell      Rg   :  20.88       Envelope  radius   :  28.62    
+ Shell    width  :  3.000       Envelope  diameter :  48.64    
+ Molecular Weight: 0.2103E+05   Dry volume         : 0.2549E+05
+ Displaced volume: 0.2567E+05   Average atomic rad.:  1.605    
+ Number of residuals :     196
+ 
+ ------  Experimental Curve and fitting ----------- 
+ 
+ Constant subtraction ................................... : Y
+ Data file name ......................................... : regrid_001_AA10.dat
+  Maximum angle in the data file ........................ : 0.7217
+  Number of experimental points ......................... : 81
+  Angular units multiplied by ........................... : 1.000
+  Number of experimental points used .................... : 59
+ No regridding. Number of exp points kept
+ Electron density of the solvent, e/A**3 ................ : 0.3300
+  Number of experimental points used .................... : 58
+ Average intensity in the outer part .................... : 1.658E-04
+ 
+ -------  Search limits ---------------   ---  Fitting parameters -------
+  DroMin/Max   Ra(Mn/Mx)  ExVol(Min/max) Semax| Dro   Ra     Vol    Chi^2 Hydra
+ 0.000 0.075   1.40 1.80  23744.  27594. 0.494|0.018 1.780  25925.  1.450 0.363
+  -- RelBCK limits:-0.500 0.500; BCK0 (rel/abs) :  0.440 /  0.729E-04
+  
+ --------  Radii of gyration  [angstroms] ----------
+  
+ Rg ( Atoms - Excluded volume + Shell ) ................. : 15.84
+ Rg from the slope of net intensity ..................... : 16.05
+ --WARNING: Recompute the intensity with LM= 16
+ Average electron density ............................... : 0.4311
+  
+ ----------------  Output files  ------------------
+  
+ Data fit       saved to file aa10.fit
+ 
+  C R Y S O L    Version 2.8.3  -- 10/12/18 ----  terminated at   03-Mar-2023   12:39:32--
