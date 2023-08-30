@@ -1,1 +1,1 @@
-Scripts, data, etc for papers
+Data, scripts and other files related to papers.
