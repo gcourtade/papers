@@ -1,8 +1,7 @@
 # Development of a *Vibrio natriegens*-based plate-clearing assay for rapid screening of PET-hydrolyzing enzymes  
 This GitHub repository contains the raw data and scripts for the following paper. Please cite accordingly if you use any of the code or data in this repository.
-```
+
 Bolstad I. M., Troøyen S. H., Luciano D., Fojan P., Petersen E., Courtade G. Development of a *Vibrio natriegens*-based plate-clearing assay for rapid screening of PET-hydrolyzing enzymes **2025** TBD
-```
 
 ## Contents
 [**All_proteins**](https://github.com/gcourtade/masters/tree/main/2024/IBM_denovo_PET/All_proteins) contains .pdb files of all _de novo_ proteins in this project. These are output-files from [RFdiffusion](https://doi.org/10.1038/s41586-023-06415-8) + [ProteinMPNN](https://www.science.org/doi/10.1126/science.add2187).
