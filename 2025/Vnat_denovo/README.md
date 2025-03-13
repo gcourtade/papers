@@ -4,7 +4,7 @@ This GitHub repository contains the raw data and scripts for the following paper
 Bolstad I. M., Troøyen S. H., Luciano D., Petersen E., Courtade G. (2025) Development of a *Vibrio natriegens*-based plate-clearing assay for rapid screening of PET-hydrolyzing enzymes. TBD
 
 ## Contents
-[**All_proteins**](https://github.com/gcourtade/masters/tree/main/2024/IBM_denovo_PET/All_proteins) contains .pdb files of all _de novo_ proteins in this project. These are output-files from [RFdiffusion](https://doi.org/10.1038/s41586-023-06415-8) + [ProteinMPNN](https://www.science.org/doi/10.1126/science.add2187).
+[**All_proteins**](https://github.com/gcourtade/masters/tree/main/2024/IBM_denovo_PET/All_proteins) contains .pdb files of all _de novo_ proteins in this project. These are output-files from [RFdiffusion](https://doi.org/10.1038/s41586-023-06415-8) + [ProteinMPNN](https://www.science.org/doi/10.1126/science.add2187). For generating _de novo_ proteins we used a [Google Colab notebook](https://colab.research.google.com/drive/1eV4ksbH6JdGpEnn9lF1SEbDV9uuff8Dy?usp=sharing&authuser=1&pli=1#scrollTo=TuRUfQJZ4vkM.) made by modifying code from the RFdiffusion [Colab Design](https://github.com/sokrypton/ColabDesign) notebook.
 
 [**CD**](https://github.com/gcourtade/masters/tree/main/2024/IBM_denovo_PET/CD) contains code and raw data from the circular dichroism analysis. The notebook _CD\_secondarystructure.ipynb_ plots the CD spectrum of B22 and additionally makes a pie chart of the secondary structure deconvolution of the spectrum performed by [CDNN 2.1](https://pubmed.ncbi.nlm.nih.gov/1409538/). The notebook _CD\_thermostability.ipynb_ plots the melt curve of B22 and finds an estimate of the apparent melting temperature.
 
