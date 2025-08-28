@@ -1,2 +1,2 @@
 # Computational characterization of the xanthan gum glycosyltransferase GumK
-Code, data, etc for the manuscript.
+Data and scripts used for running and analyzing simulations, and for generating the figures in the paper.
