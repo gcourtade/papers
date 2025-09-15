@@ -1,0 +1,23 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 7
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:/Users/nmrsu/Documents/data/courtade/nmr/AA14_peptide/8/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-04-10 18:30:45.960 +0200>,<nmrsu>,<NMR800>,<go4>,<TopSpin 3.5.7>,
+      <created by zg
+	started at 2024-04-10 18:18:32.806 +0200,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       2C 9D 71 A3 47 0D F8 9B 24 24 E7 56 4F EE 9F 16
+       data hash MD5: 2K * 80
+       E5 B3 6D 84 70 4B ED 83 FF B4 A8 FF 75 D6 48 C0>)
+(   2,<2024-04-10 18:30:46.007 +0200>,<nmrsu>,<NMR800>,<audit>,<TopSpin 3.5.7>,
+      <user comment:
+       ICON-NMR User ID: courtade
+       data hash MD5: 2K * 80
+       E5 B3 6D 84 70 4B ED 83 FF B4 A8 FF 75 D6 48 C0>)
+##END=
+
+$$ hash MD5
+$$ F1 94 5E 1D 71 00 62 AF 2C E8 90 87 E5 AF 2E EE

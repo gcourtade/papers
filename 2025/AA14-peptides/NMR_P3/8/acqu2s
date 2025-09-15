@@ -1,0 +1,23 @@
+##TITLE= Parameter file, TopSpin 3.5 pl 7
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 82	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ 2024-04-10 18:30:43.277 +0200  nmrsu@NMR800
+$$ C:/Users/nmrsu/Documents/data/courtade/nmr/AA14_peptide/8/acqu2s
+$$ process C:\Bruker\TopSpin3.5pl7\prog\mod\go4.exe
+##$ACQT0= 0
+##$BF1= 81.066335874
+##$FnMODE= 6
+##$NUC1= <15N>
+##$NusJSP= 0
+##$NusT2= 1
+##$NusTD= 80
+##$O1= 9646.894
+##$ProjAngle= 0
+##$SFO1= 81.075982768
+##$SW= 19.9969340015684
+##$SW_h= 1621.27107652399
+##$TD= 80
+##END=

@@ -1,0 +1,14 @@
+/------------ auto_run started at 2024-04-10	18:18:19 --------------/ 
+C:\Users\nmrsu\Documents\data\courtade\nmr AA14_peptide 8 
+Holder: 240 
+Probe: CP TCI 800S4 H-C/N-D-05 Z
+ Tmax=333.2 Tmin=278.0 
+TE set to  298.1
+PROBE: CP TCI 800S4 H-C/N-D-05 Z
+	
+ TEMPERATURE adjustment:	Neither holder no. (240) nor TE (298.100) have changed from the previous experiment. Skipping TEREADY.
+AUTOSHIM on
+PULSE ANGLE adjustment:	set_P1 executed
+O1 adjustment:	set_O1 executed
+RG adjustment:	 RGA executed
+Acquisition started.

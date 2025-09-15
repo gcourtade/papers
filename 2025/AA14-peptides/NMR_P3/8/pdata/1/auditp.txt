@@ -1,0 +1,35 @@
+##TITLE= Audit trail, TopSpin 4.3.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= courtade
+$$ /home/courtade/Documents/nmrdata/AA14_peptide/8/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-04-10 18:30:45.960 +0200>,<nmrsu>,<NMR800>,<go4>,<TopSpin 3.5.7>,
+      <created by zg
+	started at 2024-04-10 18:18:32.806 +0200,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       2C 9D 71 A3 47 0D F8 9B 24 24 E7 56 4F EE 9F 16
+       data hash MD5: 2K * 80
+       E5 B3 6D 84 70 4B ED 83 FF B4 A8 FF 75 D6 48 C0>)
+(   2,<2024-04-10 18:30:46.007 +0200>,<nmrsu>,<NMR800>,<audit>,<TopSpin 3.5.7>,
+      <user comment:
+       ICON-NMR User ID: courtade
+       data hash MD5: 2K * 80
+       E5 B3 6D 84 70 4B ED 83 FF B4 A8 FF 75 D6 48 C0>)
+(   3,<2024-04-11T12:18:56.627+0200>,<courtade>,<ntnu22911>,<proc2d>,<TopSpin 4.3.0>,
+      <Start of raw data processing
+       xfb F2: SI = 2K BC_mod = 4 WDW = 4 SSB = 2 FT_mod = 6 PKNL = 1 PHC0 = 0 PHC1 = 0 F1: SI = 256 ME_mod = 2 NCOEF = 32 WDW = 4 SSB = 2 FT_mod = 6 FCOR = 0.5 PHC0 = 0 PHC1 = 0
+       data hash MD5: 2K * 256
+       D7 64 B6 F7 CB 43 31 2C 61 4C 39 AA D8 65 F7 49>)
+(   4,<2024-04-11T12:19:11.346+0200>,<courtade>,<ntnu22911>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F2 STSI to 620>)
+(   5,<2024-04-11T12:19:14.946+0200>,<courtade>,<ntnu22911>,<proc2d>,<TopSpin 4.3.0>,
+      <Start of raw data processing
+       xfb F2: SI = 2K BC_mod = 4 WDW = 4 SSB = 2 FT_mod = 6 PKNL = 1 STSR = 0 STSI = 620 PHC0 = 0 PHC1 = 0 F1: SI = 256 ME_mod = 2 NCOEF = 32 WDW = 4 SSB = 2 FT_mod = 6 FCOR = 0.5 PHC0 = 0 PHC1 = 0
+       data hash MD5: 624 * 256
+       97 39 44 78 17 17 4A B8 87 50 F8 44 E5 9A ED 9E>)
+##END=
+
+$$ hash MD5
+$$ D9 0E 3C EB 3F 8A D5 12 94 C5 07 56 90 82 2C 1F

@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TopSpin 3.5 pl 7
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 2	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ 2024-04-10 14:11:13.905 +0200  nmrsu@NMR800
+$$ C:\Bruker\TopSpin3.5pl7\prog\curdir\changer\inmrchanger\Sep05-2023-1510-nmrsu\240\240.960\data\nmr/AA14_peptide/8/pdata/1/outd
+$$ process C:\Bruker\TopSpin3.5pl7\prog\mod\edparproc.exe
+##$CURPLOT= <A4>
+##$CURPRIN= <$1#1#0#1#1#1#1#1#0#-1#-1#1#-1>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/2D_inv.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=
