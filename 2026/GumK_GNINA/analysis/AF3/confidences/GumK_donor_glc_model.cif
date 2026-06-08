@@ -1,0 +1,1616 @@
+# By using this file you agree to the legally binding terms of use found at
+# https://github.com/google-deepmind/alphafold3/blob/main/OUTPUT_TERMS_OF_USE.md.
+# To request access to the AlphaFold 3 model parameters, follow the process set
+# out at https://github.com/google-deepmind/alphafold3. You may only use these if
+# received directly from Google. Use is subject to terms of use available at
+# https://github.com/google-deepmind/alphafold3/blob/main/WEIGHTS_TERMS_OF_USE.md.
+data_GumK_donor_glc
+#
+_entry.id GumK_donor_glc
+#
+loop_
+_atom_type.symbol
+C 
+N 
+O 
+P 
+S 
+#
+loop_
+_audit_author.name
+_audit_author.pdbx_ordinal
+"Google DeepMind" 1 
+"Isomorphic Labs" 2 
+#
+_audit_conform.dict_location https://raw.githubusercontent.com/ihmwg/ModelCIF/master/dist/mmcif_ma.dic
+_audit_conform.dict_name     mmcif_ma.dic
+_audit_conform.dict_version  1.4.5
+#
+loop_
+_chem_comp.formula
+_chem_comp.formula_weight
+_chem_comp.id
+_chem_comp.mon_nstd_flag
+_chem_comp.name
+_chem_comp.pdbx_smiles
+_chem_comp.pdbx_synonyms
+_chem_comp.type
+"C3 H7 N O2"        89.093  ALA y ALANINE                          C[C@@H](C(=O)O)N                                                                                                         ?                                                             "L-PEPTIDE LINKING" 
+"C6 H15 N4 O2"      175.209 ARG y ARGININE                         C(C[C@@H](C(=O)O)N)CNC(=[NH2+])N                                                                                         ?                                                             "L-PEPTIDE LINKING" 
+"C4 H8 N2 O3"       132.118 ASN y ASPARAGINE                       C([C@@H](C(=O)O)N)C(=O)N                                                                                                 ?                                                             "L-PEPTIDE LINKING" 
+"C4 H7 N O4"        133.103 ASP y "ASPARTIC ACID"                  C([C@@H](C(=O)O)N)C(=O)O                                                                                                 ?                                                             "L-PEPTIDE LINKING" 
+"C3 H7 N O2 S"      121.158 CYS y CYSTEINE                         C([C@@H](C(=O)O)N)S                                                                                                      ?                                                             "L-PEPTIDE LINKING" 
+"C5 H10 N2 O3"      146.144 GLN y GLUTAMINE                        C(CC(=O)N)[C@@H](C(=O)O)N                                                                                                ?                                                             "L-PEPTIDE LINKING" 
+"C5 H9 N O4"        147.129 GLU y "GLUTAMIC ACID"                  C(CC(=O)O)[C@@H](C(=O)O)N                                                                                                ?                                                             "L-PEPTIDE LINKING" 
+"C2 H5 N O2"        75.067  GLY y GLYCINE                          C(C(=O)O)N                                                                                                               ?                                                             "PEPTIDE LINKING"   
+"C6 H10 N3 O2"      156.162 HIS y HISTIDINE                        c1c([nH+]c[nH]1)C[C@@H](C(=O)O)N                                                                                         ?                                                             "L-PEPTIDE LINKING" 
+"C6 H13 N O2"       131.173 ILE y ISOLEUCINE                       CC[C@H](C)[C@@H](C(=O)O)N                                                                                                ?                                                             "L-PEPTIDE LINKING" 
+"C6 H13 N O2"       131.173 LEU y LEUCINE                          CC(C)C[C@@H](C(=O)O)N                                                                                                    ?                                                             "L-PEPTIDE LINKING" 
+"C6 H15 N2 O2"      147.195 LYS y LYSINE                           C(CC[NH3+])C[C@@H](C(=O)O)N                                                                                              ?                                                             "L-PEPTIDE LINKING" 
+"C5 H11 N O2 S"     149.211 MET y METHIONINE                       CSCC[C@@H](C(=O)O)N                                                                                                      ?                                                             "L-PEPTIDE LINKING" 
+"C9 H11 N O2"       165.189 PHE y PHENYLALANINE                    c1ccc(cc1)C[C@@H](C(=O)O)N                                                                                               ?                                                             "L-PEPTIDE LINKING" 
+"C5 H9 N O2"        115.130 PRO y PROLINE                          C1C[C@H](NC1)C(=O)O                                                                                                      ?                                                             "L-PEPTIDE LINKING" 
+"C3 H7 N O3"        105.093 SER y SERINE                           C([C@@H](C(=O)O)N)O                                                                                                      ?                                                             "L-PEPTIDE LINKING" 
+"C4 H9 N O3"        119.119 THR y THREONINE                        C[C@H]([C@@H](C(=O)O)N)O                                                                                                 ?                                                             "L-PEPTIDE LINKING" 
+"C9 H11 N O3"       181.189 TYR y TYROSINE                         c1cc(ccc1C[C@@H](C(=O)O)N)O                                                                                              ?                                                             "L-PEPTIDE LINKING" 
+"C15 H24 N2 O17 P2" 566.302 UPG . "URIDINE-5'-DIPHOSPHATE-GLUCOSE" C1=CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)CO[P@](=O)(O)O[P@](=O)(O)O[C@@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O)O "URIDINE-5'-MONOPHOSPHATE GLUCOPYRANOSYL-MONOPHOSPHATE ESTER" NON-POLYMER         
+"C5 H11 N O2"       117.146 VAL y VALINE                           CC(C)[C@@H](C(=O)O)N                                                                                                     ?                                                             "L-PEPTIDE LINKING" 
+#
+_citation.book_publisher          ?
+_citation.country                 UK
+_citation.id                      primary
+_citation.journal_full            Nature
+_citation.journal_id_ASTM         NATUAS
+_citation.journal_id_CSD          0006
+_citation.journal_id_ISSN         0028-0836
+_citation.journal_volume          630
+_citation.page_first              493
+_citation.page_last               500
+_citation.pdbx_database_id_DOI    10.1038/s41586-024-07487-w
+_citation.pdbx_database_id_PubMed 38718835
+_citation.title                   "Accurate structure prediction of biomolecular interactions with AlphaFold 3"
+_citation.year                    2024
+#
+loop_
+_citation_author.citation_id
+_citation_author.name
+_citation_author.ordinal
+primary "Google DeepMind" 1 
+primary "Isomorphic Labs" 2 
+#
+loop_
+_entity.id
+_entity.pdbx_description
+_entity.type
+1 . polymer     
+2 . non-polymer 
+#
+_entity_poly.entity_id      1
+_entity_poly.pdbx_strand_id GUMK
+_entity_poly.type           polypeptide(L)
+#
+loop_
+_entity_poly_seq.entity_id
+_entity_poly_seq.hetero
+_entity_poly_seq.mon_id
+_entity_poly_seq.num
+1 n HIS 1   
+1 n ALA 2   
+1 n VAL 3   
+1 n ALA 4   
+1 n VAL 5   
+1 n GLY 6   
+1 n SER 7   
+1 n MET 8   
+1 n LEU 9   
+1 n PHE 10  
+1 n ASP 11  
+1 n PRO 12  
+1 n GLU 13  
+1 n PHE 14  
+1 n PHE 15  
+1 n VAL 16  
+1 n VAL 17  
+1 n ALA 18  
+1 n SER 19  
+1 n LYS 20  
+1 n ALA 21  
+1 n PHE 22  
+1 n PRO 23  
+1 n GLN 24  
+1 n VAL 25  
+1 n THR 26  
+1 n PHE 27  
+1 n HIS 28  
+1 n VAL 29  
+1 n ILE 30  
+1 n GLY 31  
+1 n SER 32  
+1 n GLY 33  
+1 n MET 34  
+1 n GLY 35  
+1 n ARG 36  
+1 n HIS 37  
+1 n PRO 38  
+1 n GLY 39  
+1 n TYR 40  
+1 n GLY 41  
+1 n ASP 42  
+1 n ASN 43  
+1 n VAL 44  
+1 n ILE 45  
+1 n VAL 46  
+1 n TYR 47  
+1 n GLY 48  
+1 n GLU 49  
+1 n MET 50  
+1 n LYS 51  
+1 n HIS 52  
+1 n ALA 53  
+1 n GLN 54  
+1 n THR 55  
+1 n ILE 56  
+1 n GLY 57  
+1 n TYR 58  
+1 n ILE 59  
+1 n LYS 60  
+1 n HIS 61  
+1 n ALA 62  
+1 n ARG 63  
+1 n PHE 64  
+1 n GLY 65  
+1 n ILE 66  
+1 n ALA 67  
+1 n PRO 68  
+1 n TYR 69  
+1 n ALA 70  
+1 n SER 71  
+1 n GLU 72  
+1 n GLN 73  
+1 n VAL 74  
+1 n PRO 75  
+1 n VAL 76  
+1 n TYR 77  
+1 n LEU 78  
+1 n ALA 79  
+1 n ASP 80  
+1 n SER 81  
+1 n SER 82  
+1 n MET 83  
+1 n LYS 84  
+1 n LEU 85  
+1 n LEU 86  
+1 n GLN 87  
+1 n TYR 88  
+1 n ASP 89  
+1 n PHE 90  
+1 n PHE 91  
+1 n GLY 92  
+1 n LEU 93  
+1 n PRO 94  
+1 n ALA 95  
+1 n VAL 96  
+1 n CYS 97  
+1 n PRO 98  
+1 n ASN 99  
+1 n ALA 100 
+1 n VAL 101 
+1 n VAL 102 
+1 n GLY 103 
+1 n PRO 104 
+1 n TYR 105 
+1 n LYS 106 
+1 n SER 107 
+1 n ARG 108 
+1 n PHE 109 
+1 n GLY 110 
+1 n TYR 111 
+1 n THR 112 
+1 n PRO 113 
+1 n GLY 114 
+1 n ASN 115 
+1 n ALA 116 
+1 n ASP 117 
+1 n SER 118 
+1 n VAL 119 
+1 n ILE 120 
+1 n ALA 121 
+1 n ALA 122 
+1 n ILE 123 
+1 n THR 124 
+1 n GLN 125 
+1 n ALA 126 
+1 n LEU 127 
+#
+_ma_data.content_type "model coordinates"
+_ma_data.id           1
+_ma_data.name         Model
+#
+_ma_model_list.data_id          1
+_ma_model_list.model_group_id   1
+_ma_model_list.model_group_name "AlphaFold-beta-20231127 (3.0.1 @ 2026-06-08 10:17:53)"
+_ma_model_list.model_id         1
+_ma_model_list.model_name       "Top ranked model"
+_ma_model_list.model_type       "Ab initio model"
+_ma_model_list.ordinal_id       1
+#
+loop_
+_ma_protocol_step.method_type
+_ma_protocol_step.ordinal_id
+_ma_protocol_step.protocol_id
+_ma_protocol_step.step_id
+"coevolution MSA" 1 1 1 
+"template search" 2 1 2 
+modeling          3 1 3 
+#
+loop_
+_ma_qa_metric.id
+_ma_qa_metric.mode
+_ma_qa_metric.name
+_ma_qa_metric.software_group_id
+_ma_qa_metric.type
+1 global pLDDT 1 pLDDT 
+2 local  pLDDT 1 pLDDT 
+#
+_ma_qa_metric_global.metric_id    1
+_ma_qa_metric_global.metric_value 94.29
+_ma_qa_metric_global.model_id     1
+_ma_qa_metric_global.ordinal_id   1
+#
+loop_
+_ma_qa_metric_local.label_asym_id
+_ma_qa_metric_local.label_comp_id
+_ma_qa_metric_local.label_seq_id
+_ma_qa_metric_local.metric_id
+_ma_qa_metric_local.metric_value
+_ma_qa_metric_local.model_id
+_ma_qa_metric_local.ordinal_id
+GUMK  HIS 1   2 90.96 1 1   
+GUMK  ALA 2   2 98.77 1 2   
+GUMK  VAL 3   2 97.29 1 3   
+GUMK  ALA 4   2 98.77 1 4   
+GUMK  VAL 5   2 97.27 1 5   
+GUMK  GLY 6   2 98.05 1 6   
+GUMK  SER 7   2 96.37 1 7   
+GUMK  MET 8   2 92.15 1 8   
+GUMK  LEU 9   2 94.41 1 9   
+GUMK  PHE 10  2 98.07 1 10  
+GUMK  ASP 11  2 97.66 1 11  
+GUMK  PRO 12  2 98.16 1 12  
+GUMK  GLU 13  2 92.46 1 13  
+GUMK  PHE 14  2 98.72 1 14  
+GUMK  PHE 15  2 98.74 1 15  
+GUMK  VAL 16  2 98.50 1 16  
+GUMK  VAL 17  2 98.37 1 17  
+GUMK  ALA 18  2 98.81 1 18  
+GUMK  SER 19  2 98.49 1 19  
+GUMK  LYS 20  2 86.22 1 20  
+GUMK  ALA 21  2 98.67 1 21  
+GUMK  PHE 22  2 98.75 1 22  
+GUMK  PRO 23  2 97.92 1 23  
+GUMK  GLN 24  2 92.42 1 24  
+GUMK  VAL 25  2 98.54 1 25  
+GUMK  THR 26  2 98.32 1 26  
+GUMK  PHE 27  2 98.86 1 27  
+GUMK  HIS 28  2 98.13 1 28  
+GUMK  VAL 29  2 98.67 1 29  
+GUMK  ILE 30  2 98.58 1 30  
+GUMK  GLY 31  2 98.58 1 31  
+GUMK  SER 32  2 98.11 1 32  
+GUMK  GLY 33  2 97.50 1 33  
+GUMK  MET 34  2 92.63 1 34  
+GUMK  GLY 35  2 96.59 1 35  
+GUMK  ARG 36  2 92.19 1 36  
+GUMK  HIS 37  2 91.99 1 37  
+GUMK  PRO 38  2 96.35 1 38  
+GUMK  GLY 39  2 98.23 1 39  
+GUMK  TYR 40  2 98.32 1 40  
+GUMK  GLY 41  2 98.34 1 41  
+GUMK  ASP 42  2 94.12 1 42  
+GUMK  ASN 43  2 97.84 1 43  
+GUMK  VAL 44  2 98.60 1 44  
+GUMK  ILE 45  2 96.38 1 45  
+GUMK  VAL 46  2 98.07 1 46  
+GUMK  TYR 47  2 97.98 1 47  
+GUMK  GLY 48  2 97.52 1 48  
+GUMK  GLU 49  2 87.72 1 49  
+GUMK  MET 50  2 96.92 1 50  
+GUMK  LYS 51  2 88.67 1 51  
+GUMK  HIS 52  2 91.15 1 52  
+GUMK  ALA 53  2 96.95 1 53  
+GUMK  GLN 54  2 89.72 1 54  
+GUMK  THR 55  2 97.37 1 55  
+GUMK  ILE 56  2 93.19 1 56  
+GUMK  GLY 57  2 96.75 1 57  
+GUMK  TYR 58  2 97.21 1 58  
+GUMK  ILE 59  2 96.60 1 59  
+GUMK  LYS 60  2 88.07 1 60  
+GUMK  HIS 61  2 86.59 1 61  
+GUMK  ALA 62  2 97.92 1 62  
+GUMK  ARG 63  2 83.45 1 63  
+GUMK  PHE 64  2 98.73 1 64  
+GUMK  GLY 65  2 98.87 1 65  
+GUMK  ILE 66  2 98.58 1 66  
+GUMK  ALA 67  2 98.48 1 67  
+GUMK  PRO 68  2 98.20 1 68  
+GUMK  TYR 69  2 97.51 1 69  
+GUMK  ALA 70  2 92.97 1 70  
+GUMK  SER 71  2 82.63 1 71  
+GUMK  GLU 72  2 70.55 1 72  
+GUMK  GLN 73  2 77.00 1 73  
+GUMK  VAL 74  2 86.10 1 74  
+GUMK  PRO 75  2 87.38 1 75  
+GUMK  VAL 76  2 85.37 1 76  
+GUMK  TYR 77  2 79.29 1 77  
+GUMK  LEU 78  2 87.28 1 78  
+GUMK  ALA 79  2 90.61 1 79  
+GUMK  ASP 80  2 88.05 1 80  
+GUMK  SER 81  2 92.37 1 81  
+GUMK  SER 82  2 95.74 1 82  
+GUMK  MET 83  2 90.33 1 83  
+GUMK  LYS 84  2 95.85 1 84  
+GUMK  LEU 85  2 97.33 1 85  
+GUMK  LEU 86  2 92.07 1 86  
+GUMK  GLN 87  2 94.02 1 87  
+GUMK  TYR 88  2 97.99 1 88  
+GUMK  ASP 89  2 90.88 1 89  
+GUMK  PHE 90  2 89.64 1 90  
+GUMK  PHE 91  2 89.99 1 91  
+GUMK  GLY 92  2 95.70 1 92  
+GUMK  LEU 93  2 94.61 1 93  
+GUMK  PRO 94  2 97.80 1 94  
+GUMK  ALA 95  2 98.59 1 95  
+GUMK  VAL 96  2 98.69 1 96  
+GUMK  CYS 97  2 98.09 1 97  
+GUMK  PRO 98  2 97.39 1 98  
+GUMK  ASN 99  2 94.72 1 99  
+GUMK  ALA 100 2 95.01 1 100 
+GUMK  VAL 101 2 95.37 1 101 
+GUMK  VAL 102 2 94.97 1 102 
+GUMK  GLY 103 2 94.02 1 103 
+GUMK  PRO 104 2 93.34 1 104 
+GUMK  TYR 105 2 91.62 1 105 
+GUMK  LYS 106 2 84.10 1 106 
+GUMK  SER 107 2 96.04 1 107 
+GUMK  ARG 108 2 96.85 1 108 
+GUMK  PHE 109 2 98.12 1 109 
+GUMK  GLY 110 2 98.25 1 110 
+GUMK  TYR 111 2 98.06 1 111 
+GUMK  THR 112 2 96.59 1 112 
+GUMK  PRO 113 2 96.80 1 113 
+GUMK  GLY 114 2 96.66 1 114 
+GUMK  ASN 115 2 96.51 1 115 
+GUMK  ALA 116 2 98.32 1 116 
+GUMK  ASP 117 2 96.92 1 117 
+GUMK  SER 118 2 98.36 1 118 
+GUMK  VAL 119 2 98.60 1 119 
+GUMK  ILE 120 2 98.33 1 120 
+GUMK  ALA 121 2 98.76 1 121 
+GUMK  ALA 122 2 98.79 1 122 
+GUMK  ILE 123 2 98.75 1 123 
+GUMK  THR 124 2 97.94 1 124 
+GUMK  GLN 125 2 92.52 1 125 
+GUMK  ALA 126 2 98.06 1 126 
+GUMK  LEU 127 2 93.81 1 127 
+DONOR UPG .   2 90.52 1 128 
+#
+_ma_software_group.group_id    1
+_ma_software_group.ordinal_id  1
+_ma_software_group.software_id 1
+#
+loop_
+_ma_target_entity.data_id
+_ma_target_entity.entity_id
+_ma_target_entity.origin
+1 1 . 
+1 2 . 
+#
+loop_
+_ma_target_entity_instance.asym_id
+_ma_target_entity_instance.details
+_ma_target_entity_instance.entity_id
+GUMK  . 1 
+DONOR . 2 
+#
+loop_
+_pdbx_data_usage.details
+_pdbx_data_usage.id
+_pdbx_data_usage.type
+_pdbx_data_usage.url
+;Non-commercial use only, by using this file you agree to the terms of use found
+at https://github.com/google-deepmind/alphafold3/blob/main/OUTPUT_TERMS_OF_USE.md.
+To request access to the AlphaFold 3 model parameters, follow the process set
+out at https://github.com/google-deepmind/alphafold3. You may only use these if
+received directly from Google. Use is subject to terms of use available at
+https://github.com/google-deepmind/alphafold3/blob/main/WEIGHTS_TERMS_OF_USE.md.
+;
+1 license    https://github.com/google-deepmind/alphafold3/blob/main/OUTPUT_TERMS_OF_USE.md 
+;AlphaFold 3 and its output are not intended for, have not been validated for,
+and are not approved for clinical use. They are provided "as-is" without any
+warranty of any kind, whether expressed or implied. No warranty is given that
+use shall not infringe the rights of any third party.
+;
+2 disclaimer ?                                                                              
+#
+_pdbx_nonpoly_scheme.asym_id       DONOR
+_pdbx_nonpoly_scheme.auth_seq_num  1
+_pdbx_nonpoly_scheme.entity_id     2
+_pdbx_nonpoly_scheme.mon_id        UPG
+_pdbx_nonpoly_scheme.pdb_ins_code  .
+_pdbx_nonpoly_scheme.pdb_seq_num   1
+_pdbx_nonpoly_scheme.pdb_strand_id DONOR
+#
+loop_
+_pdbx_poly_seq_scheme.asym_id
+_pdbx_poly_seq_scheme.auth_seq_num
+_pdbx_poly_seq_scheme.entity_id
+_pdbx_poly_seq_scheme.hetero
+_pdbx_poly_seq_scheme.mon_id
+_pdbx_poly_seq_scheme.pdb_ins_code
+_pdbx_poly_seq_scheme.pdb_seq_num
+_pdbx_poly_seq_scheme.pdb_strand_id
+_pdbx_poly_seq_scheme.seq_id
+GUMK 1   1 n HIS . 1   GUMK 1   
+GUMK 2   1 n ALA . 2   GUMK 2   
+GUMK 3   1 n VAL . 3   GUMK 3   
+GUMK 4   1 n ALA . 4   GUMK 4   
+GUMK 5   1 n VAL . 5   GUMK 5   
+GUMK 6   1 n GLY . 6   GUMK 6   
+GUMK 7   1 n SER . 7   GUMK 7   
+GUMK 8   1 n MET . 8   GUMK 8   
+GUMK 9   1 n LEU . 9   GUMK 9   
+GUMK 10  1 n PHE . 10  GUMK 10  
+GUMK 11  1 n ASP . 11  GUMK 11  
+GUMK 12  1 n PRO . 12  GUMK 12  
+GUMK 13  1 n GLU . 13  GUMK 13  
+GUMK 14  1 n PHE . 14  GUMK 14  
+GUMK 15  1 n PHE . 15  GUMK 15  
+GUMK 16  1 n VAL . 16  GUMK 16  
+GUMK 17  1 n VAL . 17  GUMK 17  
+GUMK 18  1 n ALA . 18  GUMK 18  
+GUMK 19  1 n SER . 19  GUMK 19  
+GUMK 20  1 n LYS . 20  GUMK 20  
+GUMK 21  1 n ALA . 21  GUMK 21  
+GUMK 22  1 n PHE . 22  GUMK 22  
+GUMK 23  1 n PRO . 23  GUMK 23  
+GUMK 24  1 n GLN . 24  GUMK 24  
+GUMK 25  1 n VAL . 25  GUMK 25  
+GUMK 26  1 n THR . 26  GUMK 26  
+GUMK 27  1 n PHE . 27  GUMK 27  
+GUMK 28  1 n HIS . 28  GUMK 28  
+GUMK 29  1 n VAL . 29  GUMK 29  
+GUMK 30  1 n ILE . 30  GUMK 30  
+GUMK 31  1 n GLY . 31  GUMK 31  
+GUMK 32  1 n SER . 32  GUMK 32  
+GUMK 33  1 n GLY . 33  GUMK 33  
+GUMK 34  1 n MET . 34  GUMK 34  
+GUMK 35  1 n GLY . 35  GUMK 35  
+GUMK 36  1 n ARG . 36  GUMK 36  
+GUMK 37  1 n HIS . 37  GUMK 37  
+GUMK 38  1 n PRO . 38  GUMK 38  
+GUMK 39  1 n GLY . 39  GUMK 39  
+GUMK 40  1 n TYR . 40  GUMK 40  
+GUMK 41  1 n GLY . 41  GUMK 41  
+GUMK 42  1 n ASP . 42  GUMK 42  
+GUMK 43  1 n ASN . 43  GUMK 43  
+GUMK 44  1 n VAL . 44  GUMK 44  
+GUMK 45  1 n ILE . 45  GUMK 45  
+GUMK 46  1 n VAL . 46  GUMK 46  
+GUMK 47  1 n TYR . 47  GUMK 47  
+GUMK 48  1 n GLY . 48  GUMK 48  
+GUMK 49  1 n GLU . 49  GUMK 49  
+GUMK 50  1 n MET . 50  GUMK 50  
+GUMK 51  1 n LYS . 51  GUMK 51  
+GUMK 52  1 n HIS . 52  GUMK 52  
+GUMK 53  1 n ALA . 53  GUMK 53  
+GUMK 54  1 n GLN . 54  GUMK 54  
+GUMK 55  1 n THR . 55  GUMK 55  
+GUMK 56  1 n ILE . 56  GUMK 56  
+GUMK 57  1 n GLY . 57  GUMK 57  
+GUMK 58  1 n TYR . 58  GUMK 58  
+GUMK 59  1 n ILE . 59  GUMK 59  
+GUMK 60  1 n LYS . 60  GUMK 60  
+GUMK 61  1 n HIS . 61  GUMK 61  
+GUMK 62  1 n ALA . 62  GUMK 62  
+GUMK 63  1 n ARG . 63  GUMK 63  
+GUMK 64  1 n PHE . 64  GUMK 64  
+GUMK 65  1 n GLY . 65  GUMK 65  
+GUMK 66  1 n ILE . 66  GUMK 66  
+GUMK 67  1 n ALA . 67  GUMK 67  
+GUMK 68  1 n PRO . 68  GUMK 68  
+GUMK 69  1 n TYR . 69  GUMK 69  
+GUMK 70  1 n ALA . 70  GUMK 70  
+GUMK 71  1 n SER . 71  GUMK 71  
+GUMK 72  1 n GLU . 72  GUMK 72  
+GUMK 73  1 n GLN . 73  GUMK 73  
+GUMK 74  1 n VAL . 74  GUMK 74  
+GUMK 75  1 n PRO . 75  GUMK 75  
+GUMK 76  1 n VAL . 76  GUMK 76  
+GUMK 77  1 n TYR . 77  GUMK 77  
+GUMK 78  1 n LEU . 78  GUMK 78  
+GUMK 79  1 n ALA . 79  GUMK 79  
+GUMK 80  1 n ASP . 80  GUMK 80  
+GUMK 81  1 n SER . 81  GUMK 81  
+GUMK 82  1 n SER . 82  GUMK 82  
+GUMK 83  1 n MET . 83  GUMK 83  
+GUMK 84  1 n LYS . 84  GUMK 84  
+GUMK 85  1 n LEU . 85  GUMK 85  
+GUMK 86  1 n LEU . 86  GUMK 86  
+GUMK 87  1 n GLN . 87  GUMK 87  
+GUMK 88  1 n TYR . 88  GUMK 88  
+GUMK 89  1 n ASP . 89  GUMK 89  
+GUMK 90  1 n PHE . 90  GUMK 90  
+GUMK 91  1 n PHE . 91  GUMK 91  
+GUMK 92  1 n GLY . 92  GUMK 92  
+GUMK 93  1 n LEU . 93  GUMK 93  
+GUMK 94  1 n PRO . 94  GUMK 94  
+GUMK 95  1 n ALA . 95  GUMK 95  
+GUMK 96  1 n VAL . 96  GUMK 96  
+GUMK 97  1 n CYS . 97  GUMK 97  
+GUMK 98  1 n PRO . 98  GUMK 98  
+GUMK 99  1 n ASN . 99  GUMK 99  
+GUMK 100 1 n ALA . 100 GUMK 100 
+GUMK 101 1 n VAL . 101 GUMK 101 
+GUMK 102 1 n VAL . 102 GUMK 102 
+GUMK 103 1 n GLY . 103 GUMK 103 
+GUMK 104 1 n PRO . 104 GUMK 104 
+GUMK 105 1 n TYR . 105 GUMK 105 
+GUMK 106 1 n LYS . 106 GUMK 106 
+GUMK 107 1 n SER . 107 GUMK 107 
+GUMK 108 1 n ARG . 108 GUMK 108 
+GUMK 109 1 n PHE . 109 GUMK 109 
+GUMK 110 1 n GLY . 110 GUMK 110 
+GUMK 111 1 n TYR . 111 GUMK 111 
+GUMK 112 1 n THR . 112 GUMK 112 
+GUMK 113 1 n PRO . 113 GUMK 113 
+GUMK 114 1 n GLY . 114 GUMK 114 
+GUMK 115 1 n ASN . 115 GUMK 115 
+GUMK 116 1 n ALA . 116 GUMK 116 
+GUMK 117 1 n ASP . 117 GUMK 117 
+GUMK 118 1 n SER . 118 GUMK 118 
+GUMK 119 1 n VAL . 119 GUMK 119 
+GUMK 120 1 n ILE . 120 GUMK 120 
+GUMK 121 1 n ALA . 121 GUMK 121 
+GUMK 122 1 n ALA . 122 GUMK 122 
+GUMK 123 1 n ILE . 123 GUMK 123 
+GUMK 124 1 n THR . 124 GUMK 124 
+GUMK 125 1 n GLN . 125 GUMK 125 
+GUMK 126 1 n ALA . 126 GUMK 126 
+GUMK 127 1 n LEU . 127 GUMK 127 
+#
+_software.classification other
+_software.date           ?
+_software.description    "Structure prediction"
+_software.name           AlphaFold
+_software.pdbx_ordinal   1
+_software.type           package
+_software.version        "AlphaFold-beta-20231127 (2c67783944b6c37d27faa119f82fe84b74c3c50d2ded65e7627bb84346501590)"
+#
+loop_
+_struct_asym.entity_id
+_struct_asym.id
+1 GUMK  
+2 DONOR 
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+_atom_site.pdbx_PDB_model_num
+ATOM   1    N N     . HIS GUMK  1 1   ? -6.375  -5.274  -9.861  1.00 93.50 1   GUMK  1 
+ATOM   2    C CA    . HIS GUMK  1 1   ? -5.888  -5.812  -8.583  1.00 96.88 1   GUMK  1 
+ATOM   3    C C     . HIS GUMK  1 1   ? -4.903  -4.843  -7.937  1.00 97.69 1   GUMK  1 
+ATOM   4    O O     . HIS GUMK  1 1   ? -4.040  -4.282  -8.614  1.00 96.39 1   GUMK  1 
+ATOM   5    C CB    . HIS GUMK  1 1   ? -5.178  -7.148  -8.799  1.00 93.44 1   GUMK  1 
+ATOM   6    C CG    . HIS GUMK  1 1   ? -6.093  -8.260  -9.219  1.00 92.25 1   GUMK  1 
+ATOM   7    N ND1   . HIS GUMK  1 1   ? -6.763  -9.056  -8.317  1.00 84.46 1   GUMK  1 
+ATOM   8    C CD2   . HIS GUMK  1 1   ? -6.465  -8.697  -10.447 1.00 83.37 1   GUMK  1 
+ATOM   9    C CE1   . HIS GUMK  1 1   ? -7.507  -9.938  -8.975  1.00 85.18 1   GUMK  1 
+ATOM   10   N NE2   . HIS GUMK  1 1   ? -7.347  -9.734  -10.275 1.00 86.42 1   GUMK  1 
+ATOM   11   N N     . ALA GUMK  1 2   ? -5.045  -4.642  -6.626  1.00 98.75 2   GUMK  1 
+ATOM   12   C CA    . ALA GUMK  1 2   ? -4.150  -3.780  -5.863  1.00 98.82 2   GUMK  1 
+ATOM   13   C C     . ALA GUMK  1 2   ? -3.553  -4.657  -4.765  1.00 98.86 2   GUMK  1 
+ATOM   14   O O     . ALA GUMK  1 2   ? -4.192  -5.608  -4.314  1.00 98.71 2   GUMK  1 
+ATOM   15   C CB    . ALA GUMK  1 2   ? -4.920  -2.621  -5.244  1.00 98.70 2   GUMK  1 
+ATOM   16   N N     . VAL GUMK  1 3   ? -2.325  -4.341  -4.342  1.00 98.85 3   GUMK  1 
+ATOM   17   C CA    . VAL GUMK  1 3   ? -1.677  -5.134  -3.299  1.00 98.85 3   GUMK  1 
+ATOM   18   C C     . VAL GUMK  1 3   ? -1.084  -4.278  -2.185  1.00 98.86 3   GUMK  1 
+ATOM   19   O O     . VAL GUMK  1 3   ? -0.578  -3.179  -2.428  1.00 98.70 3   GUMK  1 
+ATOM   20   C CB    . VAL GUMK  1 3   ? -0.563  -6.030  -3.903  1.00 98.49 3   GUMK  1 
+ATOM   21   C CG1   . VAL GUMK  1 3   ? 0.552   -5.165  -4.494  1.00 93.51 3   GUMK  1 
+ATOM   22   C CG2   . VAL GUMK  1 3   ? 0.003   -6.970  -2.842  1.00 93.78 3   GUMK  1 
+ATOM   23   N N     . ALA GUMK  1 4   ? -1.166  -4.779  -0.964  1.00 98.86 4   GUMK  1 
+ATOM   24   C CA    . ALA GUMK  1 4   ? -0.605  -4.110  0.205   1.00 98.84 4   GUMK  1 
+ATOM   25   C C     . ALA GUMK  1 4   ? 0.072   -5.207  1.020   1.00 98.83 4   GUMK  1 
+ATOM   26   O O     . ALA GUMK  1 4   ? -0.568  -6.190  1.390   1.00 98.61 4   GUMK  1 
+ATOM   27   C CB    . ALA GUMK  1 4   ? -1.707  -3.447  1.032   1.00 98.69 4   GUMK  1 
+ATOM   28   N N     . VAL GUMK  1 5   ? 1.378   -5.054  1.262   1.00 98.68 5   GUMK  1 
+ATOM   29   C CA    . VAL GUMK  1 5   ? 2.116   -6.045  2.046   1.00 98.60 5   GUMK  1 
+ATOM   30   C C     . VAL GUMK  1 5   ? 2.676   -5.425  3.321   1.00 98.49 5   GUMK  1 
+ATOM   31   O O     . VAL GUMK  1 5   ? 3.037   -4.250  3.347   1.00 97.82 5   GUMK  1 
+ATOM   32   C CB    . VAL GUMK  1 5   ? 3.293   -6.650  1.235   1.00 98.12 5   GUMK  1 
+ATOM   33   C CG1   . VAL GUMK  1 5   ? 2.758   -7.400  0.023   1.00 94.00 5   GUMK  1 
+ATOM   34   C CG2   . VAL GUMK  1 5   ? 4.252   -5.555  0.789   1.00 95.18 5   GUMK  1 
+ATOM   35   N N     . GLY GUMK  1 6   ? 2.748   -6.222  4.377   1.00 98.24 6   GUMK  1 
+ATOM   36   C CA    . GLY GUMK  1 6   ? 3.326   -5.731  5.618   1.00 98.15 6   GUMK  1 
+ATOM   37   C C     . GLY GUMK  1 6   ? 2.360   -5.178  6.648   1.00 98.26 6   GUMK  1 
+ATOM   38   O O     . GLY GUMK  1 6   ? 1.194   -4.911  6.351   1.00 97.55 6   GUMK  1 
+ATOM   39   N N     . SER GUMK  1 7   ? 2.876   -5.002  7.861   1.00 97.48 7   GUMK  1 
+ATOM   40   C CA    . SER GUMK  1 7   ? 2.058   -4.539  8.976   1.00 97.23 7   GUMK  1 
+ATOM   41   C C     . SER GUMK  1 7   ? 2.443   -3.197  9.597   1.00 96.95 7   GUMK  1 
+ATOM   42   O O     . SER GUMK  1 7   ? 1.709   -2.684  10.439  1.00 95.75 7   GUMK  1 
+ATOM   43   C CB    . SER GUMK  1 7   ? 2.075   -5.598  10.076  1.00 96.61 7   GUMK  1 
+ATOM   44   O OG    . SER GUMK  1 7   ? 3.398   -5.800  10.543  1.00 94.20 7   GUMK  1 
+ATOM   45   N N     . MET GUMK  1 8   ? 3.574   -2.623  9.202   1.00 96.55 8   GUMK  1 
+ATOM   46   C CA    . MET GUMK  1 8   ? 4.012   -1.366  9.807   1.00 95.97 8   GUMK  1 
+ATOM   47   C C     . MET GUMK  1 8   ? 2.983   -0.247  9.640   1.00 96.19 8   GUMK  1 
+ATOM   48   O O     . MET GUMK  1 8   ? 2.646   0.144   8.526   1.00 95.57 8   GUMK  1 
+ATOM   49   C CB    . MET GUMK  1 8   ? 5.354   -0.918  9.234   1.00 94.94 8   GUMK  1 
+ATOM   50   C CG    . MET GUMK  1 8   ? 5.898   0.327   9.931   1.00 91.56 8   GUMK  1 
+ATOM   51   S SD    . MET GUMK  1 8   ? 7.529   0.795   9.345   1.00 86.95 8   GUMK  1 
+ATOM   52   C CE    . MET GUMK  1 8   ? 7.811   2.277   10.323  1.00 79.48 8   GUMK  1 
+ATOM   53   N N     . LEU GUMK  1 9   ? 2.500   0.246   10.774  1.00 96.70 9   GUMK  1 
+ATOM   54   C CA    . LEU GUMK  1 9   ? 1.519   1.336   10.790  1.00 96.68 9   GUMK  1 
+ATOM   55   C C     . LEU GUMK  1 9   ? 0.317   1.076   9.880   1.00 97.47 9   GUMK  1 
+ATOM   56   O O     . LEU GUMK  1 9   ? -0.254  2.009   9.309   1.00 97.18 9   GUMK  1 
+ATOM   57   C CB    . LEU GUMK  1 9   ? 2.196   2.660   10.394  1.00 95.47 9   GUMK  1 
+ATOM   58   C CG    . LEU GUMK  1 9   ? 3.267   3.187   11.360  1.00 92.06 9   GUMK  1 
+ATOM   59   C CD1   . LEU GUMK  1 9   ? 3.949   4.413   10.762  1.00 89.91 9   GUMK  1 
+ATOM   60   C CD2   . LEU GUMK  1 9   ? 2.627   3.529   12.698  1.00 89.84 9   GUMK  1 
+ATOM   61   N N     . PHE GUMK  1 10  ? -0.059  -0.193  9.744   1.00 97.49 10  GUMK  1 
+ATOM   62   C CA    . PHE GUMK  1 10  ? -1.180  -0.577  8.889   1.00 97.99 10  GUMK  1 
+ATOM   63   C C     . PHE GUMK  1 10  ? -2.462  0.177   9.241   1.00 97.99 10  GUMK  1 
+ATOM   64   O O     . PHE GUMK  1 10  ? -2.871  0.224   10.403  1.00 97.67 10  GUMK  1 
+ATOM   65   C CB    . PHE GUMK  1 10  ? -1.433  -2.082  9.000   1.00 98.11 10  GUMK  1 
+ATOM   66   C CG    . PHE GUMK  1 10  ? -2.520  -2.576  8.085   1.00 98.41 10  GUMK  1 
+ATOM   67   C CD1   . PHE GUMK  1 10  ? -2.272  -2.779  6.731   1.00 98.27 10  GUMK  1 
+ATOM   68   C CD2   . PHE GUMK  1 10  ? -3.804  -2.808  8.572   1.00 98.30 10  GUMK  1 
+ATOM   69   C CE1   . PHE GUMK  1 10  ? -3.279  -3.210  5.876   1.00 98.12 10  GUMK  1 
+ATOM   70   C CE2   . PHE GUMK  1 10  ? -4.822  -3.238  7.720   1.00 98.13 10  GUMK  1 
+ATOM   71   C CZ    . PHE GUMK  1 10  ? -4.556  -3.441  6.372   1.00 98.28 10  GUMK  1 
+ATOM   72   N N     . ASP GUMK  1 11  ? -3.088  0.754   8.221   1.00 98.19 11  GUMK  1 
+ATOM   73   C CA    . ASP GUMK  1 11  ? -4.312  1.531   8.405   1.00 98.31 11  GUMK  1 
+ATOM   74   C C     . ASP GUMK  1 11  ? -5.501  0.849   7.726   1.00 98.54 11  GUMK  1 
+ATOM   75   O O     . ASP GUMK  1 11  ? -5.689  0.972   6.514   1.00 98.56 11  GUMK  1 
+ATOM   76   C CB    . ASP GUMK  1 11  ? -4.121  2.934   7.816   1.00 97.96 11  GUMK  1 
+ATOM   77   C CG    . ASP GUMK  1 11  ? -5.350  3.817   7.991   1.00 97.50 11  GUMK  1 
+ATOM   78   O OD1   . ASP GUMK  1 11  ? -6.276  3.428   8.728   1.00 96.58 11  GUMK  1 
+ATOM   79   O OD2   . ASP GUMK  1 11  ? -5.373  4.911   7.389   1.00 95.66 11  GUMK  1 
+ATOM   80   N N     . PRO GUMK  1 12  ? -6.317  0.129   8.496   1.00 98.46 12  GUMK  1 
+ATOM   81   C CA    . PRO GUMK  1 12  ? -7.475  -0.551  7.908   1.00 98.51 12  GUMK  1 
+ATOM   82   C C     . PRO GUMK  1 12  ? -8.525  0.403   7.345   1.00 98.62 12  GUMK  1 
+ATOM   83   O O     . PRO GUMK  1 12  ? -9.260  0.046   6.425   1.00 98.48 12  GUMK  1 
+ATOM   84   C CB    . PRO GUMK  1 12  ? -8.009  -1.393  9.074   1.00 98.12 12  GUMK  1 
+ATOM   85   C CG    . PRO GUMK  1 12  ? -7.632  -0.591  10.277  1.00 96.82 12  GUMK  1 
+ATOM   86   C CD    . PRO GUMK  1 12  ? -6.233  -0.118  9.950   1.00 98.13 12  GUMK  1 
+ATOM   87   N N     . GLU GUMK  1 13  ? -8.582  1.617   7.876   1.00 98.36 13  GUMK  1 
+ATOM   88   C CA    . GLU GUMK  1 13  ? -9.564  2.589   7.398   1.00 98.27 13  GUMK  1 
+ATOM   89   C C     . GLU GUMK  1 13  ? -9.332  2.967   5.935   1.00 98.49 13  GUMK  1 
+ATOM   90   O O     . GLU GUMK  1 13  ? -10.269 3.342   5.229   1.00 98.36 13  GUMK  1 
+ATOM   91   C CB    . GLU GUMK  1 13  ? -9.549  3.845   8.274   1.00 97.70 13  GUMK  1 
+ATOM   92   C CG    . GLU GUMK  1 13  ? -10.106 3.622   9.679   1.00 91.49 13  GUMK  1 
+ATOM   93   C CD    . GLU GUMK  1 13  ? -11.521 3.055   9.663   1.00 86.92 13  GUMK  1 
+ATOM   94   O OE1   . GLU GUMK  1 13  ? -12.358 3.542   8.871   1.00 80.99 13  GUMK  1 
+ATOM   95   O OE2   . GLU GUMK  1 13  ? -11.793 2.122   10.449  1.00 81.52 13  GUMK  1 
+ATOM   96   N N     . PHE GUMK  1 14  ? -8.077  2.853   5.475   1.00 98.63 14  GUMK  1 
+ATOM   97   C CA    . PHE GUMK  1 14  ? -7.769  3.141   4.075   1.00 98.77 14  GUMK  1 
+ATOM   98   C C     . PHE GUMK  1 14  ? -8.604  2.214   3.191   1.00 98.82 14  GUMK  1 
+ATOM   99   O O     . PHE GUMK  1 14  ? -9.188  2.640   2.192   1.00 98.78 14  GUMK  1 
+ATOM   100  C CB    . PHE GUMK  1 14  ? -6.285  2.892   3.787   1.00 98.76 14  GUMK  1 
+ATOM   101  C CG    . PHE GUMK  1 14  ? -5.925  2.988   2.323   1.00 98.82 14  GUMK  1 
+ATOM   102  C CD1   . PHE GUMK  1 14  ? -5.454  4.182   1.780   1.00 98.73 14  GUMK  1 
+ATOM   103  C CD2   . PHE GUMK  1 14  ? -6.092  1.898   1.476   1.00 98.72 14  GUMK  1 
+ATOM   104  C CE1   . PHE GUMK  1 14  ? -5.165  4.286   0.422   1.00 98.62 14  GUMK  1 
+ATOM   105  C CE2   . PHE GUMK  1 14  ? -5.809  1.995   0.112   1.00 98.59 14  GUMK  1 
+ATOM   106  C CZ    . PHE GUMK  1 14  ? -5.347  3.192   -0.411  1.00 98.67 14  GUMK  1 
+ATOM   107  N N     . PHE GUMK  1 15  ? -8.649  0.945   3.566   1.00 98.81 15  GUMK  1 
+ATOM   108  C CA    . PHE GUMK  1 15  ? -9.374  -0.054  2.790   1.00 98.85 15  GUMK  1 
+ATOM   109  C C     . PHE GUMK  1 15  ? -10.886 0.035   2.926   1.00 98.84 15  GUMK  1 
+ATOM   110  O O     . PHE GUMK  1 15  ? -11.616 -0.384  2.030   1.00 98.70 15  GUMK  1 
+ATOM   111  C CB    . PHE GUMK  1 15  ? -8.857  -1.447  3.160   1.00 98.83 15  GUMK  1 
+ATOM   112  C CG    . PHE GUMK  1 15  ? -7.395  -1.631  2.851   1.00 98.86 15  GUMK  1 
+ATOM   113  C CD1   . PHE GUMK  1 15  ? -6.978  -1.954  1.561   1.00 98.74 15  GUMK  1 
+ATOM   114  C CD2   . PHE GUMK  1 15  ? -6.431  -1.371  3.821   1.00 98.73 15  GUMK  1 
+ATOM   115  C CE1   . PHE GUMK  1 15  ? -5.627  -2.020  1.243   1.00 98.60 15  GUMK  1 
+ATOM   116  C CE2   . PHE GUMK  1 15  ? -5.073  -1.431  3.508   1.00 98.56 15  GUMK  1 
+ATOM   117  C CZ    . PHE GUMK  1 15  ? -4.673  -1.753  2.218   1.00 98.64 15  GUMK  1 
+ATOM   118  N N     . VAL GUMK  1 16  ? -11.351 0.583   4.038   1.00 98.78 16  GUMK  1 
+ATOM   119  C CA    . VAL GUMK  1 16  ? -12.789 0.767   4.215   1.00 98.72 16  GUMK  1 
+ATOM   120  C C     . VAL GUMK  1 16  ? -13.230 1.769   3.144   1.00 98.72 16  GUMK  1 
+ATOM   121  O O     . VAL GUMK  1 16  ? -14.231 1.569   2.458   1.00 98.53 16  GUMK  1 
+ATOM   122  C CB    . VAL GUMK  1 16  ? -13.120 1.323   5.620   1.00 98.56 16  GUMK  1 
+ATOM   123  C CG1   . VAL GUMK  1 16  ? -14.596 1.703   5.702   1.00 98.05 16  GUMK  1 
+ATOM   124  C CG2   . VAL GUMK  1 16  ? -12.788 0.278   6.678   1.00 98.14 16  GUMK  1 
+ATOM   125  N N     . VAL GUMK  1 17  ? -12.453 2.835   2.996   1.00 98.69 17  GUMK  1 
+ATOM   126  C CA    . VAL GUMK  1 17  ? -12.750 3.874   2.008   1.00 98.70 17  GUMK  1 
+ATOM   127  C C     . VAL GUMK  1 17  ? -12.531 3.379   0.579   1.00 98.79 17  GUMK  1 
+ATOM   128  O O     . VAL GUMK  1 17  ? -13.415 3.491   -0.276  1.00 98.65 17  GUMK  1 
+ATOM   129  C CB    . VAL GUMK  1 17  ? -11.864 5.121   2.242   1.00 98.43 17  GUMK  1 
+ATOM   130  C CG1   . VAL GUMK  1 17  ? -12.019 6.113   1.086   1.00 97.57 17  GUMK  1 
+ATOM   131  C CG2   . VAL GUMK  1 17  ? -12.231 5.783   3.561   1.00 97.79 17  GUMK  1 
+ATOM   132  N N     . ALA GUMK  1 18  ? -11.342 2.833   0.321   1.00 98.81 18  GUMK  1 
+ATOM   133  C CA    . ALA GUMK  1 18  ? -10.979 2.371   -1.015  1.00 98.83 18  GUMK  1 
+ATOM   134  C C     . ALA GUMK  1 18  ? -11.864 1.262   -1.583  1.00 98.87 18  GUMK  1 
+ATOM   135  O O     . ALA GUMK  1 18  ? -12.254 1.311   -2.751  1.00 98.79 18  GUMK  1 
+ATOM   136  C CB    . ALA GUMK  1 18  ? -9.518  1.927   -1.026  1.00 98.75 18  GUMK  1 
+ATOM   137  N N     . SER GUMK  1 19  ? -12.171 0.261   -0.772  1.00 98.83 19  GUMK  1 
+ATOM   138  C CA    . SER GUMK  1 19  ? -12.972 -0.860  -1.262  1.00 98.76 19  GUMK  1 
+ATOM   139  C C     . SER GUMK  1 19  ? -14.379 -0.436  -1.682  1.00 98.73 19  GUMK  1 
+ATOM   140  O O     . SER GUMK  1 19  ? -14.940 -0.988  -2.629  1.00 98.48 19  GUMK  1 
+ATOM   141  C CB    . SER GUMK  1 19  ? -13.047 -1.977  -0.213  1.00 98.53 19  GUMK  1 
+ATOM   142  O OG    . SER GUMK  1 19  ? -13.734 -1.562  0.952   1.00 97.60 19  GUMK  1 
+ATOM   143  N N     . LYS GUMK  1 20  ? -14.937 0.545   -0.987  1.00 98.62 20  GUMK  1 
+ATOM   144  C CA    . LYS GUMK  1 20  ? -16.277 1.025   -1.317  1.00 98.44 20  GUMK  1 
+ATOM   145  C C     . LYS GUMK  1 20  ? -16.260 1.926   -2.551  1.00 98.62 20  GUMK  1 
+ATOM   146  O O     . LYS GUMK  1 20  ? -17.163 1.863   -3.387  1.00 98.28 20  GUMK  1 
+ATOM   147  C CB    . LYS GUMK  1 20  ? -16.877 1.786   -0.132  1.00 97.48 20  GUMK  1 
+ATOM   148  C CG    . LYS GUMK  1 20  ? -17.188 0.908   1.068   1.00 81.95 20  GUMK  1 
+ATOM   149  C CD    . LYS GUMK  1 20  ? -17.788 1.713   2.210   1.00 77.68 20  GUMK  1 
+ATOM   150  C CE    . LYS GUMK  1 20  ? -18.109 0.822   3.403   1.00 65.89 20  GUMK  1 
+ATOM   151  N NZ    . LYS GUMK  1 20  ? -18.676 1.595   4.542   1.00 59.03 20  GUMK  1 
+ATOM   152  N N     . ALA GUMK  1 21  ? -15.224 2.753   -2.665  1.00 98.66 21  GUMK  1 
+ATOM   153  C CA    . ALA GUMK  1 21  ? -15.107 3.675   -3.790  1.00 98.72 21  GUMK  1 
+ATOM   154  C C     . ALA GUMK  1 21  ? -14.704 2.990   -5.096  1.00 98.78 21  GUMK  1 
+ATOM   155  O O     . ALA GUMK  1 21  ? -15.033 3.474   -6.183  1.00 98.60 21  GUMK  1 
+ATOM   156  C CB    . ALA GUMK  1 21  ? -14.109 4.779   -3.455  1.00 98.61 21  GUMK  1 
+ATOM   157  N N     . PHE GUMK  1 22  ? -13.994 1.875   -4.991  1.00 98.88 22  GUMK  1 
+ATOM   158  C CA    . PHE GUMK  1 22  ? -13.527 1.153   -6.172  1.00 98.88 22  GUMK  1 
+ATOM   159  C C     . PHE GUMK  1 22  ? -13.938 -0.318  -6.115  1.00 98.83 22  GUMK  1 
+ATOM   160  O O     . PHE GUMK  1 22  ? -13.097 -1.207  -5.948  1.00 98.57 22  GUMK  1 
+ATOM   161  C CB    . PHE GUMK  1 22  ? -12.004 1.280   -6.281  1.00 98.87 22  GUMK  1 
+ATOM   162  C CG    . PHE GUMK  1 22  ? -11.531 2.697   -6.461  1.00 98.88 22  GUMK  1 
+ATOM   163  C CD1   . PHE GUMK  1 22  ? -11.456 3.267   -7.729  1.00 98.75 22  GUMK  1 
+ATOM   164  C CD2   . PHE GUMK  1 22  ? -11.208 3.481   -5.358  1.00 98.76 22  GUMK  1 
+ATOM   165  C CE1   . PHE GUMK  1 22  ? -11.060 4.593   -7.896  1.00 98.60 22  GUMK  1 
+ATOM   166  C CE2   . PHE GUMK  1 22  ? -10.814 4.813   -5.518  1.00 98.62 22  GUMK  1 
+ATOM   167  C CZ    . PHE GUMK  1 22  ? -10.742 5.366   -6.790  1.00 98.64 22  GUMK  1 
+ATOM   168  N N     . PRO GUMK  1 23  ? -15.233 -0.591  -6.276  1.00 98.61 23  GUMK  1 
+ATOM   169  C CA    . PRO GUMK  1 23  ? -15.730 -1.969  -6.237  1.00 98.41 23  GUMK  1 
+ATOM   170  C C     . PRO GUMK  1 23  ? -15.161 -2.868  -7.330  1.00 98.39 23  GUMK  1 
+ATOM   171  O O     . PRO GUMK  1 23  ? -15.191 -4.095  -7.206  1.00 97.72 23  GUMK  1 
+ATOM   172  C CB    . PRO GUMK  1 23  ? -17.247 -1.791  -6.357  1.00 97.84 23  GUMK  1 
+ATOM   173  C CG    . PRO GUMK  1 23  ? -17.387 -0.525  -7.150  1.00 96.37 23  GUMK  1 
+ATOM   174  C CD    . PRO GUMK  1 23  ? -16.330 0.360   -6.552  1.00 98.08 23  GUMK  1 
+ATOM   175  N N     . GLN GUMK  1 24  ? -14.621 -2.265  -8.392  1.00 98.44 24  GUMK  1 
+ATOM   176  C CA    . GLN GUMK  1 24  ? -14.043 -3.025  -9.496  1.00 98.30 24  GUMK  1 
+ATOM   177  C C     . GLN GUMK  1 24  ? -12.613 -3.479  -9.202  1.00 98.43 24  GUMK  1 
+ATOM   178  O O     . GLN GUMK  1 24  ? -12.042 -4.277  -9.954  1.00 97.93 24  GUMK  1 
+ATOM   179  C CB    . GLN GUMK  1 24  ? -14.056 -2.185  -10.781 1.00 97.63 24  GUMK  1 
+ATOM   180  C CG    . GLN GUMK  1 24  ? -12.985 -1.093  -10.849 1.00 91.56 24  GUMK  1 
+ATOM   181  C CD    . GLN GUMK  1 24  ? -13.393 0.213   -10.184 1.00 87.25 24  GUMK  1 
+ATOM   182  O OE1   . GLN GUMK  1 24  ? -14.173 0.236   -9.229  1.00 81.77 24  GUMK  1 
+ATOM   183  N NE2   . GLN GUMK  1 24  ? -12.859 1.321   -10.698 1.00 80.49 24  GUMK  1 
+ATOM   184  N N     . VAL GUMK  1 25  ? -12.025 -2.968  -8.127  1.00 98.65 25  GUMK  1 
+ATOM   185  C CA    . VAL GUMK  1 25  ? -10.658 -3.327  -7.754  1.00 98.72 25  GUMK  1 
+ATOM   186  C C     . VAL GUMK  1 25  ? -10.655 -4.338  -6.610  1.00 98.78 25  GUMK  1 
+ATOM   187  O O     . VAL GUMK  1 25  ? -11.360 -4.164  -5.619  1.00 98.64 25  GUMK  1 
+ATOM   188  C CB    . VAL GUMK  1 25  ? -9.858  -2.080  -7.304  1.00 98.61 25  GUMK  1 
+ATOM   189  C CG1   . VAL GUMK  1 25  ? -8.463  -2.486  -6.827  1.00 98.19 25  GUMK  1 
+ATOM   190  C CG2   . VAL GUMK  1 25  ? -9.754  -1.078  -8.446  1.00 98.20 25  GUMK  1 
+ATOM   191  N N     . THR GUMK  1 26  ? -9.851  -5.393  -6.758  1.00 98.80 26  GUMK  1 
+ATOM   192  C CA    . THR GUMK  1 26  ? -9.719  -6.392  -5.704  1.00 98.80 26  GUMK  1 
+ATOM   193  C C     . THR GUMK  1 26  ? -8.479  -5.993  -4.908  1.00 98.85 26  GUMK  1 
+ATOM   194  O O     . THR GUMK  1 26  ? -7.388  -5.875  -5.470  1.00 98.77 26  GUMK  1 
+ATOM   195  C CB    . THR GUMK  1 26  ? -9.530  -7.809  -6.279  1.00 98.59 26  GUMK  1 
+ATOM   196  O OG1   . THR GUMK  1 26  ? -10.690 -8.174  -7.033  1.00 97.24 26  GUMK  1 
+ATOM   197  C CG2   . THR GUMK  1 26  ? -9.329  -8.818  -5.155  1.00 97.16 26  GUMK  1 
+ATOM   198  N N     . PHE GUMK  1 27  ? -8.656  -5.769  -3.614  1.00 98.88 27  GUMK  1 
+ATOM   199  C CA    . PHE GUMK  1 27  ? -7.565  -5.363  -2.735  1.00 98.90 27  GUMK  1 
+ATOM   200  C C     . PHE GUMK  1 27  ? -6.999  -6.559  -1.978  1.00 98.87 27  GUMK  1 
+ATOM   201  O O     . PHE GUMK  1 27  ? -7.665  -7.133  -1.117  1.00 98.78 27  GUMK  1 
+ATOM   202  C CB    . PHE GUMK  1 27  ? -8.071  -4.307  -1.747  1.00 98.90 27  GUMK  1 
+ATOM   203  C CG    . PHE GUMK  1 27  ? -8.496  -3.013  -2.396  1.00 98.92 27  GUMK  1 
+ATOM   204  C CD1   . PHE GUMK  1 27  ? -7.591  -1.965  -2.554  1.00 98.86 27  GUMK  1 
+ATOM   205  C CD2   . PHE GUMK  1 27  ? -9.794  -2.854  -2.880  1.00 98.86 27  GUMK  1 
+ATOM   206  C CE1   . PHE GUMK  1 27  ? -7.969  -0.780  -3.179  1.00 98.81 27  GUMK  1 
+ATOM   207  C CE2   . PHE GUMK  1 27  ? -10.178 -1.671  -3.513  1.00 98.80 27  GUMK  1 
+ATOM   208  C CZ    . PHE GUMK  1 27  ? -9.263  -0.632  -3.664  1.00 98.85 27  GUMK  1 
+ATOM   209  N N     . HIS GUMK  1 28  ? -5.758  -6.922  -2.301  1.00 98.87 28  GUMK  1 
+ATOM   210  C CA    . HIS GUMK  1 28  ? -5.084  -8.042  -1.655  1.00 98.85 28  GUMK  1 
+ATOM   211  C C     . HIS GUMK  1 28  ? -4.249  -7.502  -0.497  1.00 98.85 28  GUMK  1 
+ATOM   212  O O     . HIS GUMK  1 28  ? -3.248  -6.820  -0.706  1.00 98.70 28  GUMK  1 
+ATOM   213  C CB    . HIS GUMK  1 28  ? -4.190  -8.753  -2.667  1.00 98.76 28  GUMK  1 
+ATOM   214  C CG    . HIS GUMK  1 28  ? -4.930  -9.302  -3.851  1.00 98.69 28  GUMK  1 
+ATOM   215  N ND1   . HIS GUMK  1 28  ? -5.492  -10.558 -3.868  1.00 97.01 28  GUMK  1 
+ATOM   216  C CD2   . HIS GUMK  1 28  ? -5.227  -8.741  -5.050  1.00 97.27 28  GUMK  1 
+ATOM   217  C CE1   . HIS GUMK  1 28  ? -6.101  -10.756 -5.022  1.00 97.02 28  GUMK  1 
+ATOM   218  N NE2   . HIS GUMK  1 28  ? -5.960  -9.665  -5.764  1.00 97.31 28  GUMK  1 
+ATOM   219  N N     . VAL GUMK  1 29  ? -4.671  -7.800  0.726   1.00 98.86 29  GUMK  1 
+ATOM   220  C CA    . VAL GUMK  1 29  ? -3.979  -7.338  1.927   1.00 98.86 29  GUMK  1 
+ATOM   221  C C     . VAL GUMK  1 29  ? -3.197  -8.514  2.511   1.00 98.82 29  GUMK  1 
+ATOM   222  O O     . VAL GUMK  1 29  ? -3.791  -9.478  3.005   1.00 98.58 29  GUMK  1 
+ATOM   223  C CB    . VAL GUMK  1 29  ? -4.997  -6.806  2.964   1.00 98.76 29  GUMK  1 
+ATOM   224  C CG1   . VAL GUMK  1 29  ? -4.282  -6.382  4.238   1.00 98.33 29  GUMK  1 
+ATOM   225  C CG2   . VAL GUMK  1 29  ? -5.763  -5.626  2.373   1.00 98.46 29  GUMK  1 
+ATOM   226  N N     . ILE GUMK  1 30  ? -1.863  -8.429  2.430   1.00 98.84 30  GUMK  1 
+ATOM   227  C CA    . ILE GUMK  1 30  ? -0.984  -9.512  2.865   1.00 98.83 30  GUMK  1 
+ATOM   228  C C     . ILE GUMK  1 30  ? -0.151  -9.191  4.103   1.00 98.80 30  GUMK  1 
+ATOM   229  O O     . ILE GUMK  1 30  ? 0.588   -8.210  4.129   1.00 98.56 30  GUMK  1 
+ATOM   230  C CB    . ILE GUMK  1 30  ? -0.028  -9.896  1.713   1.00 98.76 30  GUMK  1 
+ATOM   231  C CG1   . ILE GUMK  1 30  ? -0.836  -10.232 0.451   1.00 98.45 30  GUMK  1 
+ATOM   232  C CG2   . ILE GUMK  1 30  ? 0.859   -11.064 2.122   1.00 98.54 30  GUMK  1 
+ATOM   233  C CD1   . ILE GUMK  1 30  ? 0.008   -10.395 -0.806  1.00 97.88 30  GUMK  1 
+ATOM   234  N N     . GLY GUMK  1 31  ? -0.265  -10.041 5.112   1.00 98.74 31  GUMK  1 
+ATOM   235  C CA    . GLY GUMK  1 31  ? 0.513   -9.877  6.329   1.00 98.71 31  GUMK  1 
+ATOM   236  C C     . GLY GUMK  1 31  ? 0.358   -8.550  7.048   1.00 98.70 31  GUMK  1 
+ATOM   237  O O     . GLY GUMK  1 31  ? 1.339   -7.994  7.539   1.00 98.19 31  GUMK  1 
+ATOM   238  N N     . SER GUMK  1 32  ? -0.857  -8.057  7.130   1.00 98.63 32  GUMK  1 
+ATOM   239  C CA    . SER GUMK  1 32  ? -1.131  -6.785  7.797   1.00 98.58 32  GUMK  1 
+ATOM   240  C C     . SER GUMK  1 32  ? -1.066  -6.880  9.317   1.00 98.46 32  GUMK  1 
+ATOM   241  O O     . SER GUMK  1 32  ? -0.943  -5.872  10.004  1.00 97.35 32  GUMK  1 
+ATOM   242  C CB    . SER GUMK  1 32  ? -2.520  -6.273  7.410   1.00 98.27 32  GUMK  1 
+ATOM   243  O OG    . SER GUMK  1 32  ? -3.525  -7.105  7.962   1.00 97.36 32  GUMK  1 
+ATOM   244  N N     . GLY GUMK  1 33  ? -1.166  -8.100  9.830   1.00 98.20 33  GUMK  1 
+ATOM   245  C CA    . GLY GUMK  1 33  ? -1.152  -8.286  11.271  1.00 97.78 33  GUMK  1 
+ATOM   246  C C     . GLY GUMK  1 33  ? -2.550  -8.133  11.849  1.00 97.87 33  GUMK  1 
+ATOM   247  O O     . GLY GUMK  1 33  ? -2.752  -8.240  13.060  1.00 96.13 33  GUMK  1 
+ATOM   248  N N     . MET GUMK  1 34  ? -3.511  -7.882  10.976  1.00 97.34 34  GUMK  1 
+ATOM   249  C CA    . MET GUMK  1 34  ? -4.905  -7.712  11.382  1.00 96.83 34  GUMK  1 
+ATOM   250  C C     . MET GUMK  1 34  ? -5.812  -8.582  10.525  1.00 96.74 34  GUMK  1 
+ATOM   251  O O     . MET GUMK  1 34  ? -5.509  -8.871  9.373   1.00 94.50 34  GUMK  1 
+ATOM   252  C CB    . MET GUMK  1 34  ? -5.348  -6.252  11.230  1.00 95.11 34  GUMK  1 
+ATOM   253  C CG    . MET GUMK  1 34  ? -4.608  -5.259  12.102  1.00 91.48 34  GUMK  1 
+ATOM   254  S SD    . MET GUMK  1 34  ? -5.269  -3.597  11.861  1.00 89.69 34  GUMK  1 
+ATOM   255  C CE    . MET GUMK  1 34  ? -4.085  -2.618  12.790  1.00 79.35 34  GUMK  1 
+ATOM   256  N N     . GLY GUMK  1 35  ? -6.933  -9.000  11.096  1.00 96.61 35  GUMK  1 
+ATOM   257  C CA    . GLY GUMK  1 35  ? -7.885  -9.795  10.338  1.00 96.51 35  GUMK  1 
+ATOM   258  C C     . GLY GUMK  1 35  ? -8.806  -8.840  9.597   1.00 97.24 35  GUMK  1 
+ATOM   259  O O     . GLY GUMK  1 35  ? -8.502  -7.656  9.462   1.00 96.00 35  GUMK  1 
+ATOM   260  N N     . ARG GUMK  1 36  ? -9.939  -9.347  9.116   1.00 96.91 36  GUMK  1 
+ATOM   261  C CA    . ARG GUMK  1 36  ? -10.895 -8.494  8.418   1.00 96.59 36  GUMK  1 
+ATOM   262  C C     . ARG GUMK  1 36  ? -11.539 -7.503  9.382   1.00 96.43 36  GUMK  1 
+ATOM   263  O O     . ARG GUMK  1 36  ? -11.759 -7.806  10.554  1.00 94.49 36  GUMK  1 
+ATOM   264  C CB    . ARG GUMK  1 36  ? -12.013 -9.332  7.784   1.00 94.92 36  GUMK  1 
+ATOM   265  C CG    . ARG GUMK  1 36  ? -11.614 -10.179 6.602   1.00 90.26 36  GUMK  1 
+ATOM   266  C CD    . ARG GUMK  1 36  ? -12.855 -10.800 5.952   1.00 90.94 36  GUMK  1 
+ATOM   267  N NE    . ARG GUMK  1 36  ? -13.746 -9.779  5.394   1.00 90.76 36  GUMK  1 
+ATOM   268  C CZ    . ARG GUMK  1 36  ? -13.561 -9.175  4.228   1.00 92.66 36  GUMK  1 
+ATOM   269  N NH1   . ARG GUMK  1 36  ? -12.528 -9.490  3.464   1.00 83.64 36  GUMK  1 
+ATOM   270  N NH2   . ARG GUMK  1 36  ? -14.418 -8.248  3.810   1.00 86.49 36  GUMK  1 
+ATOM   271  N N     . HIS GUMK  1 37  ? -11.829 -6.311  8.871   1.00 96.77 37  GUMK  1 
+ATOM   272  C CA    . HIS GUMK  1 37  ? -12.516 -5.304  9.659   1.00 96.89 37  GUMK  1 
+ATOM   273  C C     . HIS GUMK  1 37  ? -13.936 -5.235  9.099   1.00 97.58 37  GUMK  1 
+ATOM   274  O O     . HIS GUMK  1 37  ? -14.146 -5.442  7.902   1.00 97.23 37  GUMK  1 
+ATOM   275  C CB    . HIS GUMK  1 37  ? -11.808 -3.951  9.541   1.00 95.42 37  GUMK  1 
+ATOM   276  C CG    . HIS GUMK  1 37  ? -10.599 -3.851  10.419  1.00 93.60 37  GUMK  1 
+ATOM   277  N ND1   . HIS GUMK  1 37  ? -10.505 -2.961  11.468  1.00 85.52 37  GUMK  1 
+ATOM   278  C CD2   . HIS GUMK  1 37  ? -9.454  -4.569  10.441  1.00 84.32 37  GUMK  1 
+ATOM   279  C CE1   . HIS GUMK  1 37  ? -9.352  -3.130  12.082  1.00 85.67 37  GUMK  1 
+ATOM   280  N NE2   . HIS GUMK  1 37  ? -8.692  -4.106  11.486  1.00 86.92 37  GUMK  1 
+ATOM   281  N N     . PRO GUMK  1 38  ? -14.921 -4.962  9.961   1.00 97.21 38  GUMK  1 
+ATOM   282  C CA    . PRO GUMK  1 38  ? -16.316 -4.915  9.516   1.00 97.32 38  GUMK  1 
+ATOM   283  C C     . PRO GUMK  1 38  ? -16.613 -3.951  8.374   1.00 97.68 38  GUMK  1 
+ATOM   284  O O     . PRO GUMK  1 38  ? -17.573 -4.150  7.627   1.00 96.61 38  GUMK  1 
+ATOM   285  C CB    . PRO GUMK  1 38  ? -17.075 -4.564  10.799  1.00 96.22 38  GUMK  1 
+ATOM   286  C CG    . PRO GUMK  1 38  ? -16.065 -3.835  11.622  1.00 93.17 38  GUMK  1 
+ATOM   287  C CD    . PRO GUMK  1 38  ? -14.805 -4.623  11.386  1.00 96.23 38  GUMK  1 
+ATOM   288  N N     . GLY GUMK  1 39  ? -15.782 -2.930  8.222   1.00 98.14 39  GUMK  1 
+ATOM   289  C CA    . GLY GUMK  1 39  ? -15.992 -1.962  7.159   1.00 98.22 39  GUMK  1 
+ATOM   290  C C     . GLY GUMK  1 39  ? -15.450 -2.349  5.790   1.00 98.48 39  GUMK  1 
+ATOM   291  O O     . GLY GUMK  1 39  ? -15.715 -1.659  4.807   1.00 98.06 39  GUMK  1 
+ATOM   292  N N     . TYR GUMK  1 40  ? -14.697 -3.451  5.716   1.00 98.52 40  GUMK  1 
+ATOM   293  C CA    . TYR GUMK  1 40  ? -14.134 -3.895  4.439   1.00 98.62 40  GUMK  1 
+ATOM   294  C C     . TYR GUMK  1 40  ? -15.221 -4.375  3.481   1.00 98.53 40  GUMK  1 
+ATOM   295  O O     . TYR GUMK  1 40  ? -16.159 -5.061  3.879   1.00 97.82 40  GUMK  1 
+ATOM   296  C CB    . TYR GUMK  1 40  ? -13.163 -5.063  4.635   1.00 98.49 40  GUMK  1 
+ATOM   297  C CG    . TYR GUMK  1 40  ? -11.818 -4.736  5.250   1.00 98.62 40  GUMK  1 
+ATOM   298  C CD1   . TYR GUMK  1 40  ? -11.467 -3.445  5.644   1.00 98.23 40  GUMK  1 
+ATOM   299  C CD2   . TYR GUMK  1 40  ? -10.882 -5.756  5.429   1.00 98.29 40  GUMK  1 
+ATOM   300  C CE1   . TYR GUMK  1 40  ? -10.216 -3.178  6.199   1.00 98.19 40  GUMK  1 
+ATOM   301  C CE2   . TYR GUMK  1 40  ? -9.634  -5.504  5.978   1.00 98.18 40  GUMK  1 
+ATOM   302  C CZ    . TYR GUMK  1 40  ? -9.304  -4.216  6.365   1.00 98.40 40  GUMK  1 
+ATOM   303  O OH    . TYR GUMK  1 40  ? -8.063  -3.977  6.909   1.00 97.90 40  GUMK  1 
+ATOM   304  N N     . GLY GUMK  1 41  ? -15.073 -4.024  2.203   1.00 98.47 41  GUMK  1 
+ATOM   305  C CA    . GLY GUMK  1 41  ? -16.014 -4.481  1.198   1.00 98.38 41  GUMK  1 
+ATOM   306  C C     . GLY GUMK  1 41  ? -15.677 -5.922  0.854   1.00 98.47 41  GUMK  1 
+ATOM   307  O O     . GLY GUMK  1 41  ? -14.651 -6.444  1.282   1.00 98.06 41  GUMK  1 
+ATOM   308  N N     . ASP GUMK  1 42  ? -16.538 -6.578  0.082   1.00 98.40 42  GUMK  1 
+ATOM   309  C CA    . ASP GUMK  1 42  ? -16.299 -7.964  -0.308  1.00 98.27 42  GUMK  1 
+ATOM   310  C C     . ASP GUMK  1 42  ? -15.092 -8.092  -1.229  1.00 98.50 42  GUMK  1 
+ATOM   311  O O     . ASP GUMK  1 42  ? -14.576 -9.194  -1.433  1.00 97.78 42  GUMK  1 
+ATOM   312  C CB    . ASP GUMK  1 42  ? -17.532 -8.546  -1.008  1.00 97.11 42  GUMK  1 
+ATOM   313  C CG    . ASP GUMK  1 42  ? -18.743 -8.639  -0.094  1.00 90.50 42  GUMK  1 
+ATOM   314  O OD1   . ASP GUMK  1 42  ? -18.563 -8.847  1.124   1.00 86.42 42  GUMK  1 
+ATOM   315  O OD2   . ASP GUMK  1 42  ? -19.876 -8.513  -0.602  1.00 85.98 42  GUMK  1 
+ATOM   316  N N     . ASN GUMK  1 43  ? -14.641 -6.969  -1.782  1.00 98.50 43  GUMK  1 
+ATOM   317  C CA    . ASN GUMK  1 43  ? -13.500 -6.961  -2.686  1.00 98.71 43  GUMK  1 
+ATOM   318  C C     . ASN GUMK  1 43  ? -12.156 -6.823  -1.972  1.00 98.82 43  GUMK  1 
+ATOM   319  O O     . ASN GUMK  1 43  ? -11.127 -6.605  -2.614  1.00 98.71 43  GUMK  1 
+ATOM   320  C CB    . ASN GUMK  1 43  ? -13.662 -5.856  -3.742  1.00 98.56 43  GUMK  1 
+ATOM   321  C CG    . ASN GUMK  1 43  ? -13.966 -4.494  -3.143  1.00 98.60 43  GUMK  1 
+ATOM   322  O OD1   . ASN GUMK  1 43  ? -14.702 -4.372  -2.165  1.00 95.75 43  GUMK  1 
+ATOM   323  N ND2   . ASN GUMK  1 43  ? -13.418 -3.454  -3.762  1.00 95.06 43  GUMK  1 
+ATOM   324  N N     . VAL GUMK  1 44  ? -12.159 -6.972  -0.653  1.00 98.80 44  GUMK  1 
+ATOM   325  C CA    . VAL GUMK  1 44  ? -10.918 -6.942  0.117   1.00 98.77 44  GUMK  1 
+ATOM   326  C C     . VAL GUMK  1 44  ? -10.628 -8.388  0.517   1.00 98.67 44  GUMK  1 
+ATOM   327  O O     . VAL GUMK  1 44  ? -11.447 -9.034  1.172   1.00 98.34 44  GUMK  1 
+ATOM   328  C CB    . VAL GUMK  1 44  ? -11.039 -6.089  1.400   1.00 98.70 44  GUMK  1 
+ATOM   329  C CG1   . VAL GUMK  1 44  ? -9.745  -6.180  2.213   1.00 98.42 44  GUMK  1 
+ATOM   330  C CG2   . VAL GUMK  1 44  ? -11.328 -4.638  1.044   1.00 98.48 44  GUMK  1 
+ATOM   331  N N     . ILE GUMK  1 45  ? -9.461  -8.897  0.098   1.00 98.68 45  GUMK  1 
+ATOM   332  C CA    . ILE GUMK  1 45  ? -9.067  -10.260 0.433   1.00 98.60 45  GUMK  1 
+ATOM   333  C C     . ILE GUMK  1 45  ? -7.918  -10.163 1.431   1.00 98.67 45  GUMK  1 
+ATOM   334  O O     . ILE GUMK  1 45  ? -6.872  -9.582  1.131   1.00 98.52 45  GUMK  1 
+ATOM   335  C CB    . ILE GUMK  1 45  ? -8.614  -11.039 -0.820  1.00 98.33 45  GUMK  1 
+ATOM   336  C CG1   . ILE GUMK  1 45  ? -9.746  -11.044 -1.857  1.00 96.81 45  GUMK  1 
+ATOM   337  C CG2   . ILE GUMK  1 45  ? -8.227  -12.462 -0.441  1.00 96.99 45  GUMK  1 
+ATOM   338  C CD1   . ILE GUMK  1 45  ? -9.403  -11.753 -3.155  1.00 84.46 45  GUMK  1 
+ATOM   339  N N     . VAL GUMK  1 46  ? -8.120  -10.713 2.621   1.00 98.63 46  GUMK  1 
+ATOM   340  C CA    . VAL GUMK  1 46  ? -7.115  -10.665 3.677   1.00 98.56 46  GUMK  1 
+ATOM   341  C C     . VAL GUMK  1 46  ? -6.330  -11.969 3.779   1.00 98.42 46  GUMK  1 
+ATOM   342  O O     . VAL GUMK  1 46  ? -6.909  -13.045 3.938   1.00 97.88 46  GUMK  1 
+ATOM   343  C CB    . VAL GUMK  1 46  ? -7.776  -10.360 5.040   1.00 98.31 46  GUMK  1 
+ATOM   344  C CG1   . VAL GUMK  1 46  ? -6.722  -10.291 6.140   1.00 97.24 46  GUMK  1 
+ATOM   345  C CG2   . VAL GUMK  1 46  ? -8.542  -9.046  4.962   1.00 97.44 46  GUMK  1 
+ATOM   346  N N     . TYR GUMK  1 47  ? -4.998  -11.852 3.677   1.00 98.60 47  GUMK  1 
+ATOM   347  C CA    . TYR GUMK  1 47  ? -4.098  -12.999 3.761   1.00 98.46 47  GUMK  1 
+ATOM   348  C C     . TYR GUMK  1 47  ? -3.262  -12.868 5.024   1.00 98.28 47  GUMK  1 
+ATOM   349  O O     . TYR GUMK  1 47  ? -2.946  -11.762 5.464   1.00 97.05 47  GUMK  1 
+ATOM   350  C CB    . TYR GUMK  1 47  ? -3.140  -13.023 2.567   1.00 98.25 47  GUMK  1 
+ATOM   351  C CG    . TYR GUMK  1 47  ? -3.790  -13.019 1.203   1.00 98.37 47  GUMK  1 
+ATOM   352  C CD1   . TYR GUMK  1 47  ? -3.957  -14.204 0.484   1.00 97.94 47  GUMK  1 
+ATOM   353  C CD2   . TYR GUMK  1 47  ? -4.208  -11.827 0.616   1.00 98.04 47  GUMK  1 
+ATOM   354  C CE1   . TYR GUMK  1 47  ? -4.531  -14.201 -0.785  1.00 97.72 47  GUMK  1 
+ATOM   355  C CE2   . TYR GUMK  1 47  ? -4.792  -11.815 -0.651  1.00 97.80 47  GUMK  1 
+ATOM   356  C CZ    . TYR GUMK  1 47  ? -4.945  -13.004 -1.346  1.00 97.91 47  GUMK  1 
+ATOM   357  O OH    . TYR GUMK  1 47  ? -5.517  -12.992 -2.599  1.00 97.35 47  GUMK  1 
+ATOM   358  N N     . GLY GUMK  1 48  ? -2.878  -14.006 5.597   1.00 97.46 48  GUMK  1 
+ATOM   359  C CA    . GLY GUMK  1 48  ? -2.037  -13.969 6.779   1.00 97.43 48  GUMK  1 
+ATOM   360  C C     . GLY GUMK  1 48  ? -0.600  -13.754 6.341   1.00 98.00 48  GUMK  1 
+ATOM   361  O O     . GLY GUMK  1 48  ? -0.344  -13.303 5.223   1.00 97.21 48  GUMK  1 
+ATOM   362  N N     . GLU GUMK  1 49  ? 0.360   -14.083 7.218   1.00 97.73 49  GUMK  1 
+ATOM   363  C CA    . GLU GUMK  1 49  ? 1.774   -13.948 6.886   1.00 97.76 49  GUMK  1 
+ATOM   364  C C     . GLU GUMK  1 49  ? 2.087   -14.786 5.651   1.00 98.04 49  GUMK  1 
+ATOM   365  O O     . GLU GUMK  1 49  ? 1.616   -15.913 5.521   1.00 97.34 49  GUMK  1 
+ATOM   366  C CB    . GLU GUMK  1 49  ? 2.636   -14.422 8.060   1.00 96.50 49  GUMK  1 
+ATOM   367  C CG    . GLU GUMK  1 49  ? 3.197   -13.300 8.918   1.00 83.73 49  GUMK  1 
+ATOM   368  C CD    . GLU GUMK  1 49  ? 4.385   -12.612 8.266   1.00 77.47 49  GUMK  1 
+ATOM   369  O OE1   . GLU GUMK  1 49  ? 5.307   -13.314 7.796   1.00 70.98 49  GUMK  1 
+ATOM   370  O OE2   . GLU GUMK  1 49  ? 4.401   -11.363 8.233   1.00 69.93 49  GUMK  1 
+ATOM   371  N N     . MET GUMK  1 50  ? 2.876   -14.227 4.745   1.00 98.07 50  GUMK  1 
+ATOM   372  C CA    . MET GUMK  1 50  ? 3.228   -14.903 3.501   1.00 98.15 50  GUMK  1 
+ATOM   373  C C     . MET GUMK  1 50  ? 4.733   -14.799 3.274   1.00 98.25 50  GUMK  1 
+ATOM   374  O O     . MET GUMK  1 50  ? 5.342   -13.778 3.580   1.00 97.63 50  GUMK  1 
+ATOM   375  C CB    . MET GUMK  1 50  ? 2.473   -14.253 2.334   1.00 97.38 50  GUMK  1 
+ATOM   376  C CG    . MET GUMK  1 50  ? 2.654   -14.940 0.996   1.00 96.16 50  GUMK  1 
+ATOM   377  S SD    . MET GUMK  1 50  ? 1.773   -14.091 -0.345  1.00 96.51 50  GUMK  1 
+ATOM   378  C CE    . MET GUMK  1 50  ? 0.063   -14.401 0.108   1.00 93.24 50  GUMK  1 
+ATOM   379  N N     . LYS GUMK  1 51  ? 5.334   -15.859 2.730   1.00 98.12 51  GUMK  1 
+ATOM   380  C CA    . LYS GUMK  1 51  ? 6.765   -15.844 2.448   1.00 98.05 51  GUMK  1 
+ATOM   381  C C     . LYS GUMK  1 51  ? 7.050   -14.690 1.486   1.00 97.98 51  GUMK  1 
+ATOM   382  O O     . LYS GUMK  1 51  ? 6.291   -14.458 0.543   1.00 97.29 51  GUMK  1 
+ATOM   383  C CB    . LYS GUMK  1 51  ? 7.203   -17.160 1.802   1.00 97.55 51  GUMK  1 
+ATOM   384  C CG    . LYS GUMK  1 51  ? 6.856   -18.407 2.607   1.00 86.78 51  GUMK  1 
+ATOM   385  C CD    . LYS GUMK  1 51  ? 7.499   -18.410 3.984   1.00 83.35 51  GUMK  1 
+ATOM   386  C CE    . LYS GUMK  1 51  ? 7.169   -19.699 4.733   1.00 73.88 51  GUMK  1 
+ATOM   387  N NZ    . LYS GUMK  1 51  ? 7.747   -19.720 6.100   1.00 65.02 51  GUMK  1 
+ATOM   388  N N     . HIS GUMK  1 52  ? 8.157   -13.988 1.728   1.00 97.86 52  GUMK  1 
+ATOM   389  C CA    . HIS GUMK  1 52  ? 8.536   -12.852 0.888   1.00 97.41 52  GUMK  1 
+ATOM   390  C C     . HIS GUMK  1 52  ? 8.515   -13.178 -0.604  1.00 97.49 52  GUMK  1 
+ATOM   391  O O     . HIS GUMK  1 52  ? 7.958   -12.425 -1.406  1.00 97.15 52  GUMK  1 
+ATOM   392  C CB    . HIS GUMK  1 52  ? 9.930   -12.357 1.275   1.00 96.16 52  GUMK  1 
+ATOM   393  C CG    . HIS GUMK  1 52  ? 10.451  -11.267 0.388   1.00 92.80 52  GUMK  1 
+ATOM   394  N ND1   . HIS GUMK  1 52  ? 9.972   -9.973  0.428   1.00 82.56 52  GUMK  1 
+ATOM   395  C CD2   . HIS GUMK  1 52  ? 11.388  -11.295 -0.590  1.00 82.07 52  GUMK  1 
+ATOM   396  C CE1   . HIS GUMK  1 52  ? 10.592  -9.250  -0.486  1.00 83.49 52  GUMK  1 
+ATOM   397  N NE2   . HIS GUMK  1 52  ? 11.458  -10.029 -1.119  1.00 84.51 52  GUMK  1 
+ATOM   398  N N     . ALA GUMK  1 53  ? 9.131   -14.300 -0.975  1.00 97.19 53  GUMK  1 
+ATOM   399  C CA    . ALA GUMK  1 53  ? 9.190   -14.697 -2.381  1.00 97.24 53  GUMK  1 
+ATOM   400  C C     . ALA GUMK  1 53  ? 7.805   -14.850 -3.003  1.00 97.13 53  GUMK  1 
+ATOM   401  O O     . ALA GUMK  1 53  ? 7.609   -14.557 -4.185  1.00 96.33 53  GUMK  1 
+ATOM   402  C CB    . ALA GUMK  1 53  ? 9.975   -16.000 -2.520  1.00 96.86 53  GUMK  1 
+ATOM   403  N N     . GLN GUMK  1 54  ? 6.844   -15.303 -2.213  1.00 97.70 54  GUMK  1 
+ATOM   404  C CA    . GLN GUMK  1 54  ? 5.489   -15.494 -2.712  1.00 97.70 54  GUMK  1 
+ATOM   405  C C     . GLN GUMK  1 54  ? 4.749   -14.176 -2.923  1.00 97.78 54  GUMK  1 
+ATOM   406  O O     . GLN GUMK  1 54  ? 3.878   -14.077 -3.787  1.00 97.35 54  GUMK  1 
+ATOM   407  C CB    . GLN GUMK  1 54  ? 4.702   -16.396 -1.752  1.00 97.24 54  GUMK  1 
+ATOM   408  C CG    . GLN GUMK  1 54  ? 5.229   -17.823 -1.687  1.00 89.16 54  GUMK  1 
+ATOM   409  C CD    . GLN GUMK  1 54  ? 4.545   -18.667 -0.630  1.00 82.59 54  GUMK  1 
+ATOM   410  O OE1   . GLN GUMK  1 54  ? 3.629   -18.218 0.055   1.00 75.49 54  GUMK  1 
+ATOM   411  N NE2   . GLN GUMK  1 54  ? 4.997   -19.912 -0.488  1.00 72.46 54  GUMK  1 
+ATOM   412  N N     . THR GUMK  1 55  ? 5.110   -13.158 -2.146  1.00 97.90 55  GUMK  1 
+ATOM   413  C CA    . THR GUMK  1 55  ? 4.446   -11.861 -2.284  1.00 97.81 55  GUMK  1 
+ATOM   414  C C     . THR GUMK  1 55  ? 4.811   -11.184 -3.607  1.00 97.71 55  GUMK  1 
+ATOM   415  O O     . THR GUMK  1 55  ? 4.035   -10.380 -4.129  1.00 97.37 55  GUMK  1 
+ATOM   416  C CB    . THR GUMK  1 55  ? 4.800   -10.887 -1.132  1.00 97.59 55  GUMK  1 
+ATOM   417  O OG1   . THR GUMK  1 55  ? 6.180   -10.517 -1.212  1.00 96.58 55  GUMK  1 
+ATOM   418  C CG2   . THR GUMK  1 55  ? 4.522   -11.530 0.219   1.00 96.65 55  GUMK  1 
+ATOM   419  N N     . ILE GUMK  1 56  ? 5.985   -11.508 -4.143  1.00 96.93 56  GUMK  1 
+ATOM   420  C CA    . ILE GUMK  1 56  ? 6.433   -10.914 -5.397  1.00 96.37 56  GUMK  1 
+ATOM   421  C C     . ILE GUMK  1 56  ? 5.447   -11.188 -6.530  1.00 96.55 56  GUMK  1 
+ATOM   422  O O     . ILE GUMK  1 56  ? 5.220   -10.338 -7.394  1.00 96.20 56  GUMK  1 
+ATOM   423  C CB    . ILE GUMK  1 56  ? 7.833   -11.441 -5.791  1.00 95.12 56  GUMK  1 
+ATOM   424  C CG1   . ILE GUMK  1 56  ? 8.857   -11.062 -4.717  1.00 91.83 56  GUMK  1 
+ATOM   425  C CG2   . ILE GUMK  1 56  ? 8.258   -10.880 -7.146  1.00 91.37 56  GUMK  1 
+ATOM   426  C CD1   . ILE GUMK  1 56  ? 8.970   -9.574  -4.463  1.00 81.16 56  GUMK  1 
+ATOM   427  N N     . GLY GUMK  1 57  ? 4.861   -12.368 -6.525  1.00 96.65 57  GUMK  1 
+ATOM   428  C CA    . GLY GUMK  1 57  ? 3.886   -12.708 -7.551  1.00 96.59 57  GUMK  1 
+ATOM   429  C C     . GLY GUMK  1 57  ? 2.690   -11.772 -7.527  1.00 97.16 57  GUMK  1 
+ATOM   430  O O     . GLY GUMK  1 57  ? 2.185   -11.357 -8.574  1.00 96.60 57  GUMK  1 
+ATOM   431  N N     . TYR GUMK  1 58  ? 2.245   -11.425 -6.320  1.00 97.60 58  GUMK  1 
+ATOM   432  C CA    . TYR GUMK  1 58  ? 1.118   -10.510 -6.179  1.00 97.83 58  GUMK  1 
+ATOM   433  C C     . TYR GUMK  1 58  ? 1.495   -9.113  -6.654  1.00 97.87 58  GUMK  1 
+ATOM   434  O O     . TYR GUMK  1 58  ? 0.694   -8.428  -7.291  1.00 97.47 58  GUMK  1 
+ATOM   435  C CB    . TYR GUMK  1 58  ? 0.641   -10.453 -4.724  1.00 97.84 58  GUMK  1 
+ATOM   436  C CG    . TYR GUMK  1 58  ? -0.086  -11.702 -4.277  1.00 97.83 58  GUMK  1 
+ATOM   437  C CD1   . TYR GUMK  1 58  ? 0.612   -12.817 -3.830  1.00 97.22 58  GUMK  1 
+ATOM   438  C CD2   . TYR GUMK  1 58  ? -1.475  -11.775 -4.346  1.00 97.19 58  GUMK  1 
+ATOM   439  C CE1   . TYR GUMK  1 58  ? -0.056  -13.981 -3.462  1.00 96.61 58  GUMK  1 
+ATOM   440  C CE2   . TYR GUMK  1 58  ? -2.155  -12.932 -3.975  1.00 96.57 58  GUMK  1 
+ATOM   441  C CZ    . TYR GUMK  1 58  ? -1.439  -14.032 -3.536  1.00 96.74 58  GUMK  1 
+ATOM   442  O OH    . TYR GUMK  1 58  ? -2.101  -15.183 -3.174  1.00 95.70 58  GUMK  1 
+ATOM   443  N N     . ILE GUMK  1 59  ? 2.723   -8.693  -6.343  1.00 97.43 59  GUMK  1 
+ATOM   444  C CA    . ILE GUMK  1 59  ? 3.191   -7.377  -6.758  1.00 97.34 59  GUMK  1 
+ATOM   445  C C     . ILE GUMK  1 59  ? 3.260   -7.296  -8.284  1.00 97.23 59  GUMK  1 
+ATOM   446  O O     . ILE GUMK  1 59  ? 2.794   -6.328  -8.885  1.00 96.72 59  GUMK  1 
+ATOM   447  C CB    . ILE GUMK  1 59  ? 4.580   -7.065  -6.150  1.00 97.16 59  GUMK  1 
+ATOM   448  C CG1   . ILE GUMK  1 59  ? 4.461   -6.977  -4.622  1.00 96.33 59  GUMK  1 
+ATOM   449  C CG2   . ILE GUMK  1 59  ? 5.129   -5.761  -6.717  1.00 96.35 59  GUMK  1 
+ATOM   450  C CD1   . ILE GUMK  1 59  ? 5.784   -6.793  -3.899  1.00 94.24 59  GUMK  1 
+ATOM   451  N N     . LYS GUMK  1 60  ? 3.827   -8.314  -8.910  1.00 96.63 60  GUMK  1 
+ATOM   452  C CA    . LYS GUMK  1 60  ? 3.959   -8.337  -10.366 1.00 95.78 60  GUMK  1 
+ATOM   453  C C     . LYS GUMK  1 60  ? 2.623   -8.335  -11.110 1.00 95.60 60  GUMK  1 
+ATOM   454  O O     . LYS GUMK  1 60  ? 2.527   -7.802  -12.211 1.00 94.41 60  GUMK  1 
+ATOM   455  C CB    . LYS GUMK  1 60  ? 4.775   -9.555  -10.808 1.00 93.90 60  GUMK  1 
+ATOM   456  C CG    . LYS GUMK  1 60  ? 6.253   -9.476  -10.468 1.00 85.78 60  GUMK  1 
+ATOM   457  C CD    . LYS GUMK  1 60  ? 7.006   -10.674 -11.027 1.00 84.43 60  GUMK  1 
+ATOM   458  C CE    . LYS GUMK  1 60  ? 8.501   -10.564 -10.783 1.00 75.85 60  GUMK  1 
+ATOM   459  N NZ    . LYS GUMK  1 60  ? 9.243   -11.722 -11.348 1.00 70.27 60  GUMK  1 
+ATOM   460  N N     . HIS GUMK  1 61  ? 1.608   -8.929  -10.512 1.00 95.78 61  GUMK  1 
+ATOM   461  C CA    . HIS GUMK  1 61  ? 0.301   -8.996  -11.155 1.00 95.51 61  GUMK  1 
+ATOM   462  C C     . HIS GUMK  1 61  ? -0.655  -7.870  -10.762 1.00 96.34 61  GUMK  1 
+ATOM   463  O O     . HIS GUMK  1 61  ? -1.766  -7.780  -11.284 1.00 95.34 61  GUMK  1 
+ATOM   464  C CB    . HIS GUMK  1 61  ? -0.356  -10.348 -10.857 1.00 93.66 61  GUMK  1 
+ATOM   465  C CG    . HIS GUMK  1 61  ? 0.284   -11.502 -11.571 1.00 85.98 61  GUMK  1 
+ATOM   466  N ND1   . HIS GUMK  1 61  ? 0.177   -11.690 -12.933 1.00 77.13 61  GUMK  1 
+ATOM   467  C CD2   . HIS GUMK  1 61  ? 1.055   -12.513 -11.115 1.00 74.43 61  GUMK  1 
+ATOM   468  C CE1   . HIS GUMK  1 61  ? 0.855   -12.765 -13.285 1.00 75.62 61  GUMK  1 
+ATOM   469  N NE2   . HIS GUMK  1 61  ? 1.402   -13.288 -12.203 1.00 76.13 61  GUMK  1 
+ATOM   470  N N     . ALA GUMK  1 62  ? -0.218  -7.014  -9.842  1.00 97.75 62  GUMK  1 
+ATOM   471  C CA    . ALA GUMK  1 62  ? -1.060  -5.912  -9.391  1.00 98.06 62  GUMK  1 
+ATOM   472  C C     . ALA GUMK  1 62  ? -1.021  -4.704  -10.323 1.00 98.08 62  GUMK  1 
+ATOM   473  O O     . ALA GUMK  1 62  ? -0.073  -4.517  -11.084 1.00 97.72 62  GUMK  1 
+ATOM   474  C CB    . ALA GUMK  1 62  ? -0.645  -5.487  -7.987  1.00 97.99 62  GUMK  1 
+ATOM   475  N N     . ARG GUMK  1 63  ? -2.071  -3.899  -10.253 1.00 98.31 63  GUMK  1 
+ATOM   476  C CA    . ARG GUMK  1 63  ? -2.158  -2.683  -11.046 1.00 98.13 63  GUMK  1 
+ATOM   477  C C     . ARG GUMK  1 63  ? -1.449  -1.559  -10.301 1.00 98.29 63  GUMK  1 
+ATOM   478  O O     . ARG GUMK  1 63  ? -0.829  -0.692  -10.912 1.00 97.67 63  GUMK  1 
+ATOM   479  C CB    . ARG GUMK  1 63  ? -3.626  -2.316  -11.282 1.00 97.12 63  GUMK  1 
+ATOM   480  C CG    . ARG GUMK  1 63  ? -3.843  -1.197  -12.290 1.00 87.12 63  GUMK  1 
+ATOM   481  C CD    . ARG GUMK  1 63  ? -3.310  -1.586  -13.656 1.00 80.71 63  GUMK  1 
+ATOM   482  N NE    . ARG GUMK  1 63  ? -3.703  -0.633  -14.693 1.00 74.27 63  GUMK  1 
+ATOM   483  C CZ    . ARG GUMK  1 63  ? -3.283  -0.681  -15.949 1.00 66.33 63  GUMK  1 
+ATOM   484  N NH1   . ARG GUMK  1 63  ? -2.448  -1.634  -16.337 1.00 60.08 63  GUMK  1 
+ATOM   485  N NH2   . ARG GUMK  1 63  ? -3.697  0.226   -16.822 1.00 59.88 63  GUMK  1 
+ATOM   486  N N     . PHE GUMK  1 64  ? -1.547  -1.580  -8.966  1.00 98.61 64  GUMK  1 
+ATOM   487  C CA    . PHE GUMK  1 64  ? -0.847  -0.613  -8.125  1.00 98.78 64  GUMK  1 
+ATOM   488  C C     . PHE GUMK  1 64  ? -0.629  -1.187  -6.729  1.00 98.83 64  GUMK  1 
+ATOM   489  O O     . PHE GUMK  1 64  ? -1.338  -2.099  -6.302  1.00 98.78 64  GUMK  1 
+ATOM   490  C CB    . PHE GUMK  1 64  ? -1.590  0.734   -8.054  1.00 98.79 64  GUMK  1 
+ATOM   491  C CG    . PHE GUMK  1 64  ? -2.933  0.688   -7.356  1.00 98.86 64  GUMK  1 
+ATOM   492  C CD1   . PHE GUMK  1 64  ? -4.094  0.376   -8.062  1.00 98.71 64  GUMK  1 
+ATOM   493  C CD2   . PHE GUMK  1 64  ? -3.042  1.023   -6.010  1.00 98.68 64  GUMK  1 
+ATOM   494  C CE1   . PHE GUMK  1 64  ? -5.338  0.385   -7.433  1.00 98.62 64  GUMK  1 
+ATOM   495  C CE2   . PHE GUMK  1 64  ? -4.285  1.034   -5.370  1.00 98.61 64  GUMK  1 
+ATOM   496  C CZ    . PHE GUMK  1 64  ? -5.435  0.715   -6.086  1.00 98.73 64  GUMK  1 
+ATOM   497  N N     . GLY GUMK  1 65  ? 0.399   -0.663  -6.044  1.00 98.87 65  GUMK  1 
+ATOM   498  C CA    . GLY GUMK  1 65  ? 0.717   -1.121  -4.706  1.00 98.87 65  GUMK  1 
+ATOM   499  C C     . GLY GUMK  1 65  ? 0.265   -0.081  -3.700  1.00 98.90 65  GUMK  1 
+ATOM   500  O O     . GLY GUMK  1 65  ? 0.072   1.086   -4.049  1.00 98.83 65  GUMK  1 
+ATOM   501  N N     . ILE GUMK  1 66  ? 0.105   -0.503  -2.449  1.00 98.80 66  GUMK  1 
+ATOM   502  C CA    . ILE GUMK  1 66  ? -0.356  0.401   -1.397  1.00 98.81 66  GUMK  1 
+ATOM   503  C C     . ILE GUMK  1 66  ? 0.516   0.321   -0.150  1.00 98.76 66  GUMK  1 
+ATOM   504  O O     . ILE GUMK  1 66  ? 0.897   -0.765  0.283   1.00 98.63 66  GUMK  1 
+ATOM   505  C CB    . ILE GUMK  1 66  ? -1.803  0.056   -0.983  1.00 98.80 66  GUMK  1 
+ATOM   506  C CG1   . ILE GUMK  1 66  ? -2.734  0.063   -2.196  1.00 98.39 66  GUMK  1 
+ATOM   507  C CG2   . ILE GUMK  1 66  ? -2.300  1.047   0.079   1.00 98.54 66  GUMK  1 
+ATOM   508  C CD1   . ILE GUMK  1 66  ? -4.074  -0.606  -1.933  1.00 97.93 66  GUMK  1 
+ATOM   509  N N     . ALA GUMK  1 67  ? 0.845   1.485   0.409   1.00 98.61 67  GUMK  1 
+ATOM   510  C CA    . ALA GUMK  1 67  ? 1.613   1.569   1.646   1.00 98.54 67  GUMK  1 
+ATOM   511  C C     . ALA GUMK  1 67  ? 0.712   2.406   2.562   1.00 98.53 67  GUMK  1 
+ATOM   512  O O     . ALA GUMK  1 67  ? 0.865   3.626   2.642   1.00 98.36 67  GUMK  1 
+ATOM   513  C CB    . ALA GUMK  1 67  ? 2.950   2.274   1.409   1.00 98.38 67  GUMK  1 
+ATOM   514  N N     . PRO GUMK  1 68  ? -0.245  1.769   3.221   1.00 98.49 68  GUMK  1 
+ATOM   515  C CA    . PRO GUMK  1 68  ? -1.230  2.453   4.063   1.00 98.42 68  GUMK  1 
+ATOM   516  C C     . PRO GUMK  1 68  ? -0.775  2.843   5.469   1.00 98.19 68  GUMK  1 
+ATOM   517  O O     . PRO GUMK  1 68  ? -1.384  2.448   6.462   1.00 97.48 68  GUMK  1 
+ATOM   518  C CB    . PRO GUMK  1 68  ? -2.381  1.449   4.090   1.00 98.36 68  GUMK  1 
+ATOM   519  C CG    . PRO GUMK  1 68  ? -1.654  0.140   4.202   1.00 98.01 68  GUMK  1 
+ATOM   520  C CD    . PRO GUMK  1 68  ? -0.505  0.310   3.204   1.00 98.48 68  GUMK  1 
+ATOM   521  N N     . TYR GUMK  1 69  ? 0.285   3.643   5.556   1.00 98.11 69  GUMK  1 
+ATOM   522  C CA    . TYR GUMK  1 69  ? 0.767   4.096   6.855   1.00 97.88 69  GUMK  1 
+ATOM   523  C C     . TYR GUMK  1 69  ? -0.321  4.989   7.462   1.00 97.61 69  GUMK  1 
+ATOM   524  O O     . TYR GUMK  1 69  ? -0.762  5.952   6.835   1.00 97.19 69  GUMK  1 
+ATOM   525  C CB    . TYR GUMK  1 69  ? 2.074   4.863   6.689   1.00 97.66 69  GUMK  1 
+ATOM   526  C CG    . TYR GUMK  1 69  ? 3.203   4.018   6.128   1.00 97.86 69  GUMK  1 
+ATOM   527  C CD1   . TYR GUMK  1 69  ? 3.685   2.908   6.824   1.00 97.47 69  GUMK  1 
+ATOM   528  C CD2   . TYR GUMK  1 69  ? 3.791   4.327   4.901   1.00 97.47 69  GUMK  1 
+ATOM   529  C CE1   . TYR GUMK  1 69  ? 4.723   2.126   6.313   1.00 97.22 69  GUMK  1 
+ATOM   530  C CE2   . TYR GUMK  1 69  ? 4.832   3.554   4.383   1.00 97.21 69  GUMK  1 
+ATOM   531  C CZ    . TYR GUMK  1 69  ? 5.293   2.455   5.096   1.00 97.52 69  GUMK  1 
+ATOM   532  O OH    . TYR GUMK  1 69  ? 6.324   1.691   4.586   1.00 96.87 69  GUMK  1 
+ATOM   533  N N     . ALA GUMK  1 70  ? -0.738  4.659   8.664   1.00 96.63 70  GUMK  1 
+ATOM   534  C CA    . ALA GUMK  1 70  ? -1.837  5.349   9.334   1.00 95.18 70  GUMK  1 
+ATOM   535  C C     . ALA GUMK  1 70  ? -1.613  6.774   9.833   1.00 92.69 70  GUMK  1 
+ATOM   536  O O     . ALA GUMK  1 70  ? -2.535  7.592   9.807   1.00 86.39 70  GUMK  1 
+ATOM   537  C CB    . ALA GUMK  1 70  ? -2.340  4.490   10.490  1.00 93.97 70  GUMK  1 
+ATOM   538  N N     . SER GUMK  1 71  ? -0.408  7.070   10.295  1.00 90.57 71  GUMK  1 
+ATOM   539  C CA    . SER GUMK  1 71  ? -0.124  8.392   10.852  1.00 86.49 71  GUMK  1 
+ATOM   540  C C     . SER GUMK  1 71  ? 0.094   9.497   9.824   1.00 85.55 71  GUMK  1 
+ATOM   541  O O     . SER GUMK  1 71  ? 0.770   9.299   8.816   1.00 80.11 71  GUMK  1 
+ATOM   542  C CB    . SER GUMK  1 71  ? 1.098   8.317   11.767  1.00 80.48 71  GUMK  1 
+ATOM   543  O OG    . SER GUMK  1 71  ? 1.402   9.592   12.307  1.00 72.60 71  GUMK  1 
+ATOM   544  N N     . GLU GUMK  1 72  ? -0.489  10.662  10.104  1.00 81.30 72  GUMK  1 
+ATOM   545  C CA    . GLU GUMK  1 72  ? -0.301  11.816  9.230   1.00 79.38 72  GUMK  1 
+ATOM   546  C C     . GLU GUMK  1 72  ? 1.118   12.334  9.434   1.00 80.98 72  GUMK  1 
+ATOM   547  O O     . GLU GUMK  1 72  ? 1.631   13.101  8.620   1.00 75.39 72  GUMK  1 
+ATOM   548  C CB    . GLU GUMK  1 72  ? -1.307  12.921  9.556   1.00 73.95 72  GUMK  1 
+ATOM   549  C CG    . GLU GUMK  1 72  ? -2.722  12.610  9.099   1.00 66.58 72  GUMK  1 
+ATOM   550  C CD    . GLU GUMK  1 72  ? -3.637  13.824  9.152   1.00 61.51 72  GUMK  1 
+ATOM   551  O OE1   . GLU GUMK  1 72  ? -3.132  14.959  9.216   1.00 58.02 72  GUMK  1 
+ATOM   552  O OE2   . GLU GUMK  1 72  ? -4.868  13.631  9.105   1.00 57.88 72  GUMK  1 
+ATOM   553  N N     . GLN GUMK  1 73  ? 1.743   11.896  10.518  1.00 85.28 73  GUMK  1 
+ATOM   554  C CA    . GLN GUMK  1 73  ? 3.104   12.309  10.837  1.00 85.49 73  GUMK  1 
+ATOM   555  C C     . GLN GUMK  1 73  ? 4.064   11.140  10.652  1.00 87.38 73  GUMK  1 
+ATOM   556  O O     . GLN GUMK  1 73  ? 5.054   11.002  11.366  1.00 84.34 73  GUMK  1 
+ATOM   557  C CB    . GLN GUMK  1 73  ? 3.177   12.827  12.277  1.00 82.59 73  GUMK  1 
+ATOM   558  C CG    . GLN GUMK  1 73  ? 2.286   14.029  12.541  1.00 76.08 73  GUMK  1 
+ATOM   559  C CD    . GLN GUMK  1 73  ? 2.385   14.522  13.971  1.00 68.03 73  GUMK  1 
+ATOM   560  O OE1   . GLN GUMK  1 73  ? 2.225   13.751  14.918  1.00 62.97 73  GUMK  1 
+ATOM   561  N NE2   . GLN GUMK  1 73  ? 2.650   15.812  14.133  1.00 60.81 73  GUMK  1 
+ATOM   562  N N     . VAL GUMK  1 74  ? 3.774   10.299  9.671   1.00 88.81 74  GUMK  1 
+ATOM   563  C CA    . VAL GUMK  1 74  ? 4.617   9.139   9.385   1.00 88.29 74  GUMK  1 
+ATOM   564  C C     . VAL GUMK  1 74  ? 6.042   9.633   9.100   1.00 89.03 74  GUMK  1 
+ATOM   565  O O     . VAL GUMK  1 74  ? 6.232   10.629  8.396   1.00 88.59 74  GUMK  1 
+ATOM   566  C CB    . VAL GUMK  1 74  ? 4.072   8.346   8.167   1.00 86.39 74  GUMK  1 
+ATOM   567  C CG1   . VAL GUMK  1 74  ? 3.963   9.256   6.938   1.00 79.61 74  GUMK  1 
+ATOM   568  C CG2   . VAL GUMK  1 74  ? 4.967   7.152   7.863   1.00 81.96 74  GUMK  1 
+ATOM   569  N N     . PRO GUMK  1 75  ? 7.059   8.964   9.663   1.00 89.28 75  GUMK  1 
+ATOM   570  C CA    . PRO GUMK  1 75  ? 8.455   9.370   9.456   1.00 88.08 75  GUMK  1 
+ATOM   571  C C     . PRO GUMK  1 75  ? 8.805   9.545   7.978   1.00 88.97 75  GUMK  1 
+ATOM   572  O O     . PRO GUMK  1 75  ? 8.600   8.639   7.172   1.00 88.20 75  GUMK  1 
+ATOM   573  C CB    . PRO GUMK  1 75  ? 9.242   8.235   10.106  1.00 86.27 75  GUMK  1 
+ATOM   574  C CG    . PRO GUMK  1 75  ? 8.335   7.796   11.219  1.00 84.48 75  GUMK  1 
+ATOM   575  C CD    . PRO GUMK  1 75  ? 6.980   7.787   10.553  1.00 86.37 75  GUMK  1 
+ATOM   576  N N     . VAL GUMK  1 76  ? 9.345   10.718  7.633   1.00 89.04 76  GUMK  1 
+ATOM   577  C CA    . VAL GUMK  1 76  ? 9.701   10.993  6.244   1.00 89.36 76  GUMK  1 
+ATOM   578  C C     . VAL GUMK  1 76  ? 10.789  10.078  5.694   1.00 90.32 76  GUMK  1 
+ATOM   579  O O     . VAL GUMK  1 76  ? 10.884  9.891   4.481   1.00 88.43 76  GUMK  1 
+ATOM   580  C CB    . VAL GUMK  1 76  ? 10.144  12.468  6.054   1.00 86.58 76  GUMK  1 
+ATOM   581  C CG1   . VAL GUMK  1 76  ? 8.982   13.400  6.386   1.00 76.69 76  GUMK  1 
+ATOM   582  C CG2   . VAL GUMK  1 76  ? 11.350  12.776  6.927   1.00 77.16 76  GUMK  1 
+ATOM   583  N N     . TYR GUMK  1 77  ? 11.604  9.493   6.585   1.00 90.45 77  GUMK  1 
+ATOM   584  C CA    . TYR GUMK  1 77  ? 12.668  8.607   6.115   1.00 90.33 77  GUMK  1 
+ATOM   585  C C     . TYR GUMK  1 77  ? 12.113  7.350   5.451   1.00 91.82 77  GUMK  1 
+ATOM   586  O O     . TYR GUMK  1 77  ? 12.829  6.655   4.729   1.00 90.14 77  GUMK  1 
+ATOM   587  C CB    . TYR GUMK  1 77  ? 13.630  8.247   7.263   1.00 87.89 77  GUMK  1 
+ATOM   588  C CG    . TYR GUMK  1 77  ? 13.021  7.427   8.389   1.00 81.53 77  GUMK  1 
+ATOM   589  C CD1   . TYR GUMK  1 77  ? 12.738  6.071   8.216   1.00 74.63 77  GUMK  1 
+ATOM   590  C CD2   . TYR GUMK  1 77  ? 12.759  8.001   9.627   1.00 74.90 77  GUMK  1 
+ATOM   591  C CE1   . TYR GUMK  1 77  ? 12.194  5.311   9.250   1.00 68.68 77  GUMK  1 
+ATOM   592  C CE2   . TYR GUMK  1 77  ? 12.217  7.250   10.673  1.00 69.31 77  GUMK  1 
+ATOM   593  C CZ    . TYR GUMK  1 77  ? 11.937  5.908   10.476  1.00 67.70 77  GUMK  1 
+ATOM   594  O OH    . TYR GUMK  1 77  ? 11.399  5.159   11.503  1.00 64.09 77  GUMK  1 
+ATOM   595  N N     . LEU GUMK  1 78  ? 10.849  7.064   5.679   1.00 89.45 78  GUMK  1 
+ATOM   596  C CA    . LEU GUMK  1 78  ? 10.229  5.892   5.068   1.00 89.54 78  GUMK  1 
+ATOM   597  C C     . LEU GUMK  1 78  ? 10.145  6.042   3.553   1.00 90.21 78  GUMK  1 
+ATOM   598  O O     . LEU GUMK  1 78  ? 9.983   5.059   2.834   1.00 89.73 78  GUMK  1 
+ATOM   599  C CB    . LEU GUMK  1 78  ? 8.827   5.648   5.643   1.00 88.45 78  GUMK  1 
+ATOM   600  C CG    . LEU GUMK  1 78  ? 8.774   5.021   7.040   1.00 85.01 78  GUMK  1 
+ATOM   601  C CD1   . LEU GUMK  1 78  ? 7.331   4.930   7.512   1.00 82.56 78  GUMK  1 
+ATOM   602  C CD2   . LEU GUMK  1 78  ? 9.405   3.630   6.997   1.00 83.26 78  GUMK  1 
+ATOM   603  N N     . ALA GUMK  1 79  ? 10.277  7.263   3.064   1.00 91.69 79  GUMK  1 
+ATOM   604  C CA    . ALA GUMK  1 79  ? 10.224  7.505   1.625   1.00 90.69 79  GUMK  1 
+ATOM   605  C C     . ALA GUMK  1 79  ? 11.308  6.703   0.908   1.00 91.13 79  GUMK  1 
+ATOM   606  O O     . ALA GUMK  1 79  ? 11.108  6.243   -0.218  1.00 89.95 79  GUMK  1 
+ATOM   607  C CB    . ALA GUMK  1 79  ? 10.393  8.995   1.328   1.00 89.57 79  GUMK  1 
+ATOM   608  N N     . ASP GUMK  1 80  ? 12.457  6.534   1.560   1.00 93.46 80  GUMK  1 
+ATOM   609  C CA    . ASP GUMK  1 80  ? 13.542  5.767   0.953   1.00 93.15 80  GUMK  1 
+ATOM   610  C C     . ASP GUMK  1 80  ? 13.923  4.495   1.710   1.00 93.63 80  GUMK  1 
+ATOM   611  O O     . ASP GUMK  1 80  ? 14.788  3.746   1.256   1.00 90.49 80  GUMK  1 
+ATOM   612  C CB    . ASP GUMK  1 80  ? 14.782  6.657   0.753   1.00 90.69 80  GUMK  1 
+ATOM   613  C CG    . ASP GUMK  1 80  ? 15.165  7.420   2.010   1.00 84.48 80  GUMK  1 
+ATOM   614  O OD1   . ASP GUMK  1 80  ? 15.268  6.798   3.083   1.00 79.66 80  GUMK  1 
+ATOM   615  O OD2   . ASP GUMK  1 80  ? 15.364  8.649   1.913   1.00 78.81 80  GUMK  1 
+ATOM   616  N N     . SER GUMK  1 81  ? 13.279  4.225   2.841   1.00 94.16 81  GUMK  1 
+ATOM   617  C CA    . SER GUMK  1 81  ? 13.594  3.020   3.609   1.00 94.26 81  GUMK  1 
+ATOM   618  C C     . SER GUMK  1 81  ? 12.450  2.010   3.667   1.00 95.15 81  GUMK  1 
+ATOM   619  O O     . SER GUMK  1 81  ? 12.645  0.872   4.094   1.00 93.39 81  GUMK  1 
+ATOM   620  C CB    . SER GUMK  1 81  ? 14.020  3.388   5.037   1.00 91.94 81  GUMK  1 
+ATOM   621  O OG    . SER GUMK  1 81  ? 12.924  3.880   5.781   1.00 85.34 81  GUMK  1 
+ATOM   622  N N     . SER GUMK  1 82  ? 11.265  2.409   3.240   1.00 95.42 82  GUMK  1 
+ATOM   623  C CA    . SER GUMK  1 82  ? 10.109  1.511   3.242   1.00 96.16 82  GUMK  1 
+ATOM   624  C C     . SER GUMK  1 82  ? 10.327  0.369   2.254   1.00 96.12 82  GUMK  1 
+ATOM   625  O O     . SER GUMK  1 82  ? 10.463  0.597   1.054   1.00 96.12 82  GUMK  1 
+ATOM   626  C CB    . SER GUMK  1 82  ? 8.840   2.272   2.856   1.00 96.01 82  GUMK  1 
+ATOM   627  O OG    . SER GUMK  1 82  ? 7.761   1.378   2.624   1.00 94.59 82  GUMK  1 
+ATOM   628  N N     . MET GUMK  1 83  ? 10.356  -0.852  2.763   1.00 96.91 83  GUMK  1 
+ATOM   629  C CA    . MET GUMK  1 83  ? 10.560  -2.010  1.900   1.00 96.75 83  GUMK  1 
+ATOM   630  C C     . MET GUMK  1 83  ? 9.425   -2.216  0.904   1.00 96.97 83  GUMK  1 
+ATOM   631  O O     . MET GUMK  1 83  ? 9.670   -2.559  -0.253  1.00 96.15 83  GUMK  1 
+ATOM   632  C CB    . MET GUMK  1 83  ? 10.745  -3.280  2.736   1.00 95.68 83  GUMK  1 
+ATOM   633  C CG    . MET GUMK  1 83  ? 12.122  -3.405  3.369   1.00 88.03 83  GUMK  1 
+ATOM   634  S SD    . MET GUMK  1 83  ? 13.465  -3.314  2.150   1.00 81.12 83  GUMK  1 
+ATOM   635  C CE    . MET GUMK  1 83  ? 13.038  -4.665  1.058   1.00 71.07 83  GUMK  1 
+ATOM   636  N N     . LYS GUMK  1 84  ? 8.187   -2.019  1.339   1.00 97.47 84  GUMK  1 
+ATOM   637  C CA    . LYS GUMK  1 84  ? 7.065   -2.210  0.421   1.00 97.57 84  GUMK  1 
+ATOM   638  C C     . LYS GUMK  1 84  ? 7.109   -1.192  -0.720  1.00 97.69 84  GUMK  1 
+ATOM   639  O O     . LYS GUMK  1 84  ? 6.920   -1.548  -1.878  1.00 97.54 84  GUMK  1 
+ATOM   640  C CB    . LYS GUMK  1 84  ? 5.721   -2.145  1.162   1.00 96.38 84  GUMK  1 
+ATOM   641  C CG    . LYS GUMK  1 84  ? 5.435   -0.858  1.902   1.00 94.53 84  GUMK  1 
+ATOM   642  C CD    . LYS GUMK  1 84  ? 4.031   -0.869  2.523   1.00 94.84 84  GUMK  1 
+ATOM   643  C CE    . LYS GUMK  1 84  ? 3.891   -1.865  3.662   1.00 93.64 84  GUMK  1 
+ATOM   644  N NZ    . LYS GUMK  1 84  ? 4.722   -1.509  4.833   1.00 93.02 84  GUMK  1 
+ATOM   645  N N     . LEU GUMK  1 85  ? 7.398   0.062   -0.400  1.00 97.92 85  GUMK  1 
+ATOM   646  C CA    . LEU GUMK  1 85  ? 7.479   1.094   -1.432  1.00 97.64 85  GUMK  1 
+ATOM   647  C C     . LEU GUMK  1 85  ? 8.663   0.847   -2.363  1.00 97.41 85  GUMK  1 
+ATOM   648  O O     . LEU GUMK  1 85  ? 8.561   1.047   -3.574  1.00 97.13 85  GUMK  1 
+ATOM   649  C CB    . LEU GUMK  1 85  ? 7.581   2.489   -0.801  1.00 97.59 85  GUMK  1 
+ATOM   650  C CG    . LEU GUMK  1 85  ? 6.270   3.025   -0.207  1.00 97.27 85  GUMK  1 
+ATOM   651  C CD1   . LEU GUMK  1 85  ? 6.521   4.333   0.534   1.00 96.80 85  GUMK  1 
+ATOM   652  C CD2   . LEU GUMK  1 85  ? 5.248   3.236   -1.324  1.00 96.86 85  GUMK  1 
+ATOM   653  N N     . LEU GUMK  1 86  ? 9.786   0.399   -1.798  1.00 97.08 86  GUMK  1 
+ATOM   654  C CA    . LEU GUMK  1 86  ? 10.974  0.108   -2.592  1.00 96.60 86  GUMK  1 
+ATOM   655  C C     . LEU GUMK  1 86  ? 10.649  -0.984  -3.609  1.00 96.75 86  GUMK  1 
+ATOM   656  O O     . LEU GUMK  1 86  ? 11.038  -0.900  -4.776  1.00 96.26 86  GUMK  1 
+ATOM   657  C CB    . LEU GUMK  1 86  ? 12.124  -0.329  -1.678  1.00 95.66 86  GUMK  1 
+ATOM   658  C CG    . LEU GUMK  1 86  ? 13.499  -0.574  -2.311  1.00 87.86 86  GUMK  1 
+ATOM   659  C CD1   . LEU GUMK  1 86  ? 14.572  -0.484  -1.232  1.00 82.97 86  GUMK  1 
+ATOM   660  C CD2   . LEU GUMK  1 86  ? 13.548  -1.950  -2.971  1.00 83.35 86  GUMK  1 
+ATOM   661  N N     . GLN GUMK  1 87  ? 9.934   -2.010  -3.164  1.00 97.27 87  GUMK  1 
+ATOM   662  C CA    . GLN GUMK  1 87  ? 9.560   -3.111  -4.044  1.00 97.15 87  GUMK  1 
+ATOM   663  C C     . GLN GUMK  1 87  ? 8.599   -2.670  -5.148  1.00 97.22 87  GUMK  1 
+ATOM   664  O O     . GLN GUMK  1 87  ? 8.773   -3.036  -6.310  1.00 96.92 87  GUMK  1 
+ATOM   665  C CB    . GLN GUMK  1 87  ? 8.941   -4.243  -3.223  1.00 96.65 87  GUMK  1 
+ATOM   666  C CG    . GLN GUMK  1 87  ? 9.946   -5.000  -2.374  1.00 94.00 87  GUMK  1 
+ATOM   667  C CD    . GLN GUMK  1 87  ? 9.279   -5.902  -1.359  1.00 94.36 87  GUMK  1 
+ATOM   668  O OE1   . GLN GUMK  1 87  ? 8.899   -5.460  -0.287  1.00 86.59 87  GUMK  1 
+ATOM   669  N NE2   . GLN GUMK  1 87  ? 9.122   -7.175  -1.707  1.00 85.98 87  GUMK  1 
+ATOM   670  N N     . TYR GUMK  1 88  ? 7.594   -1.880  -4.779  1.00 97.76 88  GUMK  1 
+ATOM   671  C CA    . TYR GUMK  1 88  ? 6.639   -1.405  -5.779  1.00 97.84 88  GUMK  1 
+ATOM   672  C C     . TYR GUMK  1 88  ? 7.379   -0.591  -6.844  1.00 97.35 88  GUMK  1 
+ATOM   673  O O     . TYR GUMK  1 88  ? 7.171   -0.787  -8.043  1.00 96.97 88  GUMK  1 
+ATOM   674  C CB    . TYR GUMK  1 88  ? 5.558   -0.523  -5.147  1.00 98.12 88  GUMK  1 
+ATOM   675  C CG    . TYR GUMK  1 88  ? 4.740   -1.162  -4.042  1.00 98.36 88  GUMK  1 
+ATOM   676  C CD1   . TYR GUMK  1 88  ? 4.539   -2.542  -3.974  1.00 98.18 88  GUMK  1 
+ATOM   677  C CD2   . TYR GUMK  1 88  ? 4.147   -0.363  -3.064  1.00 98.22 88  GUMK  1 
+ATOM   678  C CE1   . TYR GUMK  1 88  ? 3.780   -3.113  -2.951  1.00 98.25 88  GUMK  1 
+ATOM   679  C CE2   . TYR GUMK  1 88  ? 3.383   -0.919  -2.043  1.00 98.19 88  GUMK  1 
+ATOM   680  C CZ    . TYR GUMK  1 88  ? 3.204   -2.293  -1.988  1.00 98.44 88  GUMK  1 
+ATOM   681  O OH    . TYR GUMK  1 88  ? 2.450   -2.840  -0.968  1.00 98.23 88  GUMK  1 
+ATOM   682  N N     . ASP GUMK  1 89  ? 8.244   0.314   -6.390  1.00 96.52 89  GUMK  1 
+ATOM   683  C CA    . ASP GUMK  1 89  ? 9.005   1.164   -7.304  1.00 95.61 89  GUMK  1 
+ATOM   684  C C     . ASP GUMK  1 89  ? 9.937   0.348   -8.199  1.00 95.63 89  GUMK  1 
+ATOM   685  O O     . ASP GUMK  1 89  ? 10.023  0.591   -9.404  1.00 94.88 89  GUMK  1 
+ATOM   686  C CB    . ASP GUMK  1 89  ? 9.838   2.188   -6.524  1.00 94.23 89  GUMK  1 
+ATOM   687  C CG    . ASP GUMK  1 89  ? 8.989   3.172   -5.735  1.00 86.50 89  GUMK  1 
+ATOM   688  O OD1   . ASP GUMK  1 89  ? 7.794   3.342   -6.053  1.00 82.16 89  GUMK  1 
+ATOM   689  O OD2   . ASP GUMK  1 89  ? 9.536   3.792   -4.798  1.00 81.52 89  GUMK  1 
+ATOM   690  N N     . PHE GUMK  1 90  ? 10.643  -0.610  -7.605  1.00 94.77 90  GUMK  1 
+ATOM   691  C CA    . PHE GUMK  1 90  ? 11.578  -1.442  -8.352  1.00 94.23 90  GUMK  1 
+ATOM   692  C C     . PHE GUMK  1 90  ? 10.923  -2.165  -9.526  1.00 94.00 90  GUMK  1 
+ATOM   693  O O     . PHE GUMK  1 90  ? 11.518  -2.288  -10.598 1.00 92.38 90  GUMK  1 
+ATOM   694  C CB    . PHE GUMK  1 90  ? 12.232  -2.472  -7.426  1.00 93.28 90  GUMK  1 
+ATOM   695  C CG    . PHE GUMK  1 90  ? 13.263  -3.336  -8.110  1.00 90.66 90  GUMK  1 
+ATOM   696  C CD1   . PHE GUMK  1 90  ? 14.516  -2.825  -8.429  1.00 87.36 90  GUMK  1 
+ATOM   697  C CD2   . PHE GUMK  1 90  ? 12.967  -4.649  -8.457  1.00 86.70 90  GUMK  1 
+ATOM   698  C CE1   . PHE GUMK  1 90  ? 15.466  -3.610  -9.082  1.00 84.92 90  GUMK  1 
+ATOM   699  C CE2   . PHE GUMK  1 90  ? 13.909  -5.442  -9.113  1.00 84.16 90  GUMK  1 
+ATOM   700  C CZ    . PHE GUMK  1 90  ? 15.157  -4.920  -9.424  1.00 83.58 90  GUMK  1 
+ATOM   701  N N     . PHE GUMK  1 91  ? 9.694   -2.641  -9.317  1.00 94.19 91  GUMK  1 
+ATOM   702  C CA    . PHE GUMK  1 91  ? 8.984   -3.360  -10.368 1.00 93.93 91  GUMK  1 
+ATOM   703  C C     . PHE GUMK  1 91  ? 8.123   -2.454  -11.247 1.00 94.46 91  GUMK  1 
+ATOM   704  O O     . PHE GUMK  1 91  ? 7.319   -2.931  -12.046 1.00 92.77 91  GUMK  1 
+ATOM   705  C CB    . PHE GUMK  1 91  ? 8.143   -4.476  -9.746  1.00 92.62 91  GUMK  1 
+ATOM   706  C CG    . PHE GUMK  1 91  ? 8.958   -5.637  -9.236  1.00 91.23 91  GUMK  1 
+ATOM   707  C CD1   . PHE GUMK  1 91  ? 9.556   -6.521  -10.128 1.00 87.79 91  GUMK  1 
+ATOM   708  C CD2   . PHE GUMK  1 91  ? 9.164   -5.821  -7.875  1.00 87.32 91  GUMK  1 
+ATOM   709  C CE1   . PHE GUMK  1 91  ? 10.345  -7.574  -9.675  1.00 85.39 91  GUMK  1 
+ATOM   710  C CE2   . PHE GUMK  1 91  ? 9.956   -6.871  -7.413  1.00 85.18 91  GUMK  1 
+ATOM   711  C CZ    . PHE GUMK  1 91  ? 10.545  -7.749  -8.315  1.00 85.05 91  GUMK  1 
+ATOM   712  N N     . GLY GUMK  1 92  ? 8.321   -1.142  -11.105 1.00 95.67 92  GUMK  1 
+ATOM   713  C CA    . GLY GUMK  1 92  ? 7.588   -0.189  -11.925 1.00 95.55 92  GUMK  1 
+ATOM   714  C C     . GLY GUMK  1 92  ? 6.098   -0.126  -11.645 1.00 96.31 92  GUMK  1 
+ATOM   715  O O     . GLY GUMK  1 92  ? 5.310   0.263   -12.510 1.00 95.26 92  GUMK  1 
+ATOM   716  N N     . LEU GUMK  1 93  ? 5.718   -0.494  -10.435 1.00 96.64 93  GUMK  1 
+ATOM   717  C CA    . LEU GUMK  1 93  ? 4.311   -0.497  -10.042 1.00 97.27 93  GUMK  1 
+ATOM   718  C C     . LEU GUMK  1 93  ? 3.930   0.835   -9.394  1.00 98.01 93  GUMK  1 
+ATOM   719  O O     . LEU GUMK  1 93  ? 4.589   1.279   -8.456  1.00 97.69 93  GUMK  1 
+ATOM   720  C CB    . LEU GUMK  1 93  ? 4.063   -1.637  -9.046  1.00 95.48 93  GUMK  1 
+ATOM   721  C CG    . LEU GUMK  1 93  ? 2.625   -1.948  -8.635  1.00 90.83 93  GUMK  1 
+ATOM   722  C CD1   . LEU GUMK  1 93  ? 1.858   -2.499  -9.830  1.00 90.18 93  GUMK  1 
+ATOM   723  C CD2   . LEU GUMK  1 93  ? 2.633   -2.955  -7.493  1.00 90.77 93  GUMK  1 
+ATOM   724  N N     . PRO GUMK  1 94  ? 2.874   1.484   -9.889  1.00 98.12 94  GUMK  1 
+ATOM   725  C CA    . PRO GUMK  1 94  ? 2.453   2.754   -9.287  1.00 98.39 94  GUMK  1 
+ATOM   726  C C     . PRO GUMK  1 94  ? 2.129   2.467   -7.821  1.00 98.66 94  GUMK  1 
+ATOM   727  O O     . PRO GUMK  1 94  ? 1.670   1.371   -7.488  1.00 98.54 94  GUMK  1 
+ATOM   728  C CB    . PRO GUMK  1 94  ? 1.199   3.121   -10.080 1.00 97.83 94  GUMK  1 
+ATOM   729  C CG    . PRO GUMK  1 94  ? 1.465   2.524   -11.430 1.00 95.37 94  GUMK  1 
+ATOM   730  C CD    . PRO GUMK  1 94  ? 2.063   1.180   -11.086 1.00 97.70 94  GUMK  1 
+ATOM   731  N N     . ALA GUMK  1 95  ? 2.374   3.441   -6.947  1.00 98.58 95  GUMK  1 
+ATOM   732  C CA    . ALA GUMK  1 95  ? 2.114   3.236   -5.527  1.00 98.64 95  GUMK  1 
+ATOM   733  C C     . ALA GUMK  1 95  ? 1.271   4.339   -4.906  1.00 98.75 95  GUMK  1 
+ATOM   734  O O     . ALA GUMK  1 95  ? 1.405   5.512   -5.257  1.00 98.63 95  GUMK  1 
+ATOM   735  C CB    . ALA GUMK  1 95  ? 3.437   3.110   -4.772  1.00 98.34 95  GUMK  1 
+ATOM   736  N N     . VAL GUMK  1 96  ? 0.394   3.950   -3.997  1.00 98.75 96  GUMK  1 
+ATOM   737  C CA    . VAL GUMK  1 96  ? -0.453  4.888   -3.274  1.00 98.81 96  GUMK  1 
+ATOM   738  C C     . VAL GUMK  1 96  ? 0.055   4.882   -1.835  1.00 98.73 96  GUMK  1 
+ATOM   739  O O     . VAL GUMK  1 96  ? 0.157   3.827   -1.210  1.00 98.59 96  GUMK  1 
+ATOM   740  C CB    . VAL GUMK  1 96  ? -1.936  4.451   -3.324  1.00 98.82 96  GUMK  1 
+ATOM   741  C CG1   . VAL GUMK  1 96  ? -2.775  5.312   -2.393  1.00 98.58 96  GUMK  1 
+ATOM   742  C CG2   . VAL GUMK  1 96  ? -2.452  4.566   -4.755  1.00 98.58 96  GUMK  1 
+ATOM   743  N N     . CYS GUMK  1 97  ? 0.391   6.063   -1.320  1.00 98.30 97  GUMK  1 
+ATOM   744  C CA    . CYS GUMK  1 97  ? 0.949   6.178   0.026   1.00 98.16 97  GUMK  1 
+ATOM   745  C C     . CYS GUMK  1 97  ? 0.727   7.586   0.579   1.00 98.10 97  GUMK  1 
+ATOM   746  O O     . CYS GUMK  1 97  ? 0.346   8.492   -0.160  1.00 98.00 97  GUMK  1 
+ATOM   747  C CB    . CYS GUMK  1 97  ? 2.452   5.883   -0.021  1.00 98.03 97  GUMK  1 
+ATOM   748  S SG    . CYS GUMK  1 97  ? 3.401   7.021   -1.066  1.00 97.96 97  GUMK  1 
+ATOM   749  N N     . PRO GUMK  1 98  ? 0.962   7.786   1.884   1.00 97.87 98  GUMK  1 
+ATOM   750  C CA    . PRO GUMK  1 98  ? 0.796   9.128   2.453   1.00 97.59 98  GUMK  1 
+ATOM   751  C C     . PRO GUMK  1 98  ? 1.727   10.129  1.761   1.00 97.22 98  GUMK  1 
+ATOM   752  O O     . PRO GUMK  1 98  ? 2.827   9.772   1.342   1.00 96.95 98  GUMK  1 
+ATOM   753  C CB    . PRO GUMK  1 98  ? 1.161   8.922   3.922   1.00 97.45 98  GUMK  1 
+ATOM   754  C CG    . PRO GUMK  1 98  ? 0.702   7.513   4.184   1.00 96.84 98  GUMK  1 
+ATOM   755  C CD    . PRO GUMK  1 98  ? 1.191   6.787   2.947   1.00 97.81 98  GUMK  1 
+ATOM   756  N N     . ASN GUMK  1 99  ? 1.280   11.374  1.649   1.00 96.97 99  GUMK  1 
+ATOM   757  C CA    . ASN GUMK  1 99  ? 2.082   12.416  1.007   1.00 96.64 99  GUMK  1 
+ATOM   758  C C     . ASN GUMK  1 99  ? 3.486   12.530  1.596   1.00 96.48 99  GUMK  1 
+ATOM   759  O O     . ASN GUMK  1 99  ? 4.444   12.806  0.876   1.00 95.68 99  GUMK  1 
+ATOM   760  C CB    . ASN GUMK  1 99  ? 1.381   13.773  1.126   1.00 96.21 99  GUMK  1 
+ATOM   761  C CG    . ASN GUMK  1 99  ? 0.146   13.870  0.254   1.00 95.37 99  GUMK  1 
+ATOM   762  O OD1   . ASN GUMK  1 99  ? 0.189   13.569  -0.936  1.00 90.65 99  GUMK  1 
+ATOM   763  N ND2   . ASN GUMK  1 99  ? -0.964  14.297  0.842   1.00 89.80 99  GUMK  1 
+ATOM   764  N N     . ALA GUMK  1 100 ? 3.599   12.307  2.896   1.00 95.87 100 GUMK  1 
+ATOM   765  C CA    . ALA GUMK  1 100 ? 4.882   12.411  3.588   1.00 95.36 100 GUMK  1 
+ATOM   766  C C     . ALA GUMK  1 100 ? 5.968   11.466  3.070   1.00 95.53 100 GUMK  1 
+ATOM   767  O O     . ALA GUMK  1 100 ? 7.153   11.729  3.261   1.00 94.13 100 GUMK  1 
+ATOM   768  C CB    . ALA GUMK  1 100 ? 4.685   12.195  5.085   1.00 94.14 100 GUMK  1 
+ATOM   769  N N     . VAL GUMK  1 101 ? 5.581   10.369  2.421   1.00 96.11 101 GUMK  1 
+ATOM   770  C CA    . VAL GUMK  1 101 ? 6.568   9.420   1.908   1.00 96.21 101 GUMK  1 
+ATOM   771  C C     . VAL GUMK  1 101 ? 6.557   9.279   0.388   1.00 96.01 101 GUMK  1 
+ATOM   772  O O     . VAL GUMK  1 101 ? 7.035   8.282   -0.159  1.00 95.52 101 GUMK  1 
+ATOM   773  C CB    . VAL GUMK  1 101 ? 6.406   8.021   2.557   1.00 96.11 101 GUMK  1 
+ATOM   774  C CG1   . VAL GUMK  1 101 ? 6.762   8.109   4.042   1.00 93.83 101 GUMK  1 
+ATOM   775  C CG2   . VAL GUMK  1 101 ? 4.984   7.506   2.379   1.00 93.80 101 GUMK  1 
+ATOM   776  N N     . VAL GUMK  1 102 ? 6.033   10.282  -0.296  1.00 96.58 102 GUMK  1 
+ATOM   777  C CA    . VAL GUMK  1 102 ? 6.026   10.269  -1.758  1.00 96.31 102 GUMK  1 
+ATOM   778  C C     . VAL GUMK  1 102 ? 7.449   10.500  -2.259  1.00 95.28 102 GUMK  1 
+ATOM   779  O O     . VAL GUMK  1 102 ? 7.896   9.877   -3.224  1.00 93.73 102 GUMK  1 
+ATOM   780  C CB    . VAL GUMK  1 102 ? 5.097   11.373  -2.316  1.00 96.10 102 GUMK  1 
+ATOM   781  C CG1   . VAL GUMK  1 102 ? 5.396   11.639  -3.790  1.00 93.14 102 GUMK  1 
+ATOM   782  C CG2   . VAL GUMK  1 102 ? 3.643   10.945  -2.154  1.00 93.62 102 GUMK  1 
+ATOM   783  N N     . GLY GUMK  1 103 ? 8.169   11.380  -1.574  1.00 95.11 103 GUMK  1 
+ATOM   784  C CA    . GLY GUMK  1 103 ? 9.537   11.676  -1.958  1.00 94.02 103 GUMK  1 
+ATOM   785  C C     . GLY GUMK  1 103 ? 9.624   12.211  -3.381  1.00 94.20 103 GUMK  1 
+ATOM   786  O O     . GLY GUMK  1 103 ? 8.705   12.876  -3.856  1.00 92.77 103 GUMK  1 
+ATOM   787  N N     . PRO GUMK  1 104 ? 10.729  11.904  -4.089  1.00 93.93 104 GUMK  1 
+ATOM   788  C CA    . PRO GUMK  1 104 ? 10.913  12.368  -5.466  1.00 93.85 104 GUMK  1 
+ATOM   789  C C     . PRO GUMK  1 104 ? 10.351  11.398  -6.508  1.00 94.30 104 GUMK  1 
+ATOM   790  O O     . PRO GUMK  1 104 ? 10.578  11.563  -7.707  1.00 92.58 104 GUMK  1 
+ATOM   791  C CB    . PRO GUMK  1 104 ? 12.432  12.478  -5.563  1.00 92.98 104 GUMK  1 
+ATOM   792  C CG    . PRO GUMK  1 104 ? 12.873  11.267  -4.784  1.00 92.00 104 GUMK  1 
+ATOM   793  C CD    . PRO GUMK  1 104 ? 11.951  11.265  -3.572  1.00 93.74 104 GUMK  1 
+ATOM   794  N N     . TYR GUMK  1 105 ? 9.623   10.383  -6.049  1.00 94.21 105 GUMK  1 
+ATOM   795  C CA    . TYR GUMK  1 105 ? 9.097   9.351   -6.938  1.00 94.50 105 GUMK  1 
+ATOM   796  C C     . TYR GUMK  1 105 ? 7.841   9.729   -7.723  1.00 94.96 105 GUMK  1 
+ATOM   797  O O     . TYR GUMK  1 105 ? 6.760   9.890   -7.163  1.00 94.19 105 GUMK  1 
+ATOM   798  C CB    . TYR GUMK  1 105 ? 8.854   8.062   -6.153  1.00 93.79 105 GUMK  1 
+ATOM   799  C CG    . TYR GUMK  1 105 ? 10.093  7.563   -5.437  1.00 93.08 105 GUMK  1 
+ATOM   800  C CD1   . TYR GUMK  1 105 ? 10.411  8.012   -4.155  1.00 90.39 105 GUMK  1 
+ATOM   801  C CD2   . TYR GUMK  1 105 ? 10.972  6.677   -6.060  1.00 90.61 105 GUMK  1 
+ATOM   802  C CE1   . TYR GUMK  1 105 ? 11.573  7.591   -3.509  1.00 88.76 105 GUMK  1 
+ATOM   803  C CE2   . TYR GUMK  1 105 ? 12.136  6.248   -5.423  1.00 88.94 105 GUMK  1 
+ATOM   804  C CZ    . TYR GUMK  1 105 ? 12.430  6.709   -4.148  1.00 89.25 105 GUMK  1 
+ATOM   805  O OH    . TYR GUMK  1 105 ? 13.581  6.292   -3.514  1.00 86.73 105 GUMK  1 
+ATOM   806  N N     . LYS GUMK  1 106 ? 8.013   9.834   -9.028  1.00 94.71 106 GUMK  1 
+ATOM   807  C CA    . LYS GUMK  1 106 ? 6.929   10.170  -9.949  1.00 94.90 106 GUMK  1 
+ATOM   808  C C     . LYS GUMK  1 106 ? 5.835   9.095   -9.955  1.00 96.01 106 GUMK  1 
+ATOM   809  O O     . LYS GUMK  1 106 ? 4.671   9.384   -10.256 1.00 94.92 106 GUMK  1 
+ATOM   810  C CB    . LYS GUMK  1 106 ? 7.521   10.343  -11.354 1.00 93.35 106 GUMK  1 
+ATOM   811  C CG    . LYS GUMK  1 106 ? 6.564   10.239  -12.515 1.00 85.70 106 GUMK  1 
+ATOM   812  C CD    . LYS GUMK  1 106 ? 7.285   10.478  -13.832 1.00 75.03 106 GUMK  1 
+ATOM   813  C CE    . LYS GUMK  1 106 ? 6.438   10.101  -15.039 1.00 66.39 106 GUMK  1 
+ATOM   814  N NZ    . LYS GUMK  1 106 ? 6.217   8.637   -15.135 1.00 55.87 106 GUMK  1 
+ATOM   815  N N     . SER GUMK  1 107 ? 6.214   7.867   -9.626  1.00 96.25 107 GUMK  1 
+ATOM   816  C CA    . SER GUMK  1 107 ? 5.267   6.753   -9.615  1.00 96.83 107 GUMK  1 
+ATOM   817  C C     . SER GUMK  1 107 ? 4.444   6.632   -8.335  1.00 97.79 107 GUMK  1 
+ATOM   818  O O     . SER GUMK  1 107 ? 3.604   5.735   -8.222  1.00 97.82 107 GUMK  1 
+ATOM   819  C CB    . SER GUMK  1 107 ? 6.017   5.437   -9.857  1.00 95.58 107 GUMK  1 
+ATOM   820  O OG    . SER GUMK  1 107 ? 6.978   5.218   -8.838  1.00 91.97 107 GUMK  1 
+ATOM   821  N N     . ARG GUMK  1 108 ? 4.681   7.526   -7.386  1.00 97.47 108 GUMK  1 
+ATOM   822  C CA    . ARG GUMK  1 108 ? 3.933   7.487   -6.133  1.00 97.85 108 GUMK  1 
+ATOM   823  C C     . ARG GUMK  1 108 ? 2.849   8.559   -6.111  1.00 98.02 108 GUMK  1 
+ATOM   824  O O     . ARG GUMK  1 108 ? 3.088   9.704   -6.488  1.00 97.80 108 GUMK  1 
+ATOM   825  C CB    . ARG GUMK  1 108 ? 4.863   7.679   -4.932  1.00 97.58 108 GUMK  1 
+ATOM   826  C CG    . ARG GUMK  1 108 ? 5.871   6.554   -4.744  1.00 97.05 108 GUMK  1 
+ATOM   827  C CD    . ARG GUMK  1 108 ? 6.707   6.774   -3.496  1.00 96.66 108 GUMK  1 
+ATOM   828  N NE    . ARG GUMK  1 108 ? 7.777   5.783   -3.377  1.00 96.54 108 GUMK  1 
+ATOM   829  C CZ    . ARG GUMK  1 108 ? 8.670   5.761   -2.394  1.00 96.56 108 GUMK  1 
+ATOM   830  N NH1   . ARG GUMK  1 108 ? 8.627   6.671   -1.431  1.00 95.06 108 GUMK  1 
+ATOM   831  N NH2   . ARG GUMK  1 108 ? 9.614   4.828   -2.374  1.00 94.80 108 GUMK  1 
+ATOM   832  N N     . PHE GUMK  1 109 ? 1.673   8.183   -5.660  1.00 98.50 109 GUMK  1 
+ATOM   833  C CA    . PHE GUMK  1 109 ? 0.539   9.096   -5.597  1.00 98.62 109 GUMK  1 
+ATOM   834  C C     . PHE GUMK  1 109 ? 0.095   9.216   -4.148  1.00 98.64 109 GUMK  1 
+ATOM   835  O O     . PHE GUMK  1 109 ? -0.355  8.245   -3.537  1.00 98.48 109 GUMK  1 
+ATOM   836  C CB    . PHE GUMK  1 109 ? -0.571  8.563   -6.503  1.00 98.60 109 GUMK  1 
+ATOM   837  C CG    . PHE GUMK  1 109 ? -0.120  8.405   -7.936  1.00 98.51 109 GUMK  1 
+ATOM   838  C CD1   . PHE GUMK  1 109 ? -0.039  9.514   -8.776  1.00 97.97 109 GUMK  1 
+ATOM   839  C CD2   . PHE GUMK  1 109 ? 0.326   7.175   -8.414  1.00 97.94 109 GUMK  1 
+ATOM   840  C CE1   . PHE GUMK  1 109 ? 0.461   9.395   -10.072 1.00 97.30 109 GUMK  1 
+ATOM   841  C CE2   . PHE GUMK  1 109 ? 0.831   7.048   -9.710  1.00 97.38 109 GUMK  1 
+ATOM   842  C CZ    . PHE GUMK  1 109 ? 0.896   8.164   -10.538 1.00 97.42 109 GUMK  1 
+ATOM   843  N N     . GLY GUMK  1 110 ? 0.264   10.403  -3.606  1.00 98.23 110 GUMK  1 
+ATOM   844  C CA    . GLY GUMK  1 110 ? -0.032  10.632  -2.204  1.00 98.22 110 GUMK  1 
+ATOM   845  C C     . GLY GUMK  1 110 ? -1.437  11.001  -1.786  1.00 98.37 110 GUMK  1 
+ATOM   846  O O     . GLY GUMK  1 110 ? -2.231  11.515  -2.581  1.00 98.17 110 GUMK  1 
+ATOM   847  N N     . TYR GUMK  1 111 ? -1.720  10.722  -0.526  1.00 98.26 111 GUMK  1 
+ATOM   848  C CA    . TYR GUMK  1 111 ? -3.007  11.046  0.072   1.00 98.13 111 GUMK  1 
+ATOM   849  C C     . TYR GUMK  1 111 ? -2.745  11.442  1.521   1.00 97.92 111 GUMK  1 
+ATOM   850  O O     . TYR GUMK  1 111 ? -1.629  11.289  2.025   1.00 97.65 111 GUMK  1 
+ATOM   851  C CB    . TYR GUMK  1 111 ? -3.968  9.844   0.006   1.00 98.14 111 GUMK  1 
+ATOM   852  C CG    . TYR GUMK  1 111 ? -3.598  8.679   0.909   1.00 98.32 111 GUMK  1 
+ATOM   853  C CD1   . TYR GUMK  1 111 ? -4.046  8.623   2.235   1.00 98.15 111 GUMK  1 
+ATOM   854  C CD2   . TYR GUMK  1 111 ? -2.803  7.633   0.439   1.00 98.15 111 GUMK  1 
+ATOM   855  C CE1   . TYR GUMK  1 111 ? -3.704  7.554   3.070   1.00 98.04 111 GUMK  1 
+ATOM   856  C CE2   . TYR GUMK  1 111 ? -2.454  6.563   1.265   1.00 98.05 111 GUMK  1 
+ATOM   857  C CZ    . TYR GUMK  1 111 ? -2.906  6.529   2.578   1.00 98.13 111 GUMK  1 
+ATOM   858  O OH    . TYR GUMK  1 111 ? -2.562  5.476   3.398   1.00 97.76 111 GUMK  1 
+ATOM   859  N N     . THR GUMK  1 112 ? -3.761  11.953  2.172   1.00 97.46 112 GUMK  1 
+ATOM   860  C CA    . THR GUMK  1 112 ? -3.650  12.358  3.567   1.00 97.35 112 GUMK  1 
+ATOM   861  C C     . THR GUMK  1 112 ? -4.449  11.359  4.403   1.00 97.57 112 GUMK  1 
+ATOM   862  O O     . THR GUMK  1 112 ? -5.665  11.243  4.233   1.00 97.43 112 GUMK  1 
+ATOM   863  C CB    . THR GUMK  1 112 ? -4.228  13.770  3.784   1.00 96.76 112 GUMK  1 
+ATOM   864  O OG1   . THR GUMK  1 112 ? -3.484  14.713  3.004   1.00 94.74 112 GUMK  1 
+ATOM   865  C CG2   . THR GUMK  1 112 ? -4.153  14.162  5.258   1.00 94.83 112 GUMK  1 
+ATOM   866  N N     . PRO GUMK  1 113 ? -3.777  10.622  5.298   1.00 97.32 113 GUMK  1 
+ATOM   867  C CA    . PRO GUMK  1 113 ? -4.482  9.644   6.133   1.00 97.19 113 GUMK  1 
+ATOM   868  C C     . PRO GUMK  1 113 ? -5.688  10.279  6.827   1.00 97.05 113 GUMK  1 
+ATOM   869  O O     . PRO GUMK  1 113 ? -5.588  11.360  7.404   1.00 96.44 113 GUMK  1 
+ATOM   870  C CB    . PRO GUMK  1 113 ? -3.404  9.202   7.124   1.00 96.71 113 GUMK  1 
+ATOM   871  C CG    . PRO GUMK  1 113 ? -2.149  9.279   6.302   1.00 95.73 113 GUMK  1 
+ATOM   872  C CD    . PRO GUMK  1 113 ? -2.325  10.593  5.565   1.00 97.14 113 GUMK  1 
+ATOM   873  N N     . GLY GUMK  1 114 ? -6.830  9.604   6.741   1.00 96.82 114 GUMK  1 
+ATOM   874  C CA    . GLY GUMK  1 114 ? -8.032  10.123  7.374   1.00 96.53 114 GUMK  1 
+ATOM   875  C C     . GLY GUMK  1 114 ? -8.901  10.966  6.455   1.00 97.09 114 GUMK  1 
+ATOM   876  O O     . GLY GUMK  1 114 ? -10.040 11.289  6.801   1.00 96.19 114 GUMK  1 
+ATOM   877  N N     . ASN GUMK  1 115 ? -8.373  11.319  5.287   1.00 97.44 115 GUMK  1 
+ATOM   878  C CA    . ASN GUMK  1 115 ? -9.106  12.129  4.316   1.00 97.82 115 GUMK  1 
+ATOM   879  C C     . ASN GUMK  1 115 ? -9.547  11.218  3.167   1.00 98.13 115 GUMK  1 
+ATOM   880  O O     . ASN GUMK  1 115 ? -8.759  10.902  2.274   1.00 98.22 115 GUMK  1 
+ATOM   881  C CB    . ASN GUMK  1 115 ? -8.209  13.256  3.791   1.00 97.60 115 GUMK  1 
+ATOM   882  C CG    . ASN GUMK  1 115 ? -8.941  14.197  2.850   1.00 97.17 115 GUMK  1 
+ATOM   883  O OD1   . ASN GUMK  1 115 ? -9.715  13.770  1.997   1.00 93.73 115 GUMK  1 
+ATOM   884  N ND2   . ASN GUMK  1 115 ? -8.685  15.493  2.997   1.00 91.99 115 GUMK  1 
+ATOM   885  N N     . ALA GUMK  1 116 ? -10.805 10.801  3.195   1.00 98.16 116 GUMK  1 
+ATOM   886  C CA    . ALA GUMK  1 116 ? -11.350 9.907   2.177   1.00 98.37 116 GUMK  1 
+ATOM   887  C C     . ALA GUMK  1 116 ? -11.217 10.426  0.746   1.00 98.60 116 GUMK  1 
+ATOM   888  O O     . ALA GUMK  1 116 ? -10.872 9.667   -0.162  1.00 98.51 116 GUMK  1 
+ATOM   889  C CB    . ALA GUMK  1 116 ? -12.814 9.601   2.486   1.00 97.96 116 GUMK  1 
+ATOM   890  N N     . ASP GUMK  1 117 ? -11.489 11.709  0.543   1.00 98.59 117 GUMK  1 
+ATOM   891  C CA    . ASP GUMK  1 117 ? -11.396 12.275  -0.801  1.00 98.69 117 GUMK  1 
+ATOM   892  C C     . ASP GUMK  1 117 ? -9.981  12.169  -1.363  1.00 98.78 117 GUMK  1 
+ATOM   893  O O     . ASP GUMK  1 117 ? -9.798  11.902  -2.552  1.00 98.65 117 GUMK  1 
+ATOM   894  C CB    . ASP GUMK  1 117 ? -11.835 13.745  -0.811  1.00 98.44 117 GUMK  1 
+ATOM   895  C CG    . ASP GUMK  1 117 ? -13.334 13.915  -0.601  1.00 96.21 117 GUMK  1 
+ATOM   896  O OD1   . ASP GUMK  1 117 ? -14.094 12.959  -0.855  1.00 93.18 117 GUMK  1 
+ATOM   897  O OD2   . ASP GUMK  1 117 ? -13.750 15.018  -0.191  1.00 92.79 117 GUMK  1 
+ATOM   898  N N     . SER GUMK  1 118 ? -8.975  12.372  -0.516  1.00 98.66 118 GUMK  1 
+ATOM   899  C CA    . SER GUMK  1 118 ? -7.591  12.292  -0.971  1.00 98.63 118 GUMK  1 
+ATOM   900  C C     . SER GUMK  1 118 ? -7.215  10.852  -1.322  1.00 98.76 118 GUMK  1 
+ATOM   901  O O     . SER GUMK  1 118 ? -6.437  10.616  -2.245  1.00 98.67 118 GUMK  1 
+ATOM   902  C CB    . SER GUMK  1 118 ? -6.630  12.852  0.088   1.00 98.15 118 GUMK  1 
+ATOM   903  O OG    . SER GUMK  1 118 ? -6.568  12.024  1.235   1.00 97.26 118 GUMK  1 
+ATOM   904  N N     . VAL GUMK  1 119 ? -7.771  9.891   -0.598  1.00 98.73 119 GUMK  1 
+ATOM   905  C CA    . VAL GUMK  1 119 ? -7.507  8.476   -0.868  1.00 98.78 119 GUMK  1 
+ATOM   906  C C     . VAL GUMK  1 119 ? -8.067  8.127   -2.247  1.00 98.85 119 GUMK  1 
+ATOM   907  O O     . VAL GUMK  1 119 ? -7.398  7.496   -3.066  1.00 98.82 119 GUMK  1 
+ATOM   908  C CB    . VAL GUMK  1 119 ? -8.169  7.567   0.198   1.00 98.62 119 GUMK  1 
+ATOM   909  C CG1   . VAL GUMK  1 119 ? -8.144  6.105   -0.252  1.00 98.15 119 GUMK  1 
+ATOM   910  C CG2   . VAL GUMK  1 119 ? -7.446  7.718   1.531   1.00 98.24 119 GUMK  1 
+ATOM   911  N N     . ILE GUMK  1 120 ? -9.293  8.558   -2.501  1.00 98.81 120 GUMK  1 
+ATOM   912  C CA    . ILE GUMK  1 120 ? -9.940  8.292   -3.781  1.00 98.81 120 GUMK  1 
+ATOM   913  C C     . ILE GUMK  1 120 ? -9.175  8.946   -4.930  1.00 98.83 120 GUMK  1 
+ATOM   914  O O     . ILE GUMK  1 120 ? -8.987  8.342   -5.989  1.00 98.75 120 GUMK  1 
+ATOM   915  C CB    . ILE GUMK  1 120 ? -11.404 8.788   -3.756  1.00 98.71 120 GUMK  1 
+ATOM   916  C CG1   . ILE GUMK  1 120 ? -12.192 7.971   -2.724  1.00 98.26 120 GUMK  1 
+ATOM   917  C CG2   . ILE GUMK  1 120 ? -12.043 8.670   -5.136  1.00 98.36 120 GUMK  1 
+ATOM   918  C CD1   . ILE GUMK  1 120 ? -13.597 8.480   -2.449  1.00 96.13 120 GUMK  1 
+ATOM   919  N N     . ALA GUMK  1 121 ? -8.721  10.175  -4.721  1.00 98.83 121 GUMK  1 
+ATOM   920  C CA    . ALA GUMK  1 121 ? -7.970  10.891  -5.749  1.00 98.81 121 GUMK  1 
+ATOM   921  C C     . ALA GUMK  1 121 ? -6.645  10.191  -6.061  1.00 98.82 121 GUMK  1 
+ATOM   922  O O     . ALA GUMK  1 121 ? -6.265  10.055  -7.226  1.00 98.68 121 GUMK  1 
+ATOM   923  C CB    . ALA GUMK  1 121 ? -7.713  12.328  -5.302  1.00 98.65 121 GUMK  1 
+ATOM   924  N N     . ALA GUMK  1 122 ? -5.948  9.744   -5.025  1.00 98.84 122 GUMK  1 
+ATOM   925  C CA    . ALA GUMK  1 122 ? -4.666  9.069   -5.209  1.00 98.82 122 GUMK  1 
+ATOM   926  C C     . ALA GUMK  1 122 ? -4.823  7.767   -5.993  1.00 98.84 122 GUMK  1 
+ATOM   927  O O     . ALA GUMK  1 122 ? -4.053  7.483   -6.911  1.00 98.72 122 GUMK  1 
+ATOM   928  C CB    . ALA GUMK  1 122 ? -4.020  8.789   -3.854  1.00 98.73 122 GUMK  1 
+ATOM   929  N N     . ILE GUMK  1 123 ? -5.821  6.971   -5.639  1.00 98.85 123 GUMK  1 
+ATOM   930  C CA    . ILE GUMK  1 123 ? -6.049  5.706   -6.334  1.00 98.86 123 GUMK  1 
+ATOM   931  C C     . ILE GUMK  1 123 ? -6.431  5.969   -7.790  1.00 98.82 123 GUMK  1 
+ATOM   932  O O     . ILE GUMK  1 123 ? -5.987  5.265   -8.699  1.00 98.70 123 GUMK  1 
+ATOM   933  C CB    . ILE GUMK  1 123 ? -7.151  4.878   -5.638  1.00 98.86 123 GUMK  1 
+ATOM   934  C CG1   . ILE GUMK  1 123 ? -6.650  4.415   -4.264  1.00 98.68 123 GUMK  1 
+ATOM   935  C CG2   . ILE GUMK  1 123 ? -7.537  3.676   -6.497  1.00 98.73 123 GUMK  1 
+ATOM   936  C CD1   . ILE GUMK  1 123 ? -7.692  3.684   -3.431  1.00 98.49 123 GUMK  1 
+ATOM   937  N N     . THR GUMK  1 124 ? -7.235  7.000   -8.019  1.00 98.76 124 GUMK  1 
+ATOM   938  C CA    . THR GUMK  1 124 ? -7.652  7.352   -9.375  1.00 98.67 124 GUMK  1 
+ATOM   939  C C     . THR GUMK  1 124 ? -6.430  7.656   -10.244 1.00 98.56 124 GUMK  1 
+ATOM   940  O O     . THR GUMK  1 124 ? -6.370  7.263   -11.409 1.00 98.19 124 GUMK  1 
+ATOM   941  C CB    . THR GUMK  1 124 ? -8.596  8.570   -9.362  1.00 98.54 124 GUMK  1 
+ATOM   942  O OG1   . THR GUMK  1 124 ? -9.784  8.240   -8.637  1.00 96.72 124 GUMK  1 
+ATOM   943  C CG2   . THR GUMK  1 124 ? -8.985  8.976   -10.780 1.00 96.13 124 GUMK  1 
+ATOM   944  N N     . GLN GUMK  1 125 ? -5.448  8.346   -9.672  1.00 98.50 125 GUMK  1 
+ATOM   945  C CA    . GLN GUMK  1 125 ? -4.222  8.676   -10.401 1.00 98.26 125 GUMK  1 
+ATOM   946  C C     . GLN GUMK  1 125 ? -3.345  7.449   -10.642 1.00 98.30 125 GUMK  1 
+ATOM   947  O O     . GLN GUMK  1 125 ? -2.663  7.358   -11.660 1.00 97.71 125 GUMK  1 
+ATOM   948  C CB    . GLN GUMK  1 125 ? -3.413  9.721   -9.631  1.00 97.80 125 GUMK  1 
+ATOM   949  C CG    . GLN GUMK  1 125 ? -4.014  11.111  -9.629  1.00 95.30 125 GUMK  1 
+ATOM   950  C CD    . GLN GUMK  1 125 ? -3.158  12.098  -8.859  1.00 89.31 125 GUMK  1 
+ATOM   951  O OE1   . GLN GUMK  1 125 ? -3.089  12.050  -7.633  1.00 79.78 125 GUMK  1 
+ATOM   952  N NE2   . GLN GUMK  1 125 ? -2.486  12.992  -9.581  1.00 77.70 125 GUMK  1 
+ATOM   953  N N     . ALA GUMK  1 126 ? -3.362  6.515   -9.704  1.00 98.41 126 GUMK  1 
+ATOM   954  C CA    . ALA GUMK  1 126 ? -2.556  5.301   -9.816  1.00 98.28 126 GUMK  1 
+ATOM   955  C C     . ALA GUMK  1 126 ? -3.102  4.308   -10.839 1.00 98.10 126 GUMK  1 
+ATOM   956  O O     . ALA GUMK  1 126 ? -2.355  3.495   -11.386 1.00 97.35 126 GUMK  1 
+ATOM   957  C CB    . ALA GUMK  1 126 ? -2.442  4.627   -8.451  1.00 98.14 126 GUMK  1 
+ATOM   958  N N     . LEU GUMK  1 127 ? -4.392  4.361   -11.106 1.00 97.44 127 GUMK  1 
+ATOM   959  C CA    . LEU GUMK  1 127 ? -5.025  3.452   -12.054 1.00 96.54 127 GUMK  1 
+ATOM   960  C C     . LEU GUMK  1 127 ? -4.717  3.850   -13.498 1.00 94.43 127 GUMK  1 
+ATOM   961  O O     . LEU GUMK  1 127 ? -4.406  5.012   -13.758 1.00 88.67 127 GUMK  1 
+ATOM   962  C CB    . LEU GUMK  1 127 ? -6.541  3.438   -11.844 1.00 94.88 127 GUMK  1 
+ATOM   963  C CG    . LEU GUMK  1 127 ? -7.052  2.746   -10.577 1.00 95.26 127 GUMK  1 
+ATOM   964  C CD1   . LEU GUMK  1 127 ? -8.539  3.018   -10.392 1.00 93.67 127 GUMK  1 
+ATOM   965  C CD2   . LEU GUMK  1 127 ? -6.798  1.246   -10.678 1.00 93.21 127 GUMK  1 
+ATOM   966  O OXT   . LEU GUMK  1 127 ? -4.818  2.968   -14.372 1.00 90.22 127 GUMK  1 
+HETATM 967  N N1    . UPG DONOR 2 .   ? 6.420   -9.167  4.127   1.00 97.35 1   DONOR 1 
+HETATM 968  C C2    . UPG DONOR 2 .   ? 6.286   -10.451 3.625   1.00 97.17 1   DONOR 1 
+HETATM 969  N N3    . UPG DONOR 2 .   ? 5.194   -11.180 3.994   1.00 97.35 1   DONOR 1 
+HETATM 970  C C4    . UPG DONOR 2 .   ? 4.228   -10.706 4.834   1.00 97.33 1   DONOR 1 
+HETATM 971  C C5    . UPG DONOR 2 .   ? 4.362   -9.391  5.338   1.00 96.04 1   DONOR 1 
+HETATM 972  C C6    . UPG DONOR 2 .   ? 5.456   -8.648  4.980   1.00 96.14 1   DONOR 1 
+HETATM 973  O O2    . UPG DONOR 2 .   ? 7.123   -10.951 2.855   1.00 95.67 1   DONOR 1 
+HETATM 974  O O4    . UPG DONOR 2 .   ? 3.281   -11.416 5.132   1.00 96.55 1   DONOR 1 
+HETATM 975  C C1C   . UPG DONOR 2 .   ? 7.604   -8.384  3.759   1.00 95.63 1   DONOR 1 
+HETATM 976  C C2C   . UPG DONOR 2 .   ? 7.297   -7.397  2.646   1.00 93.34 1   DONOR 1 
+HETATM 977  O O2C   . UPG DONOR 2 .   ? 8.321   -7.449  1.654   1.00 91.39 1   DONOR 1 
+HETATM 978  C C3C   . UPG DONOR 2 .   ? 7.276   -6.055  3.356   1.00 92.52 1   DONOR 1 
+HETATM 979  C C4C   . UPG DONOR 2 .   ? 8.272   -6.279  4.493   1.00 94.11 1   DONOR 1 
+HETATM 980  O O4C   . UPG DONOR 2 .   ? 8.073   -7.650  4.873   1.00 92.36 1   DONOR 1 
+HETATM 981  O O3C   . UPG DONOR 2 .   ? 7.678   -5.010  2.503   1.00 89.87 1   DONOR 1 
+HETATM 982  C C5C   . UPG DONOR 2 .   ? 8.077   -5.400  5.721   1.00 90.58 1   DONOR 1 
+HETATM 983  O O5C   . UPG DONOR 2 .   ? 6.753   -4.968  5.827   1.00 93.29 1   DONOR 1 
+HETATM 984  P PA    . UPG DONOR 2 .   ? 6.395   -3.888  6.931   1.00 94.71 1   DONOR 1 
+HETATM 985  O O1A   . UPG DONOR 2 .   ? 6.650   -4.474  8.280   1.00 85.44 1   DONOR 1 
+HETATM 986  O O2A   . UPG DONOR 2 .   ? 5.038   -3.336  6.663   1.00 86.44 1   DONOR 1 
+HETATM 987  O O3A   . UPG DONOR 2 .   ? 7.486   -2.736  6.745   1.00 93.69 1   DONOR 1 
+HETATM 988  P PB    . UPG DONOR 2 .   ? 7.802   -1.673  5.598   1.00 94.61 1   DONOR 1 
+HETATM 989  O O1B   . UPG DONOR 2 .   ? 7.695   -2.264  4.241   1.00 88.10 1   DONOR 1 
+HETATM 990  O O2B   . UPG DONOR 2 .   ? 6.984   -0.461  5.857   1.00 86.47 1   DONOR 1 
+HETATM 991  O O3B   . UPG DONOR 2 .   ? 9.323   -1.374  5.907   1.00 93.05 1   DONOR 1 
+HETATM 992  C "C1'" . UPG DONOR 2 .   ? 9.784   -1.258  7.230   1.00 91.80 1   DONOR 1 
+HETATM 993  C "C2'" . UPG DONOR 2 .   ? 10.925  -0.231  7.338   1.00 90.24 1   DONOR 1 
+HETATM 994  C "C3'" . UPG DONOR 2 .   ? 12.121  -0.705  6.505   1.00 87.58 1   DONOR 1 
+HETATM 995  C "C4'" . UPG DONOR 2 .   ? 12.570  -2.084  7.025   1.00 88.12 1   DONOR 1 
+HETATM 996  C "C5'" . UPG DONOR 2 .   ? 11.381  -3.079  6.976   1.00 87.45 1   DONOR 1 
+HETATM 997  C "C6'" . UPG DONOR 2 .   ? 11.802  -4.423  7.614   1.00 79.66 1   DONOR 1 
+HETATM 998  O "O2'" . UPG DONOR 2 .   ? 10.498  1.028   6.886   1.00 81.19 1   DONOR 1 
+HETATM 999  O "O3'" . UPG DONOR 2 .   ? 13.216  0.223   6.627   1.00 81.46 1   DONOR 1 
+HETATM 1000 O "O4'" . UPG DONOR 2 .   ? 13.620  -2.575  6.180   1.00 80.94 1   DONOR 1 
+HETATM 1001 O "O5'" . UPG DONOR 2 .   ? 10.271  -2.552  7.713   1.00 87.01 1   DONOR 1 
+HETATM 1002 O "O6'" . UPG DONOR 2 .   ? 10.713  -5.069  8.180   1.00 74.04 1   DONOR 1 
+#
