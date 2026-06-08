@@ -1,0 +1,23 @@
+{
+	"name": "GumK_donor_glca",
+	"modelSeeds": [1],
+	"sequences": [
+		{
+			"ligand": {
+				"ccdCodes": ["UGA"],
+				"id": "DONOR"
+			}
+		},
+		{
+			"protein": {
+				"sequence":"HAVAVGSMLFDPEFFVVASKAFPQVTFHVIGSGMGRHPGYGDNVIVYGEMKHAQTIGYIKHARFGIAPYASEQVPVYLADSSMKLLQYDFFGLPAVCPNAVVGPYKSRFGYTPGNADSVIAAITQAL",
+				"id": "GUMK"
+			}
+		}
+
+
+	],
+	"dialect": "alphafold3",
+	"version": 2
+
+}

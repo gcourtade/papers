@@ -1,0 +1,13 @@
+version: 1  # Optional, defaults to 1
+sequences:
+  - protein:
+      id: A
+      sequence: HAVAVGSMLFDPEFFVVASKAFPQVTFHVIGSGMGRHPGYGDNVIVYGEMKHAQTIGYIKHARFGIAPYASEQVPVYLADSSMKLLQYDFFGLPAVCPNAVVGPYKSRFGYTPGNADSVIAAITQAL
+
+  - ligand:
+      id: B
+      smiles: 'C1=CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)O[C@@H]3[C@@H]([C@H]([C@H]([C@H](O3)C(=O)O)O)O)O)O)O'
+
+properties:
+  - affinity:
+      binder: B

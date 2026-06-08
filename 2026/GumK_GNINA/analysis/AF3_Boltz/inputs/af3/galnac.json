@@ -1,0 +1,25 @@
+{
+	"name": "GumK_donor_galnac",
+	"modelSeeds": [1],
+	"sequences": [
+		{
+			"ligand": {
+				"ccdCodes": ["UD2"],
+				"id": "DONOR"
+			}
+		},
+		{
+			"protein": {
+				"sequence":"HAVAVGSMLFDPEFFVVASKAFPQVTFHVIGSGMGRHPGYGDNVIVYGEMKHAQTIGYIKHARFGIAPYASEQVPVYLADSSMKLLQYDFFGLPAVCPNAVVGPYKSRFGYTPGNADSVIAAITQAL",
+				"id": "GUMK"
+			}
+		}
+
+
+	],
+	"dialect": "alphafold3",
+	"version": 2
+
+
+
+}

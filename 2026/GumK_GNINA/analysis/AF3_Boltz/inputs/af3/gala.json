@@ -1,0 +1,29 @@
+{
+	"name": "GumK_donor_gala",
+	"modelSeeds": [1],
+	"sequences": [
+		{
+			"ligand": {
+				"ccdCodes": ["ADA","UDP"],
+				"id": "DONOR"
+			}
+		},
+		{
+			"protein": {
+				"sequence":"HAVAVGSMLFDPEFFVVASKAFPQVTFHVIGSGMGRHPGYGDNVIVYGEMKHAQTIGYIKHARFGIAPYASEQVPVYLADSSMKLLQYDFFGLPAVCPNAVVGPYKSRFGYTPGNADSVIAAITQAL",
+				"id": "GUMK"
+			}
+		}
+
+
+	],
+	"dialect": "alphafold3",
+	"version": 2,
+        "bondedAtomPairs": [
+		[["DONOR",1,"C1"],["DONOR",2,"O1B"]]
+	]
+
+
+
+
+}
