@@ -1,0 +1,23 @@
+{
+	"name": "GumK_donor_ugb",
+	"modelSeeds": [1],
+	"sequences": [
+		{
+			"ligand": {
+				"ccdCodes": ["UGB"],
+				"id": "DONOR"
+			}
+		},
+		{
+			"protein": {
+				"sequence":"HAVAVGSMLFDPEFFVVASKAFPQVTFHVIGSGMGRHPGYGDNVIVYGEMKHAQTIGYIKHARFGIAPYASEQVPVYLADSSMKLLQYDFFGLPAVCPNAVVGPYKSRFGYTPGNADSVIAAITQAL",
+				"id": "GUMK"
+			}
+		}
+
+
+	],
+	"dialect": "alphafold3",
+	"version": 2
+
+}
