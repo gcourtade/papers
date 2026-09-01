@@ -1,0 +1,2 @@
+Residues with freq > 0.85
+select binding_site, resi 1+2+3+4+5+8+14+16+17+18+19+23+24+25+26+29+33+34+42

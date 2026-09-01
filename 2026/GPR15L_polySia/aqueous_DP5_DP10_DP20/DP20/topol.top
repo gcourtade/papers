@@ -1,0 +1,23 @@
+; Include forcefield parameters
+#include "amber99sb-ildn.ff/forcefield.itp"
+#include "top/glycam06h.itp"
+#include "top/POL.itp"
+#include "top/prot.itp"
+
+
+; Include water topology
+#include "amber99sb-ildn.ff/tip3p.itp"
+
+; Include ions topology
+#include "amber99sb-ildn.ff/ions.itp"
+
+[ system ]
+; Name
+complex in water
+
+[ molecules ]
+; Compound        #mols
+Protein     1
+polySia     1
+SOL         42740
+NA               9

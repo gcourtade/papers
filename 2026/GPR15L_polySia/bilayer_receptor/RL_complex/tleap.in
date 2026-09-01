@@ -1,0 +1,8 @@
+source leaprc.protein.ff14SB   
+source leaprc.lipid21
+
+prot = loadpdb clean_bilayer_RL.pdb
+
+saveamberparm prot prot.prmtop prot.inpcrd 
+savepdb prot prot.pdb
+quit
