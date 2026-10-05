@@ -1,0 +1,7 @@
+Fitted parameters:
+kon (M-1 s-1): 19999.975000
+koff (s-1): 0.000000
+ki (s-1): 0.000000
+Gamma_max: 0.648074
+transition_time (s): 400.000000
+MSE: 0.028637
