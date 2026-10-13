@@ -1,0 +1,99 @@
+
+	str 
+		LVol_FWHM_CS_G_L( 0.89, 4.070641281, 0.89, 6.394148372,,,@, 7.184436373)
+		PV_Peak_Type(@, 0.0001_LIMIT_MIN_0.0001,@, 5.266115804,@, 0.0001_LIMIT_MIN_0.0001,@, 0.8775_LIMIT_MIN_0.0001,@, 0.305_LIMIT_MIN_0.0001,@, 0.305_LIMIT_MIN_0.0001)
+		r_bragg  1.131131499
+		phase_MAC 7.759581053
+		phase_name "Cellulose_Nishiyama"
+		MVW( 1285.02952, 589.0604331, 100)
+		space_group P1121
+		scale @ 0.003492965566
+		Phase_LAC_1_on_cm( 28.10871033)
+		Phase_Density_g_on_cm3( 3.622452054)
+		a @ 7.581248324 min =7.4; max =7.98;
+		b @ 7.692002193_LIMIT_MAX_7.78001769 min =7.5; max =8.3;
+		c @ 10.13552863_LIMIT_MIN_10 min =10.0; max =10.55;
+		ga @ 94.70617204_LIMIT_MIN_94.306172
+		site C11 num_posns 2 x  0.014 y  -0.042 z  0.0433 occ C  1 beq  2.84244607
+		site H11 num_posns 2 x  0.1382 y  -0.0188 z  0.0598 occ H  1 beq  3.39514391
+		site C21 num_posns 2 x  -0.026 y  -0.184 z  -0.0516 occ C  1 beq  2.84244607
+		site H21 num_posns 2 x  -0.1508 y  -0.2177 z  -0.0546 occ H  1 beq  3.39514391
+		site C31 num_posns 2 x  0.04 y  -0.137 z  -0.1848 occ C  1 beq  2.84244607
+		site H31 num_posns 2 x  0.1667 y  -0.1323 z  -0.184 occ H  1 beq  3.39514391
+		site C41 num_posns 2 x  -0.007 y  0.03 z  -0.225 occ C  1 beq  2.84244607
+		site H41 num_posns 2 x  -0.1316 y  0.0176 z  -0.2425 occ H  1 beq  3.39514391
+		site C51 num_posns 2 x  0.026 y  0.159 z  -0.1232 occ C  1 beq  2.84244607
+		site H51 num_posns 2 x  0.1507 y  0.1821 z  -0.109 occ H  1 beq  3.39514391
+		site C61 num_posns 2 x  -0.047 y  0.319 z  -0.153 occ C  1 beq  2.84244607
+		site H61A num_posns 2 x  -0.1672 y  0.2959 z  -0.1778 occ H  1 beq  3.39514391
+		site H61B num_posns 2 x  -0.0407 y  0.3872 z  -0.0765 occ H  1 beq  3.39514391
+		site O21 num_posns 2 x  0.061 y  -0.314 z  -0.0003 occ O  1 beq  2.84244607
+		site O31 num_posns 2 x  -0.027 y  -0.261 z  -0.2759 occ O  1 beq  2.84244607
+		site O11 num_posns 2 x  0.079 y  0.086 z  -0.3424 occ O  1 beq  2.84244607
+		site O51 num_posns 2 x  -0.056 y  0.099 z  -0.0053 occ O  1 beq  2.84244607
+		site O61 num_posns 2 x  0.048 y  0.403 z  -0.254 occ O  1 beq  2.84244607
+		site C12 num_posns 2 x  0.533 y  0.455 z  0.3043 occ C  1 beq  2.84244607
+		site H12 num_posns 2 x  0.6577 y  0.4616 z  0.32 occ H  1 beq  3.39514391
+		site C22 num_posns 2 x  0.475 y  0.3178 z  0.2094 occ C  1 beq  2.84244607
+		site H22 num_posns 2 x  0.348 y  0.3058 z  0.2052 occ H  1 beq  3.39514391
+		site C32 num_posns 2 x  0.545 y  0.363 z  0.0765 occ C  1 beq  2.84244607
+		site H32 num_posns 2 x  0.6716 y  0.3753 z  0.0793 occ H  1 beq  3.39514391
+		site C42 num_posns 2 x  0.482 y  0.526 z  0.0375 occ C  1 beq  2.84244607
+		site H42 num_posns 2 x  0.3561 y  0.5139 z  0.0289 occ H  1 beq  3.39514391
+		site C52 num_posns 2 x  0.541 y  0.6574 z  0.1388 occ C  1 beq  2.84244607
+		site H52 num_posns 2 x  0.667 y  0.683 z  0.137 occ H  1 beq  3.39514391
+		site C62 num_posns 2 x  0.452 y  0.815 z  0.1125 occ C  1 beq  2.84244607
+		site H62A num_posns 2 x  0.3341 y  0.7843 z  0.0847 occ H  1 beq  3.39514391
+		site H62B num_posns 2 x  0.4491 y  0.8778 z  0.1916 occ H  1 beq  3.39514391
+		site O22 num_posns 2 x  0.528 y  0.166 z  0.252 occ O  1 beq  2.84244607
+		site O32 num_posns 2 x  0.486 y  0.233 z  -0.0081 occ O  1 beq  2.84244607
+		site O12 num_posns 2 x  0.563 y  0.586 z  -0.0806 occ O  1 beq  2.84244607
+		site O52 num_posns 2 x  0.485 y  0.607 z  0.2639 occ O  1 beq  2.84244607
+		site O62 num_posns 2 x  0.542 y  0.914 z  0.017 occ O  1 beq  2.84244607
+		site C11 num_posns 2 x  0.0138 y  -0.0415 z  0.0433 occ C  1 beq  1.97392088
+		site H11 num_posns 2 x  0.1382 y  -0.0188 z  0.0598 occ H  1 beq  2.36870506
+		site C21 num_posns 2 x  -0.026 y  -0.1843 z  -0.0516 occ C  1 beq  1.97392088
+		site H21 num_posns 2 x  -0.1508 y  -0.2177 z  -0.0546 occ H  1 beq  2.36870506
+		site C31 num_posns 2 x  0.0403 y  -0.1369 z  -0.1848 occ C  1 beq  1.97392088
+		site H31 num_posns 2 x  0.1667 y  -0.1323 z  -0.184 occ H  1 beq  2.36870506
+		site C41 num_posns 2 x  -0.0071 y  0.0304 z  -0.225 occ C  1 beq  1.97392088
+		site H41 num_posns 2 x  -0.1316 y  0.0176 z  -0.2425 occ H  1 beq  2.36870506
+		site C51 num_posns 2 x  0.0258 y  0.1594 z  -0.1232 occ C  1 beq  1.97392088
+		site H51 num_posns 2 x  0.1507 y  0.1821 z  -0.109 occ H  1 beq  2.36870506
+		site C61 num_posns 2 x  -0.0467 y  0.3187 z  -0.1529 occ C  1 beq  1.97392088
+		site H61A num_posns 2 x  -0.1672 y  0.2959 z  -0.1778 occ H  1 beq  2.36870506
+		site H61B num_posns 2 x  -0.0407 y  0.3872 z  -0.0765 occ H  1 beq  2.36870506
+		site O21 num_posns 2 x  0.0609 y  -0.3144 z  -0.0003 occ O  1 beq  1.97392088
+		site D21A num_posns 2 x  0.0366 y  -0.3194 z  0.092 occ D  1 beq  3.00035974
+		site D21B num_posns 2 x  -0.0001 y  -0.3537 z  0.0771 occ D  0 beq  3.00035974
+		site O31 num_posns 2 x  -0.0268 y  -0.2607 z  -0.2759 occ O  1 beq  1.97392088
+		site D31 num_posns 2 x  0.0475 y  -0.24 z  -0.3517 occ D  1 beq  3.00035974
+		site O11 num_posns 2 x  0.0786 y  0.0865 z  -0.3424 occ O  1 beq  1.97392088
+		site O51 num_posns 2 x  -0.0556 y  0.0991 z  -0.0053 occ O  1 beq  1.97392088
+		site O61 num_posns 2 x  0.048 y  0.403 z  -0.254 occ O  1 beq  1.97392088
+		site D61A num_posns 2 x  -0.0144 y  0.4924 z  -0.285 occ D  0.85 beq  3.00035974
+		site D61B num_posns 2 x  0.0292 y  0.3391 z  -0.3329 occ D  0.15 beq  3.00035974
+		site C12 num_posns 2 x  0.5329 y  0.4548 z  0.3043 occ C  1 beq  1.97392088
+		site H12 num_posns 2 x  0.6577 y  0.4616 z  0.32 occ H  1 beq  2.36870506
+		site C22 num_posns 2 x  0.4745 y  0.3178 z  0.2094 occ C  1 beq  1.97392088
+		site H22 num_posns 2 x  0.348 y  0.3058 z  0.2052 occ H  1 beq  2.36870506
+		site C32 num_posns 2 x  0.5449 y  0.3626 z  0.0765 occ C  1 beq  1.97392088
+		site H32 num_posns 2 x  0.6716 y  0.3753 z  0.0793 occ H  1 beq  2.36870506
+		site C42 num_posns 2 x  0.4823 y  0.5263 z  0.0375 occ C  1 beq  1.97392088
+		site H42 num_posns 2 x  0.3561 y  0.5139 z  0.0289 occ H  1 beq  2.36870506
+		site C52 num_posns 2 x  0.5409 y  0.6574 z  0.1388 occ C  1 beq  1.97392088
+		site H52 num_posns 2 x  0.667 y  0.683 z  0.137 occ H  1 beq  2.36870506
+		site C62 num_posns 2 x  0.4523 y  0.8151 z  0.1125 occ C  1 beq  1.97392088
+		site H62A num_posns 2 x  0.3341 y  0.7843 z  0.0847 occ H  1 beq  2.36870506
+		site H62B num_posns 2 x  0.4491 y  0.8778 z  0.1916 occ H  1 beq  2.36870506
+		site O22 num_posns 2 x  0.5277 y  0.1664 z  0.252 occ O  1 beq  1.97392088
+		site D22A num_posns 2 x  0.5035 y  0.1593 z  0.3448 occ D  0.57 beq  3.00035974
+		site D22B num_posns 2 x  0.4667 y  0.0793 z  0.1994 occ D  0.43 beq  3.00035974
+		site O32 num_posns 2 x  0.4865 y  0.2326 z  -0.0081 occ O  1 beq  1.97392088
+		site D32 num_posns 2 x  0.5104 y  0.2733 z  -0.0961 occ D  1 beq  3.00035974
+		site O12 num_posns 2 x  0.5625 y  0.5859 z  -0.0806 occ O  1 beq  1.97392088
+		site O52 num_posns 2 x  0.485 y  0.607 z  0.2639 occ O  1 beq  1.97392088
+		site O62 num_posns 2 x  0.542 y  0.9137 z  0.0169 occ O  1 beq  1.97392088
+		site D62A num_posns 2 x  0.5184 y  1.0275 z  0.0326 occ D  0.68 beq  3.00035974
+		site D62B num_posns 2 x  0.5345 y  0.8543 z  -0.0646 occ D  0.32 beq  3.00035974
+		Preferred_Orientation(@, 0.9693090187,, 0 0 1)

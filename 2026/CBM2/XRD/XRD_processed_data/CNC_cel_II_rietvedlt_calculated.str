@@ -1,0 +1,59 @@
+
+	str 
+		LVol_FWHM_CS_G_L( 1, 14.73184273, 0.89, 20.59524476,,,@, 23.14072445)
+		PV_Peak_Type(@, 0.03754528065_LIMIT_MIN_0.0001,@, 8.002605435,@, 0.178895728_LIMIT_MIN_0.0001,@, 0.0001_LIMIT_MIN_0.0001,@, 0.0811223692_LIMIT_MIN_0.0001,@, 0.003179031869_LIMIT_MIN_0.0001)
+		r_bragg  1.214120899
+		phase_MAC 7.690870884
+		phase_name "Cellulose_II"
+		MVW( 648.5624, 675.5634649, 54.74636414)
+		space_group P1121
+		scale @ 0.01454132354
+		Phase_LAC_1_on_cm( 12.26056621)
+		Phase_Density_g_on_cm3( 1.594171374)
+		a @ 8.081876456
+		b @ 9.077295957
+		c @ 10.31240513_LIMIT_MAX_10.4134568
+		ga @ 116.750977_LIMIT_MAX_116.950977
+		site O1 num_posns 2 x  -0.27828 y  0.09159 z  0.32202 occ O  1 beq  2.36870506
+		site O2 num_posns 2 x  -0.20948 y  0.07994 z  0.06522 occ O  1 beq  2.36870506
+		site O3 num_posns 2 x  0.00503 y  -0.0986 z  -0.00249 occ O  1 beq  2.36870506
+		site O4 num_posns 2 x  0.12862 y  0.0209 z  0.33371 occ O  1 beq  2.36870506
+		site O5 num_posns 2 x  0.23721 y  0.61308 z  -0.08446 occ O  1 beq  2.36870506
+		site O6 num_posns 2 x  0.23601 y  0.49474 z  0.16576 occ O  1 beq  2.36870506
+		site O7 num_posns 2 x  0.61908 y  0.52912 z  0.23437 occ O  1 beq  2.36870506
+		site O8 num_posns 2 x  0.55752 y  0.43603 z  -0.10737 occ O  1 beq  2.36870506
+		site O9 num_posns 2 x  0.878 y  0.42413 z  -0.08178 occ O  1 beq  2.36870506
+		site O10 num_posns 2 x  0.33943 y  -0.14636 z  0.29197 occ O  1 beq  2.36870506
+		site C11 num_posns 2 x  -0.04006 y  0.01515 z  0.37986 occ C  1 beq  2.36870506
+		site C12 num_posns 2 x  -0.10982 y  0.09741 z  0.28208 occ C  1 beq  2.36870506
+		site C13 num_posns 2 x  -0.14411 y  0.00339 z  0.1554 occ C  1 beq  2.36870506
+		site C14 num_posns 2 x  0.03332 y  -0.00067 z  0.11241 occ C  1 beq  2.36870506
+		site C15 num_posns 2 x  0.10252 y  -0.07499 z  0.21815 occ C  1 beq  2.36870506
+		site C16 num_posns 2 x  0.28272 y  -0.07852 z  0.19005 occ C  1 beq  2.36870506
+		site C17 num_posns 2 x  0.46991 y  0.53196 z  -0.14808 occ C  1 beq  2.36870506
+		site C18 num_posns 2 x  0.3219 y  0.51038 z  -0.05104 occ C  1 beq  2.36870506
+		site C19 num_posns 2 x  0.3937 y  0.55009 z  0.08579 occ C  1 beq  2.36870506
+		site C20 num_posns 2 x  0.51577 y  0.46706 z  0.11751 occ C  1 beq  2.36870506
+		site C21 num_posns 2 x  0.65617 y  0.49702 z  0.01119 occ C  1 beq  2.36870506
+		site C22 num_posns 2 x  0.77083 y  0.4068 z  0.03074 occ C  1 beq  2.36870506
+		site H23 num_posns 2 x  -0.14435 y  -0.11539 z  0.39254 occ H  1 beq  3.07931657
+		site H24 num_posns 2 x  -0.00224 y  0.22578 z  0.26623 occ H  1 beq  3.07931657
+		site H25 num_posns 2 x  -0.24944 y  -0.12544 z  0.17432 occ H  1 beq  3.07931657
+		site H26 num_posns 2 x  0.13852 y  0.12695 z  0.0921 occ H  1 beq  3.07931657
+		site H27 num_posns 2 x  -0.00502 y  -0.20295 z  0.2363 occ H  1 beq  3.07931657
+		site H28 num_posns 2 x  0.26603 y  -0.14777 z  0.09941 occ H  1 beq  3.07931657
+		site H29 num_posns 2 x  0.39334 y  0.04771 z  0.17472 occ H  1 beq  3.07931657
+		site H30 num_posns 2 x  0.57324 y  0.66367 z  -0.15722 occ H  1 beq  3.07931657
+		site H31 num_posns 2 x  0.21714 y  0.3796 z  -0.05481 occ H  1 beq  3.07931657
+		site H32 num_posns 2 x  0.47814 y  0.68541 z  0.09492 occ H  1 beq  3.07931657
+		site H33 num_posns 2 x  0.42743 y  0.33266 z  0.12735 occ H  1 beq  3.07931657
+		site H34 num_posns 2 x  0.74794 y  0.63091 z  0.0019 occ H  1 beq  3.07931657
+		site H35 num_posns 2 x  0.86062 y  0.4557 z  0.11542 occ H  1 beq  3.07931657
+		site H36 num_posns 2 x  0.68208 y  0.27432 z  0.04664 occ H  1 beq  3.07931657
+		site H37 num_posns 2 x  0.27321 y  0.53924 z  0.2541 occ H  1 beq  3.07931657
+		site H38 num_posns 2 x  0.25129 y  0.63615 z  -0.17777 occ H  1 beq  3.07931657
+		site H39 num_posns 2 x  -0.26179 y  0.1449 z  0.40668 occ H  1 beq  3.07931657
+		site H40 num_posns 2 x  -0.21683 y  0.0335 z  -0.02245 occ H  1 beq  3.07931657
+		site H41 num_posns 2 x  1.01142 y  0.50186 z  -0.06899 occ H  1 beq  3.07931657
+		site H42 num_posns 2 x  0.23594 y  -0.2498 z  0.32518 occ H  1 beq  3.07931657
+		Preferred_Orientation(@, 1,, 0 0 1)
