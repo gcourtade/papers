@@ -1,0 +1,79 @@
+Before removing points 
+-----R1, BaCBM2 BHET-----
+Average relaxation rate for the free state is 0.5452641910921513
+Average relaxation rate for the bound state is 0.6057133382200964
+Average delta R 0.06044914712794502
+Average relative delta R 1.1121895029866375
+-----R2, BaCBM2 BHET-----
+Average relaxation rate for the free state is 26.9999624347794
+Average relaxation rate for the bound state is 27.331810342610957
+Average delta R 0.33184790783156193
+Average relative delta R 1.0185896176759404
+-----R1 PRE, BaCBM2 BHET-----
+Average PRE for the free state is 0.38136908705639516
+Average PRE for the bound state is 0.3592324715472018
+Average delta PRE -0.022136615509193495
+Average relative delta PRE 0.9981511415148189
+-----R2 PRE, BaCBM2 BHET-----
+Average PRE for the free state is 10.80676447023402
+Average PRE for the bound state is 9.888006744039645
+Average delta PRE -0.9187577261943745
+Average relative delta PRE 0.48187083889340043
+
+After removing points 
+
+-----R2, BaCBM2 BHET-----
+REMOVE above 2x mean error in change
+points removed, R2: [-1, 19, 28, 49, 58, 67]
+Average free state 26.05285933382973
+Average bound state 26.71135722655783
+Average change 2.66709756428263
+
+REMOVE ABOVE 2x mean error in relative change
+points removed, rel, R2: [16] + [78]
+Average free state 26.036491014208266
+Average bound state 26.689343193394024
+Average change 2.586052853572945
+Average relative change 1.0272908343490053
+
+-----PRE_R2, BaCBM2 BHET-----
+REMOVE above 2x mean error in change
+points removed, PRE_R2: [18, 38, 41, 49, 74, 76, 78, 87]
+Average free state 10.73626848227515
+Average bound state 9.518308713596403
+Average change 3.4247975482382604
+
+REMOVE ABOVE 2x mean error in relative change
+points removed, rel, PRE_R2: [58] + [17, 21, 22, 34, 48, 59, 67]
+Average free state 12.084583242139086
+Average bound state 9.980436769249398
+Average change 3.209460388019372
+Average relative change 0.8557465065291262
+
+-----R1, BaCBM2 BHET-----
+REMOVE above 2x mean error in change
+points removed, R1: [-1, 0]
+Average free state 0.5288302051457968
+Average bound state 0.586627176081977
+Average change 0.06613774816814187
+
+REMOVE ABOVE 2x mean error in relative change
+points removed, rel, R1: [15] + []
+Average free state 0.5311651107036353
+Average bound state 0.5887849372648531
+Average change 0.06605339345126772
+Average relative change 1.110301034893545
+
+-----PRE_R1, BaCBM2 BHET-----
+REMOVE above 2x mean error in change
+points removed, PRE_R1: [12, 88]
+Average free state 0.3772895567991711
+Average bound state 0.3566294117496952
+Average change 0.07426999611936781
+
+REMOVE ABOVE 2x mean error in relative change
+points removed, rel, PRE_R1: [91] + [32, 47, 48, 76]
+Average free state 0.39344286416918267
+Average bound state 0.36432983372501
+Average change 0.072128365670862
+Average relative change 0.9317957839224478
